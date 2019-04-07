@@ -28,10 +28,8 @@ Some recent projects:
   [(link)](https://ui.adsabs.harvard.edu/abs/2017arXiv170508891B/abstract)
   [(data products)](https://scholar.princeton.edu/jwinn/extended-mission-simulations)
 
-I've recently also been working on a
-[project](https://heasarc.gsfc.nasa.gov/docs/tess/data/approved-programs/G011103.txt)
-to make lightcurves for stars in open clusters and moving groups from the TESS
-full frame images.
+I've recently also been working on a project to make lightcurves for stars in
+open clusters and moving groups from the TESS full frame images.
 
 [Click here for a full list of my
 publications](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22bouma%2C%20l%22)&sort=date%20desc%2C%20bibcode%20desc).
