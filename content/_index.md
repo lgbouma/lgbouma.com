@@ -3,9 +3,10 @@
 I am currently a doctoral student in Princeton's Department of Astrophysical
 Sciences. 
 
-Most of my graduate research has been in the flourishing field of exoplanetary
-transits. In particular, I'm trying to understand the formation, evolution, and
-long-term fates of planetary systems.
+Most of my graduate research has been in exoplanetary and stellar astrophysics.
+One of my main research interests is understanding the formation, evolution,
+and long-term fates of planetary systems. One way I do this is with the
+[transit method](http://www.iac.es/proyecto/tep/transitmet.html).
 
 Some recent projects:
 
