@@ -3,17 +3,18 @@
 I am currently a doctoral student in Princeton's Department of Astrophysical
 Sciences. 
 
-Most of my graduate research has been in exoplanetary and stellar astrophysics.
-One of my main research interests is understanding the formation, evolution,
-and long-term fates of planetary systems. One way I do this is with the
-[transit method](http://www.iac.es/proyecto/tep/transitmet.html).
+Most of my graduate research is in exoplanetary and stellar astrophysics.  My
+main research interests are in observing and understanding the formation,
+evolution, and long-term fates of planetary systems. One way I pursue these
+goals is with the [transit
+method](http://www.iac.es/proyecto/tep/transitmet.html).
 
 Some recent projects:
 
 * Discovery that the hot Jupiter WASP-4b appears to have arrived early for the
   [TESS mission](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite).
   Its orbital period also appears to be shrinking.
-  [(link)](https://ui.adsabs.harvard.edu/abs/2019arXiv190302573B/abstract). 
+  [(link)](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract). 
 
 * An analytic exploration of how unresolved binaries affect planet occurrence
   rates measured by transit surveys.
@@ -34,6 +35,7 @@ open clusters and moving groups from the TESS full frame images.
 [Click here for a full list of my
 publications](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22bouma%2C%20l%22)&sort=date%20desc%2C%20bibcode%20desc).
 
-[///++]
+[Click here for a two-page
+CV](https://www.dropbox.com/s/hvid49pj3586hfi/LukeBouma_CV_20190717.pdf?dl=0).
 
-Last updated: 2019/04/06 08:42:18 PM EDT
+Last updated: 2019/07/17 03:32:42 PM EDT
