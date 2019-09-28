@@ -13,7 +13,8 @@ Some recent projects have included:
 
 * Creating light curves of stars in open clusters and moving groups from the
   TESS full frame images. The first data release covers about one sixth of the
-  galactic plane.  (paper, data products).
+  galactic plane.
+  [(paper)](/pdfs/cdips-I.pdf).
 
 * Discovering that the hot Jupiter WASP-4b appears to have arrived early for the
   [TESS mission](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite).
