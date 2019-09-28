@@ -9,28 +9,29 @@ evolution, and long-term fates of planetary systems. One way I pursue these
 goals is with the [transit
 method](http://www.iac.es/proyecto/tep/transitmet.html).
 
-Some recent projects:
+Some recent projects have included:
 
-* Discovery that the hot Jupiter WASP-4b appears to have arrived early for the
+* Creating light curves of stars in open clusters and moving groups from the
+  TESS full frame images. The first data release covers about one sixth of the
+  galactic plane.  (paper, data products).
+
+* Discovering that the hot Jupiter WASP-4b appears to have arrived early for the
   [TESS mission](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite).
   Its orbital period also appears to be shrinking.
-  [(link)](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract). 
+  [(paper)](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract). 
 
-* An analytic exploration of how unresolved binaries affect planet occurrence
-  rates measured by transit surveys.
-  [(link)](https://ui.adsabs.harvard.edu/abs/2018AJ....155..244B/abstract). 
+* Analytically exploring how unresolved binaries affect planet occurrence rates
+  measured by transit surveys.
+  [(paper)](https://ui.adsabs.harvard.edu/abs/2018AJ....155..244B/abstract). 
 
-* Analysis of the tidal evolution of hot Jupiters, and inference of how
-  quickly friction in their host stars leads to their demise.
-  [(link)](https://ui.adsabs.harvard.edu/abs/2018AJ....155..165P/abstract)
+* Analyzing the tidal evolution of hot Jupiters, and inferring how quickly
+  friction in their host stars leads to their demise.
+  [(paper)](https://ui.adsabs.harvard.edu/abs/2018AJ....155..165P/abstract)
 
-* Simulations of possible TESS Extended Missions, to understand what we can and
+* Simulating possible TESS Extended Missions, to understand what we can and
   should do with this instrument.
-  [(link)](https://ui.adsabs.harvard.edu/abs/2017arXiv170508891B/abstract)
+  [(paper)](https://ui.adsabs.harvard.edu/abs/2017arXiv170508891B/abstract)
   [(data products)](https://scholar.princeton.edu/jwinn/extended-mission-simulations)
-
-As part of my thesis work, I've recently also been making light curves of stars
-in open clusters and moving groups from the TESS full frame images.
 
 [Click here for a full list of my
 publications](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22bouma%2C%20l%22)&sort=date%20desc%2C%20bibcode%20desc).
@@ -38,4 +39,4 @@ publications](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=O
 [Click here for a two-page
 CV](https://www.dropbox.com/s/hvid49pj3586hfi/LukeBouma_CV_20190717.pdf?dl=0).
 
-Last updated: 2019/07/17 03:32:42 PM EDT
+Last updated: Sat Sep 28 11:02:13 2019
