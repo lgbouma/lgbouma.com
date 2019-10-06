@@ -5,9 +5,8 @@ Sciences.
 
 Most of my graduate research is in exoplanetary and stellar astrophysics.  My
 main research interests are in observing and understanding the formation,
-evolution, and long-term fates of planetary systems. One way I pursue these
-goals is with the [transit
-method](http://www.iac.es/proyecto/tep/transitmet.html).
+evolution, and long-term fates of planetary systems. 
+One way I pursue these goals is with the [transit method](https://arxiv.org/abs/1001.2010).
 
 Some recent projects have included:
 
