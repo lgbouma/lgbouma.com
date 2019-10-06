@@ -13,8 +13,10 @@ Some recent projects have included:
 
 * Creating and analyzing light curves of stars in open clusters and moving
   groups, using the TESS full frame images. The first data release covers about
-  one sixth of the galactic plane.
-  [(paper)](/pdfs/cdips-I.pdf).
+  one sixth of the galactic plane.  The point is to find planets with known
+  ages, and to enable projects in stellar astrophysics.
+  [(paper)](https://arxiv.org/abs/1910.01133/)
+  [(data products)](http://archive.stsci.edu/hlsp/cdips)
 
 * Discovering that the hot Jupiter WASP-4b appears to have arrived early for the
   [TESS mission](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite).
@@ -37,7 +39,6 @@ Some recent projects have included:
 [Click here for a full list of my
 publications](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22bouma%2C%20l%22)&sort=date%20desc%2C%20bibcode%20desc).
 
-[Click here for a two-page
-CV](https://www.dropbox.com/s/hvid49pj3586hfi/LukeBouma_CV_20190717.pdf?dl=0).
+[Click here for a two-page CV](/pdfs/LukeBouma_CV_20190717.pdf).
 
-Last updated: Sat Sep 28 11:02:13 2019
+Last updated: Sun Oct  6 12:25:46 2019
