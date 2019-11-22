@@ -1,10 +1,10 @@
 # Luke Bouma
 
-I am currently a doctoral student in Princeton's Department of Astrophysical
+Welcome!  I am a doctoral student in Princeton's Department of Astrophysical
 Sciences. 
 
 Most of my graduate research is in exoplanetary and stellar astrophysics.  My
-main research interests are in observing and understanding the formation,
+research interests are in observing and understanding the formation,
 evolution, and long-term fates of planetary systems. 
 One way I pursue these goals is with the [transit method](https://arxiv.org/abs/1001.2010).
 
@@ -12,8 +12,8 @@ Some recent projects have included:
 
 * Creating and analyzing light curves of stars in open clusters and moving
   groups, using the TESS full frame images. The first data release covers about
-  one sixth of the galactic plane.  The point is to find planets with known
-  ages, and to enable projects in stellar astrophysics.
+  one sixth of the galactic plane.  The eventual aims are to find planets with
+  known ages, and to enable studies in stellar astrophysics.
   [(paper)](https://arxiv.org/abs/1910.01133/)
   [(data products)](http://archive.stsci.edu/hlsp/cdips)
 
