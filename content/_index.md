@@ -14,7 +14,7 @@ Some recent projects have included:
   groups, using the TESS full frame images. The first analysis covers about
   one sixth of the galactic plane.  The eventual aims are to find planets with
   known ages, and to enable studies in stellar astrophysics.
-  [(paper)](https://arxiv.org/abs/1910.01133/)
+  [(paper)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract)
   [(data products)](http://archive.stsci.edu/hlsp/cdips)
 
 * Discovering that the hot Jupiter WASP-4b appears to have arrived early for the
