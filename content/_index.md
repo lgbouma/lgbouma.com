@@ -15,7 +15,9 @@ Some recent projects have included:
   one sixth of the galactic plane.  The eventual aims are to find planets with
   known ages, and to enable studies in stellar astrophysics.
   [(paper)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract)
-  [(data products)](http://archive.stsci.edu/hlsp/cdips)
+  [(light curves)](http://archive.stsci.edu/hlsp/cdips)
+  [(planet candidates)](https://exofop.ipac.caltech.edu/tess/view_ctoi.php)
+  [(vetting report description document)](/pdfs/20191127_sector_6_and_sector_7_vetting_report_description_document.pdf)
 
 * Discovering that the hot Jupiter WASP-4b appears to have arrived early for the
   [TESS mission](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite).
