@@ -11,8 +11,8 @@ One way I pursue these goals is with the [transit method](https://arxiv.org/abs/
 Some recent projects have included:
 
 * Creating and analyzing light curves of stars in open clusters and moving
-  groups, using the TESS full frame images. The first analysis covers about
-  one sixth of the galactic plane.  The eventual aims are to find planets with
+  groups, using the TESS full frame images. So far, I've analyzed about
+  one third of the galactic plane.  The eventual aims are to find planets with
   known ages, and to enable studies in stellar astrophysics.
   [(paper)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract)
   [(light curves)](http://archive.stsci.edu/hlsp/cdips)
