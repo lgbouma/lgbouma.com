@@ -57,6 +57,10 @@ pygmentsStyle = "vs"
     name = "publications"
     weight = 2
   [[menu.footer]]
+    url = "/notes/"
+    name = "notes"
+    weight = 3
+  [[menu.footer]]
     url = "/oddities/"
     name = "oddities"
     weight = 3
