@@ -12,7 +12,7 @@ Some recent projects have included:
 
 * Creating and analyzing light curves of stars in open clusters and moving
   groups, using the TESS full frame images. So far, I've analyzed about
-  one third of the galactic plane.  The eventual aims are to find planets with
+  one third of the galactic plane.  The aims are to find planets with
   known ages, and to enable studies in stellar astrophysics.
   [(paper)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract)
   [(light curves)](http://archive.stsci.edu/hlsp/cdips)
