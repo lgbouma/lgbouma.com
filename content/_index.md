@@ -17,7 +17,7 @@ Some recent projects have included:
   [(paper)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract)
   [(light curves)](http://archive.stsci.edu/hlsp/cdips)
   [(planet candidates)](https://exofop.ipac.caltech.edu/tess/view_ctoi.php)
-  [(vetting report description documents)](/cdips_documentation/20191127_sector_6_and_sector_7_vetting_report_description_document.pdf)
+  [(vetting report description documents)](http://lgbouma.com/notes/)
 
 * Discovering that the hot Jupiter WASP-4b appears to have arrived early for the
   [TESS mission](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite).
