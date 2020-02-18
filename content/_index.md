@@ -12,8 +12,8 @@ Some recent projects have included:
 
 * Creating and analyzing light curves of stars in open clusters and moving
   groups, using the TESS full frame images. Roughly one third of the galactic
-  plane has been processed.  The eventual aims are to find planets with known
-  ages, and to enable studies in stellar astrophysics.
+  plane has been processed.  The aims are to find planets with known ages, and
+  to enable studies in stellar astrophysics.
   [(paper)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract)
   [(light curves)](http://archive.stsci.edu/hlsp/cdips)
   [(planet candidates)](https://exofop.ipac.caltech.edu/tess/view_ctoi.php)
@@ -43,6 +43,6 @@ work!
 [A full list of my publications is available
 here.](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22bouma%2C%20l%22)&sort=date%20desc%2C%20bibcode%20desc)
 
-[A two-page CV is available here.](/pdfs/LukeBouma_CV_20191126.pdf)
+[An academic CV is available here.](/pdfs/LukeBouma_CV_20200211.pdf)
 
 Last updated: Tue Nov 26 14:47:29 2019
