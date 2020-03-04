@@ -11,18 +11,20 @@ One way I pursue these goals is with the [transit method](https://arxiv.org/abs/
 Some recent projects have included:
 
 * Creating and analyzing light curves of stars in open clusters and moving
-  groups, using the TESS full frame images. Roughly one third of the galactic
-  plane has been processed.  The aims are to find planets with known ages, and
-  to enable studies in stellar astrophysics.
+  groups, using the
+  [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite)
+  full frame images. The aims are to find planets with known ages, and to
+  enable studies in stellar astrophysics.
   [(paper)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract)
   [(light curves)](http://archive.stsci.edu/hlsp/cdips)
   [(planet candidates)](https://exofop.ipac.caltech.edu/tess/view_ctoi.php)
   [(vetting report description documents)](http://lgbouma.com/notes/)
 
-* Discovering that the hot Jupiter WASP-4b appears to have arrived early for the
-  [TESS mission](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite).
-  Its orbital period also appears to be shrinking.
+* Discovering that the orbital period of the hot Jupiter WASP-4b is shrinking.
   [(paper)](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract). 
+  We subsequently showed that the period decrease is likely explained through
+  the Doppler effect induced on the host star by an outer brown dwarf or low mass
+  stellar companion [(pre-print)](https://github.com/lgbouma/WASP-4b_anomaly/blob/master/paper/ms.pdf).
 
 * Analytically exploring how unresolved binaries affect planet occurrence rates
   measured by transit surveys.
@@ -43,6 +45,6 @@ work!
 [A full list of my publications is available
 here.](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22bouma%2C%20l%22)&sort=date%20desc%2C%20bibcode%20desc)
 
-[An academic CV is available here.](/pdfs/LukeBouma_CV_20200211.pdf)
+[An academic CV is available here.](/pdfs/LukeBouma_CV_20200304.pdf)
 
 Last updated: Tue Nov 26 14:47:29 2019
