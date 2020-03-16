@@ -47,4 +47,4 @@ here.](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filte
 
 [An academic CV is available here.](/pdfs/LukeBouma_CV_20200304.pdf)
 
-Last updated: Tue Nov 26 14:47:29 2019
+Last updated: Mon 16 Mar 2020 07:15:44 PM EDT
