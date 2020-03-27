@@ -1,3 +1,10 @@
+![clouds](/images/clouds.jpg)
+<center>Clouds in Princeton</center>
+
+![tesslaunch](/images/tesslaunch.jpg)
+<center>Me, about 30 minutes before TESS was shot into space on a Falcon
+9.</center>
+
 ![clouds](/images/saturn_ISO500_halfsec_0_heavy_wavelet_rings_5_crop.png)
 <center>Saturn. The [Cassini
 Division](https://en.wikipedia.org/wiki/Rings_of_Saturn#Cassini_Division) is
@@ -10,9 +17,6 @@ took about 5 minutes of video, which I then ran through Registax 6 and clipped
 to the best ~10% of exposures after alignment. I then stacked, ran a
 wavelet transform, and cropped, yielding the image you see with your two eyes. </center>
 
-![clouds](/images/clouds.jpg)
-<center>Clouds in Princeton</center>
-
 ![cheesin](/images/cheesin.jpg)
 <center>Me</center>
 
@@ -22,12 +26,8 @@ wavelet transform, and cropped, yielding the image you see with your two eyes. <
 ![cruise](/images/cruise.jpg)
 <center>La Palma, from the Norweigan Epic</center>
 
-![tesslaunch](/images/tesslaunch.jpg)
-<center>Me, about 30 minutes before TESS was shot into space on a Falcon
-9.</center>
-
 ![rocketglass](/images/rocketglass.jpg)
-<center>Somewhere off Rt 66 in Southern California.</center>
+<center>Off Rt 66 in Southern California.</center>
 
 ![yellow](/images/yellow.jpg)
 <center>Rocks next to a water spout in Nevada. Tal (blue hat); me (orange

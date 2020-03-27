@@ -4,9 +4,9 @@ Welcome!  I am a doctoral student in Princeton's Department of Astrophysical
 Sciences. 
 
 Most of my graduate research is in exoplanetary and stellar astrophysics.  My
-research interests are in observing and understanding the formation,
-evolution, and long-term fates of planetary systems. 
-One way I pursue these goals is with the [transit method](https://arxiv.org/abs/1001.2010).
+research interests are in observing and understanding the formation, evolution,
+and long-term fates of planetary systems.  One way I pursue these goals is with
+the transit method.
 
 Some recent projects have included:
 
@@ -20,11 +20,11 @@ Some recent projects have included:
   [(planet candidates)](https://exofop.ipac.caltech.edu/tess/view_ctoi.php)
   [(vetting report description documents)](http://lgbouma.com/notes/)
 
-* Discovering that the orbital period of the hot Jupiter WASP-4b is shrinking.
-  [(paper)](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract). 
-  We subsequently showed that the period decrease is likely explained through
-  the Doppler effect induced on the host star by an outer brown dwarf or low mass
-  stellar companion [(pre-print)](https://github.com/lgbouma/WASP-4b_anomaly/blob/master/paper/ms.pdf).
+* Discovering that the orbital period of the hot Jupiter WASP-4b appears to be
+  shrinking. [(paper)](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract).
+  Later, we found that the main cause of the period decrease is the Doppler
+  effect induced on the host star by an outer brown dwarf or low mass stellar
+  companion [(pre-print)](https://github.com/lgbouma/WASP-4b_anomaly/blob/master/paper/ms.pdf).
 
 * Analytically exploring how unresolved binaries affect planet occurrence rates
   measured by transit surveys.

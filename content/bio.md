@@ -16,8 +16,8 @@ the architects and executors of the [HAT Exoplanet
 Surveys](https://hatsurveys.org/).
 
 He is now a resident graduate student at [Forbes
-College](https://forbescollege.princeton.edu/).  He participates in and 
-helps organize the Department of Astrophysical Science's [public observing
+College](https://forbescollege.princeton.edu/).  He participates in and has
+helped organize the Department of Astrophysical Science's [public observing
 nights](https://www.astro.princeton.edu/observatory/publicobserving.php).  His
 current favorite sport is rock climbing.
 
