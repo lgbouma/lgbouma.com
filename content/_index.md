@@ -23,8 +23,8 @@ Some recent projects have included:
 * Discovering that the orbital period of the hot Jupiter WASP-4b appears to be
   shrinking. [(paper)](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract).
   In a follow-up study, we found that the main cause of the observed period
-  decrease is the Doppler effect induced on the host star by an outer brown dwarf
-  or low mass stellar companion [(paper)](https://arxiv.org/abs/2004.00637v1).
+  decrease is the Doppler effect caused by an outer brown dwarf or low mass
+  stellar companion [(paper)](https://arxiv.org/abs/2004.00637v1).
 
 * Analytically exploring how unresolved binaries affect planet occurrence rates
   measured by transit surveys.
