@@ -5,8 +5,8 @@ Sciences.
 
 Most of my graduate research is in exoplanetary and stellar astrophysics.  My
 research interests are in observing and understanding the formation, evolution,
-and long-term fates of planetary systems.  One way I pursue these goals is with
-the transit method.
+and long-term fates of planetary systems.  I often pursue these goals using
+ground and space-based telescopes.
 
 Some recent projects have included:
 
@@ -20,11 +20,15 @@ Some recent projects have included:
   [(planet candidates)](https://exofop.ipac.caltech.edu/tess/view_ctoi.php)
   [(vetting report description documents)](http://lgbouma.com/notes/)
 
+* Combining TESS and Gaia to show that a planet candidate in the Orion Complex
+  is an impostor of a peculiar variety. The manuscript is entitled:
+  [PTFO 8-8695: Two Stars, Two Signals, No Planet](https://github.com/lgbouma/billy/blob/master/paper/ms.pdf).
+
 * Discovering that the orbital period of the hot Jupiter WASP-4b appears to be
   shrinking. [(paper)](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract).
-  In a follow-up study, we found that the main cause of the observed period
+  In a follow-up study, we found that the main cause of the apparent period
   decrease is the Doppler effect caused by an outer brown dwarf or low mass
-  stellar companion [(paper)](https://arxiv.org/abs/2004.00637v1).
+  star [(paper)](https://arxiv.org/abs/2004.00637v1).
 
 * Analytically exploring how unresolved binaries affect planet occurrence rates
   measured by transit surveys.
@@ -45,6 +49,6 @@ work!
 [A full list of my publications is available
 here.](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22bouma%2C%20l%22)&sort=date%20desc%2C%20bibcode%20desc)
 
-[An academic CV is available here.](/pdfs/LukeBouma_CV_20200304.pdf)
+[An academic CV is available here.](/pdfs/LukeBouma_CV_20200430.pdf)
 
-Last updated: Mon 16 Mar 2020 07:15:44 PM EDT
+Last updated: Thu Apr 30 16:42:03 2020
