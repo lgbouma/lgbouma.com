@@ -38,3 +38,5 @@ hat).</center>
 
 ![logistic](/images/logistic.png)
 <center>Logistic map.</center>
+
+For making it through, a ["haiku"](/txt/haiku.txt).
