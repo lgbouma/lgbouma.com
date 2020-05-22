@@ -20,15 +20,17 @@ Some recent projects have included:
   [(planet candidates)](https://exofop.ipac.caltech.edu/tess/view_ctoi.php)
   [(vetting report description documents)](http://lgbouma.com/notes/)
 
-* Combining TESS and Gaia to show that a planet candidate in the Orion Complex
-  is an impostor of a peculiar variety. The manuscript is entitled:
-  [PTFO 8-8695: Two Stars, Two Signals, No Planet](https://github.com/lgbouma/billy/blob/master/paper/ms.pdf).
+* Combining TESS and Gaia to show that a possible 10-million year old planet is
+  something quite different. The manuscript is entitled:
+  [PTFO 8-8695: Two Stars, Two Signals, No Planet](https://arxiv.org/abs/2005.10253).
 
 * Discovering that the orbital period of the hot Jupiter WASP-4b appears to be
   shrinking. [(paper)](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract).
-  In a follow-up study, we found that the main cause of the apparent period
-  decrease is the Doppler effect caused by an outer brown dwarf or low mass
-  star [(paper)](https://arxiv.org/abs/2004.00637v1).
+  We later found that the main cause of the apparent period decrease is the
+  Doppler effect caused by an outer brown dwarf or low mass star.
+  One in three hot Jupiters are expected to eventually show similar
+  period changes.
+  [(paper)](https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..29B/abstract).
 
 * Analytically exploring how unresolved binaries affect planet occurrence rates
   measured by transit surveys.
@@ -49,6 +51,6 @@ work!
 [A full list of my publications is available
 here.](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22bouma%2C%20l%22)&sort=date%20desc%2C%20bibcode%20desc)
 
-[An academic CV is available here.](/pdfs/LukeBouma_CV_20200430.pdf)
+[An academic CV is available here.](/pdfs/LukeBouma_CV_20200521.pdf)
 
 Last updated: Thu Apr 30 16:42:03 2020
