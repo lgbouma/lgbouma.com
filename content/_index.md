@@ -4,9 +4,9 @@ Welcome!  I am a doctoral student in Princeton's Department of Astrophysical
 Sciences. 
 
 Most of my graduate research is in exoplanetary and stellar astrophysics.  My
-research interests are in observing and understanding the formation, evolution,
-and long-term fates of planetary systems.  I often pursue these goals using
-ground and space-based telescopes.
+interests are specifically in observing and understanding the births, lives,
+and deaths of planetary systems.  I pursue these goals using ground and
+space-based telescopes.
 
 Some recent projects have included:
 
@@ -51,6 +51,6 @@ work!
 [A full list of my publications is available
 here.](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22bouma%2C%20l%22)&sort=date%20desc%2C%20bibcode%20desc)
 
-[An academic CV is available here.](/pdfs/LukeBouma_CV_20200521.pdf)
+[An academic CV is available here.](/pdfs/LukeBouma_CV_20200630.pdf)
 
-Last updated: Thu Apr 30 16:42:03 2020
+Last updated: Tue Jun 30 15:03:26 2020

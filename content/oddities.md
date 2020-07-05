@@ -8,7 +8,7 @@
 ![clouds](/images/saturn_ISO500_halfsec_0_heavy_wavelet_rings_5_crop.png)
 <center>Saturn. The [Cassini
 Division](https://en.wikipedia.org/wiki/Rings_of_Saturn#Cassini_Division) is
-visible, and is apparently caused by a 2:1 resonance with Mimas.
+visible, and is caused by a 2:1 resonance with Mimas.
 I took the images through the 12" Meade LX200 in [Peyton's
 Observatory](http://www.astro.princeton.edu/observatory/index.php), using a
 Canon EOS 60D. For image acquisition, I used EOS MovRec v0.3.3 (through a
