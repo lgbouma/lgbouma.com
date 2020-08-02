@@ -41,6 +41,10 @@ pygmentsStyle = "vs"
     url = "/contact/"
     name = "contact"
     weight = 3
+  [[menu.main]]
+    url = "/research/"
+    name = "research"
+    weight = 3
   #[[menu.main]]
   #  url = "/oddities/"
   #  name = "oddities"
