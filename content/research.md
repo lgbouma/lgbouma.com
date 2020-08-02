@@ -2,8 +2,8 @@
 While thousands of exoplanets are known, most orbit field stars
 with poorly measured ages between 1 and 10 billion years.  I have been using
 [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite) to
-find and characterize planets around cluster stars in groups younger than 1
-billion years.  Related articles include:
+find and characterize planets around stars in open clusters and moving groups
+younger than 1 billion years.  Related articles include:
 
 * Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
   Planet in IC 2602.
