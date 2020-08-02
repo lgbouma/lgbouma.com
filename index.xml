@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lgbouma</title>
@@ -6,7 +6,7 @@
     <description>Recent content on lgbouma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lgbouma.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,8 +28,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       
       <guid>https://lgbouma.com/posts/2014/03/migrate-to-hugo-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-1 2 3  ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png   should become
-1 2 3 4  ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png   Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
@@ -39,7 +39,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       
       <guid>https://lgbouma.com/posts/2015/01/first-post/</guid>
       <description>&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
-
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</description>
     </item>
     
@@ -90,6 +89,15 @@ Over graduate school, he has enjoyed fruitful collaboration with the TESS scienc
     
     <item>
       <title></title>
+      <link>https://lgbouma.com/longformresearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lgbouma.com/longformresearch/</guid>
+      <description>Young Transiting Planets A major component of my thesis is the Cluster Difference Imaging Photometric Survey. While thousands of exoplanets are known, most orbit field stars with poorly measured ages between 1 and 10 billion years. I have been using TESS to find planets around cluster stars in groups younger than 1 billion years. This paper introduces the project, and this preprint validates a 40 million year old planet. Light curves from Year 1 of TESS are available on MAST.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://lgbouma.com/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -106,9 +114,18 @@ Over graduate school, he has enjoyed fruitful collaboration with the TESS scienc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lgbouma.com/oddities/</guid>
-      <description>Clouds in Princeton
-Me, about 30 minutes before TESS was shot into space on a Falcon 9.
-Saturn. The Cassini Division is visible, and is caused by a 2:1 resonance with Mimas. I took the images through the 12&amp;rdquo; Meade LX200 in Peyton&amp;rsquo;s Observatory, using a Canon EOS 60D. For image acquisition, I used EOS MovRec v0.3.3 (through a virtual machine), recording in video with half-second exposures at 500 ISO. I took about 5 minutes of video, which I then ran through Registax 6 and clipped to the best ~10% of exposures after alignment.</description>
+      <description>For making it through, a &amp;ldquo;haiku&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lgbouma.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lgbouma.com/research/</guid>
+      <description>Young Transiting Planets While thousands of exoplanets are known, most orbit field stars with poorly measured ages between 1 and 10 billion years. I have been using TESS to find and characterize planets around cluster stars in groups younger than 1 billion years. Related articles include:
+  Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated Planet in IC 2602. (Preprint).
+  PTFO 8-8695: Two Stars, Two Signals, No Planet.</description>
     </item>
     
   </channel>
