@@ -26,13 +26,13 @@ lifespan of hot Jupiters, the answer also has implications for whether the
 Earth will be consumed by the Sun in the distant future.  Related
 contributions:
 
-* WASP-4 is Accelerating Toward the Earth
+* WASP-4 is Accelerating Toward the Earth.
   ([Paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..29B/abstract)).
 
 * WASP-4b Arrived Early for the TESS Mission.
   ([Paper](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract)).
 
-* Empirical Tidal Dissipation in Exoplanet Hosts From Tidal Spin-up
+* Empirical Tidal Dissipation in Exoplanet Hosts From Tidal Spin-up.
   ([Paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..165P/abstract), led
   by Kaloyan Penev).
 
