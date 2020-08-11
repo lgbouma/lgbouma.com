@@ -7,7 +7,7 @@ younger than 1 billion years.  Related articles include:
 
 * Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
   Planet in IC 2602.
-  ([Preprint](https://github.com/lgbouma/timmy/blob/master/paper/ms.pdf)).
+  ([Preprint](/pdfs/Bouma_2020_TOI837_submitted.pdf)).
 
 * PTFO 8-8695: Two Stars, Two Signals, No Planet.
   ([Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)).
