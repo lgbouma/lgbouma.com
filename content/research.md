@@ -6,8 +6,7 @@ find and characterize planets around stars in open clusters and moving groups
 younger than 1 billion years.  Related articles include:
 
 * Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
-  Planet in IC 2602.
-  ([Preprint](/pdfs/Bouma_2020_TOI837_submitted.pdf)).
+  Planet in IC 2602.  ([Paper](https://arxiv.org/abs/2009.07845)).
 
 * PTFO 8-8695: Two Stars, Two Signals, No Planet.
   ([Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)).
