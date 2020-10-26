@@ -14,4 +14,4 @@ If you'd like to learn more about my work, check out my [research
 page](http://lgbouma.com/research/).  A full list of my publications is
 [available
 here](https://ui.adsabs.harvard.edu/public-libraries/uXPWdyI2RH2T-Sv0rcwUwA),
-and an academic CV is [available here](/pdfs/LukeBouma_CV_20200918.pdf).
+and an academic CV is [available here](/pdfs/LukeBouma_CV_20201026.pdf).
