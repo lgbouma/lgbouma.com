@@ -37,3 +37,5 @@ Good fall colors in Princeton, outside Peyton Hall.
 
 ![logistic](/images/logistic.png)
 Logistic map.
+
+For making it to the end, ![some wisdom.](/txt/wisdom.txt)
