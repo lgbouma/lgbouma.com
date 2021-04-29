@@ -11,7 +11,7 @@ how to interpret a periodogram peak.
 * [Explanatory PDF](https://www.dropbox.com/s/bp2weiklfgqhow4/EXAMPLE.pdf?dl=0)
 * [Set B (N=507)](https://www.dropbox.com/sh/w4bvqevez7a42zm/AADelu_DtLipxs8e-Pz-0c8ja?dl=0)
 * [Set A (N=987)](https://www.dropbox.com/sh/x6cpoovxfbhslji/AADZXfzdPHucCmQj7yJ5varia?dl=0)
-* [All 2201 candidate NGC 2516 members with light curves](https://www.dropbox.com/sh/njd674cjktkte18/AACuqDq8HrY7YKzl5DXFk85Na?dl=0)
+* [All candidate NGC 2516 members with light curves (N=2201)](https://www.dropbox.com/sh/njd674cjktkte18/AACuqDq8HrY7YKzl5DXFk85Na?dl=0)
 
 #### CDIPS Light Curves
 
