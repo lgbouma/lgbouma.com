@@ -1,9 +1,12 @@
-### Young Transiting Planets
+### Young Stars and their Planets
 While thousands of exoplanets are known, most orbit field stars
 with poorly measured ages between 1 and 10 billion years.  I have been using
 [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite) to
 find and characterize planets around stars in open clusters and moving groups
 younger than 1 billion years.  Related articles include:
+
+* Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster
+  NGC 2516.  ([Submitted](https://github.com/lgbouma/earhart/blob/main/cluster_paper/ms.pdf)).
 
 * Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
   Planet in IC 2602.  ([Paper](https://arxiv.org/abs/2009.07845)).
