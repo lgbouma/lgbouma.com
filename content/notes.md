@@ -9,9 +9,9 @@ peak.
 
 * [Table 1](https://www.dropbox.com/s/97qpy2bxbxejsqs/table1.csv?dl=0)
 * [Explanatory PDF](https://www.dropbox.com/s/bp2weiklfgqhow4/EXAMPLE.pdf?dl=0)
-* [Set B (N=507)](https://www.dropbox.com/sh/w4bvqevez7a42zm/AADelu_DtLipxs8e-Pz-0c8ja?dl=0)
-* [Set A (N=987)](https://www.dropbox.com/sh/x6cpoovxfbhslji/AADZXfzdPHucCmQj7yJ5varia?dl=0)
-* [All candidate NGC 2516 members with light curves (N=2201)](https://www.dropbox.com/sh/njd674cjktkte18/AACuqDq8HrY7YKzl5DXFk85Na?dl=0)
+* [Set B (N=507)](https://www.dropbox.com/sh/umltoz1s0l28rkm/AAB98YESHe_6puafDs_rnKy4a?dl=0)
+* [Set A (N=987)](https://www.dropbox.com/sh/3q1af4tfmhz23ix/AAAevr_BvV3FtSDM9Rc0WTkea?dl=0)
+* [All candidate NGC 2516 members with light curves (N=2201)](https://www.dropbox.com/sh/5untzjtjf9x7kml/AACRPee7FXN-bXU7YmVz6aE3a?dl=0)
 
 #### CDIPS Light Curves
 
