@@ -1,11 +1,11 @@
 #### NGC 2516 (CDIPS-III, Bouma+21) Supplementary Data
 
 _2021.04.27_.
-For most purposes, Table 1 of the paper contains
-everything you need. The reports below are a supplement that can help
-manually resolve period ambiguities. Additional information (_e.g._,
-spectroscopy, Gaia astrometry) can also be helpful when deciding
-how to interpret a periodogram peak.
+For most purposes, Table 1 of the paper contains everything you need. The
+reports and light curves below are a supplement that can help manually resolve
+period ambiguities. Additional information (_e.g._, spectroscopy, Gaia
+astrometry) can also be helpful when deciding how to interpret a periodogram
+peak.
 
 * [Table 1](https://www.dropbox.com/s/97qpy2bxbxejsqs/table1.csv?dl=0)
 * [Explanatory PDF](https://www.dropbox.com/s/bp2weiklfgqhow4/EXAMPLE.pdf?dl=0)
