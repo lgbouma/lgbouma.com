@@ -9,7 +9,7 @@ younger than 1 billion years.  Related articles include:
   NGC 2516.  ([Submitted](https://github.com/lgbouma/earhart/blob/main/cluster_paper/ms.pdf)).
 
 * Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
-  Planet in IC 2602.  ([Paper](https://arxiv.org/abs/2009.07845)).
+  Planet in IC 2602. ([Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B/abstract)).
 
 * PTFO 8-8695: Two Stars, Two Signals, No Planet.
   ([Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)).
