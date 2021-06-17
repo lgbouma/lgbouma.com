@@ -15,8 +15,10 @@ science team](https://tess.mit.edu/team/the-tess-science-team/), as well as
 the architects and executors of the [HAT Exoplanet
 Surveys](https://hatsurveys.org/).
 
-Luke resides in Pasadena, CA, with his boyfriend and their puppy.  Current
-hobbies of choice include rock climbing, hiking, and the search for the perfect
-espresso.
+He is now a resident graduate student at [Forbes
+College](https://forbescollege.princeton.edu/).  He participates in and has
+helped organize the Department of Astrophysical Science's [public observing
+nights](https://www.astro.princeton.edu/observatory/publicobserving.php).  His
+current favorite sport is rock climbing.
 
 ![rockclimbing](/images/rock_cropped.png)
