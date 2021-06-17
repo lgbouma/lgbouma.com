@@ -15,8 +15,7 @@ science team](https://tess.mit.edu/team/the-tess-science-team/), as well as
 the architects and executors of the [HAT Exoplanet
 Surveys](https://hatsurveys.org/).
 
-Luke resides in Pasadena, CA, with his boyfriend and their puppy.  Current
-hobbies of choice include rock climbing, hiking, and the search for the perfect
-espresso.
+Luke resides in Pasadena, CA.  Current hobbies of choice include rock climbing,
+puppy parenting, and the search for the perfect espresso.
 
 ![rockclimbing](/images/rock_cropped.png)
