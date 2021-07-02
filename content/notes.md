@@ -1,6 +1,6 @@
 #### NGC 2516 (CDIPS-III, Bouma+21) Supplementary Data
 
-_2021.04.27_.
+_2021.07.02_.
 For most purposes, Table 1 of the paper contains everything you need. The
 reports and light curves below are a supplement that can help manually resolve
 period ambiguities. Additional information (_e.g._, spectroscopy, Gaia
@@ -9,7 +9,7 @@ peak.
 
 * [Table 1](https://www.dropbox.com/s/97qpy2bxbxejsqs/table1.csv?dl=0)
 * [Explanatory PDF](https://www.dropbox.com/s/bp2weiklfgqhow4/EXAMPLE.pdf?dl=0)
-* [Set B (N=507)](https://www.dropbox.com/sh/umltoz1s0l28rkm/AAB98YESHe_6puafDs_rnKy4a?dl=0)
+* [Set B (N=892)](https://www.dropbox.com/sh/umltoz1s0l28rkm/AAB98YESHe_6puafDs_rnKy4a?dl=0)
 * [Set A (N=987)](https://www.dropbox.com/sh/3q1af4tfmhz23ix/AAAevr_BvV3FtSDM9Rc0WTkea?dl=0)
 * [All candidate NGC 2516 members with light curves (N=2201)](https://www.dropbox.com/sh/5untzjtjf9x7kml/AACRPee7FXN-bXU7YmVz6aE3a?dl=0)
 
