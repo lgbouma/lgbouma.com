@@ -6,7 +6,7 @@ find and characterize planets around stars in open clusters and moving groups
 younger than 1 billion years.  Related articles include:
 
 * Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster
-  NGC 2516.  ([Submitted](https://github.com/lgbouma/earhart/blob/main/cluster_paper/ms.pdf)).
+  NGC 2516. ([Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract)).
 
 * Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
   Planet in IC 2602. ([Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B/abstract)).
