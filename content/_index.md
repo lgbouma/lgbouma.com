@@ -1,10 +1,8 @@
 # Luke Bouma
 
-Welcome!  I'm currently a final year [doctoral
-student](https://web.astro.princeton.edu/people/luke-bouma) in Princeton's
-Department of Astrophysical Sciences.  I'll be starting as a [51 Pegasi b
-fellow](https://www.hsfoundation.org/fellow/luke-bouma-ph-d-candidate/) at
-Caltech in September, 2021.
+Welcome!  I am a [51 Pegasi
+b](https://www.hsfoundation.org/fellow/luke-bouma-ph-d-candidate/) postdoctoral
+fellow at Caltech in the Division of Physics, Mathematics, and Astronomy. 
 
 Most of my research is in exoplanetary and stellar astrophysics.  I am
 especially interested in observing and understanding the births, lives, and

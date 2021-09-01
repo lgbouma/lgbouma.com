@@ -1,9 +1,15 @@
 ### Young Stars and their Planets
+
 While thousands of exoplanets are known, most orbit field stars
 with poorly measured ages between 1 and 10 billion years.  I have been using
-[TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite) to
-find and characterize planets around stars in open clusters and moving groups
-younger than 1 billion years.  Related articles include:
+[TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite),
+[Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
+[Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
+characterize planets around stars in open clusters and moving groups younger
+than 1 billion years.  Related articles include:
+
+* A 38 Million Year Old Mini-Neptune in the Kepler Field.
+  ([Preprint](https://github.com/lgbouma/rudolf/blob/main/paper/ms.pdf)).
 
 * Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster
   NGC 2516. ([Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract)).
@@ -22,6 +28,7 @@ younger than 1 billion years.  Related articles include:
   [supplementary documentation](http://lgbouma.com/notes/)).
 
 ### Long-term Fates of Hot Jupiters
+
 Tides are expected to cause hot Jupiters to inspiral into their stars and be
 torn apart, but it is not clear how long this takes.  Beyond determining the
 lifespan of hot Jupiters, the answer also has implications for whether the
@@ -40,6 +47,7 @@ contributions:
 
  
 ### Design and Analysis of Transit Surveys
+
 I'm broadly interested in the design, execution, and analysis of planet-hunting
 surveys, particularly using the transit method. Related studies include:
 
