@@ -73,9 +73,7 @@ Follow the following steps:
       
       <guid>https://lgbouma.com/bio/</guid>
       <description>bio Luke was born in Bethesda, MD. He grew up in the circumference of a hadron collider in Switzerland, in a valley between the Jura and the Alps.
-He graduated from USC with Bachelor&amp;rsquo;s degrees in physics and mathematics.
-He began graduate work in physics at MIT with Josh Winn, and transferred to Princeton to continue the same.
-Over graduate school, he has enjoyed fruitful collaboration with the TESS science team, as well as the architects and executors of the HAT Exoplanet Surveys.</description>
+He graduated from USC in 2015 with Bachelor&amp;rsquo;s degrees in physics and mathematics. He began graduate work in physics at MIT with Josh Winn, and transferred to Princeton to continue the same. During graduate school he enjoyed fruitful collaboration with the TESS science team, as well as the architects and executors of the HAT Exoplanet Surveys.</description>
     </item>
     
     <item>
@@ -96,7 +94,8 @@ Over graduate school, he has enjoyed fruitful collaboration with the TESS scienc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lgbouma.com/contact/</guid>
-      <description>contact email: luke at astro dot princeton dot edu</description>
+      <description>contact email: luke at astro dot princeton dot edu
+[soon to be replaced with a caltech dot edu]</description>
     </item>
     
     <item>
@@ -135,9 +134,9 @@ Saturn. The Cassini Division is visible, and is caused by a 2:1 resonance with M
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lgbouma.com/research/</guid>
-      <description>Young Stars and their Planets While thousands of exoplanets are known, most orbit field stars with poorly measured ages between 1 and 10 billion years. I have been using TESS to find and characterize planets around stars in open clusters and moving groups younger than 1 billion years. Related articles include:
-  Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster NGC 2516. (Paper).
-  Cluster Difference Imaging Photometric Survey.</description>
+      <description>Young Stars and their Planets While thousands of exoplanets are known, most orbit field stars with poorly measured ages between 1 and 10 billion years. I have been using TESS, Gaia, and Kepler to find and characterize planets around stars in open clusters and moving groups younger than 1 billion years. Related articles include:
+  A 38 Million Year Old Mini-Neptune in the Kepler Field. (Preprint).
+  Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster NGC 2516.</description>
     </item>
     
   </channel>
