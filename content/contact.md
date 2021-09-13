@@ -1,9 +1,5 @@
 # contact
 
-email: luke at astro dot princeton dot edu
-
-[soon to be replaced with a caltech dot edu]
-
-
+email: luke at astro dot caltech dot edu
 
 ![nifty](/images/nifty.png)
