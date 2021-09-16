@@ -12,7 +12,7 @@ than 1 billion years.  Related articles include:
   ([Preprint](https://github.com/lgbouma/rudolf/blob/main/paper/ms.pdf)).
 
 * Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster
-  NGC 2516. ([Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract)).
+  NGC 2516. ([Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract), [supplementary data](http://lgbouma.com/notes/)).
 
 * Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
   Planet in IC 2602. ([Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B/abstract)).

@@ -12,7 +12,7 @@ peak.
 * [Set B (N=892)](https://www.dropbox.com/sh/umltoz1s0l28rkm/AAB98YESHe_6puafDs_rnKy4a?dl=0)
 * [Set A (N=987)](https://www.dropbox.com/sh/3q1af4tfmhz23ix/AAAevr_BvV3FtSDM9Rc0WTkea?dl=0)
 * [All candidate NGC 2516 members with light curves (N=2201)](https://www.dropbox.com/sh/5untzjtjf9x7kml/AACRPee7FXN-bXU7YmVz6aE3a?dl=0)
-* [Zenodo version (downloads everything; 5.8 Gb)](https://doi.org/10.5281/zenodo.5143814)
+* [Zenodo bulk download (includes all five preceding items); 5.8 Gb)](https://doi.org/10.5281/zenodo.5143814)
 
 #### CDIPS Light Curves
 
