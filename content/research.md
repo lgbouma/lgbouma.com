@@ -9,7 +9,7 @@ characterize planets around stars in open clusters and moving groups younger
 than 1 billion years.  Related articles include:
 
 * A 38 Million Year Old Mini-Neptune in the Kepler Field.
-  ([Preprint](https://github.com/lgbouma/rudolf/blob/main/paper/ms.pdf)).
+  ([Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211214776B/abstract)).
 
 * Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster
   NGC 2516. ([Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract), [supplementary data](http://lgbouma.com/notes/)).

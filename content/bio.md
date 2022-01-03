@@ -15,7 +15,7 @@ as well as the architects and executors of the [HAT Exoplanet
 Surveys](https://hatsurveys.org/).  
 
 Luke is now a postdoctoral fellow at Caltech, and resides in Pasadena, CA.
-Hobbies of choice include rock climbing, puppy parenting, and the search for
+Hobbies of choice include puppy parenting, rock climbing, and the search for
 the perfect espresso.
 
 ![rockclimbing](/images/rock_cropped.png)
