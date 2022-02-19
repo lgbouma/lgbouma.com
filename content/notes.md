@@ -5,7 +5,10 @@ I've posted new CDIPS planet candidates to
 [ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/), based on the second year
 of TESS images (Sectors 14 to 26).  You can find them at the CTOI table.  The
 light curves are staged (and in holding) at MAST.  Relevant documentation is
-below.
+below.  Since it can be somewhat difficult to pull everything off ExoFOP, [this
+dropbox
+folder](https://www.dropbox.com/sh/iwb2t60khp32d8b/AAAFIdQyKyAnJoJAtTeI5tk4a?dl=0)
+is an alternative way to download everything from one place.
 
 _2020.03.04_.
 The CDIPS planet-finding vetting reports based on the first year of TESS images
