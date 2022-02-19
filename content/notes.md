@@ -1,3 +1,30 @@
+#### CDIPS ExoFOP Documentation
+
+_2022.02.19_.
+I've posted new CDIPS planet candidates to
+[ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/), based on the second year
+of TESS images (Sectors 14 to 26).  You can find them at the CTOI table.  The
+light curves are staged (and in holding) at MAST.  Relevant documentation is
+below.
+
+_2020.03.04_.
+The CDIPS planet-finding vetting reports based on the first year of TESS images
+(Sectors 1 to 13) are available at ExoFOP-TESS.  Explanations of sequential
+versions of their contents are in the links below.
+
+* [20220219: sectors 14 to 26](/cdips_documentation/20220219_vetting_report_description_document.pdf)
+* [20200304: sectors 12, 13](/cdips_documentation/20200304_vetting_report_description_document.pdf)
+* [20191215: sectors 8, 9, 10, 11](/cdips_documentation/20191215_vetting_report_description_document.pdf)
+* [20191127: sectors 6, 7](/cdips_documentation/20191127_vetting_report_description_document.pdf)
+
+#### CDIPS Light Curves
+
+_2020.08.25_.
+The CDIPS light curves for Sectors 1 to 13 of TESS are [available at
+MAST](https://archive.stsci.edu/hlsp/cdips).
+Reductions for additional sectors are underway.
+
+
 #### NGC 2516 (CDIPS-III, Bouma+21) Supplementary Data
 
 _2021.07.02_.
@@ -13,22 +40,3 @@ peak.
 * [Set A (N=987)](https://www.dropbox.com/sh/3q1af4tfmhz23ix/AAAevr_BvV3FtSDM9Rc0WTkea?dl=0)
 * [All candidate NGC 2516 members with light curves (N=2201)](https://www.dropbox.com/sh/5untzjtjf9x7kml/AACRPee7FXN-bXU7YmVz6aE3a?dl=0)
 * [Zenodo bulk download (includes all five preceding items)](https://doi.org/10.5281/zenodo.5143814)
-
-#### CDIPS Light Curves
-
-_2020.08.25_.
-The CDIPS light curves for Sectors 1 to 13 of TESS are [available at
-MAST](https://archive.stsci.edu/hlsp/cdips).
-Reductions for additional sectors are underway.
-
-
-#### CDIPS Vetting Report Description Documents
-
-_2020.03.04_.
-The CDIPS planet-finding vetting reports are available at
-[ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/), at the CTOI table.
-Explanations of sequential versions of their contents are in the links below.
-
-* [20191127: sectors 6, 7](/cdips_documentation/20191127_vetting_report_description_document.pdf)
-* [20191215: sectors 8, 9, 10, 11](/cdips_documentation/20191215_vetting_report_description_document.pdf)
-* [20200304: sectors 12, 13](/cdips_documentation/20200304_vetting_report_description_document.pdf)
