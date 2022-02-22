@@ -68,6 +68,11 @@ pygmentsStyle = "vs"
     url = "/oddities/"
     name = "oddities"
     weight = 3
+  [[menu.footer]]
+    url = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7g3-jB3BwkL8d3mP_n5CJbMutUQQUzIe3I9EpGI3fXSURl3Vv1aBv53crsYXSUFuflj24kIXe02NTGjIkIHzNPrtz1NWQ4YlndGJbvhQUOfCjZ_po&user=RILfQ1EAAAAJ"
+    name = "scholar"
+    weight = 4
+
   # [[menu.footer]]
   #   url = "/posts/index.xml"
   #   name = "RSS"
