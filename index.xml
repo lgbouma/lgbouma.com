@@ -5,63 +5,7 @@
     <link>https://lgbouma.com/</link>
     <description>Recent content on lgbouma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://lgbouma.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://lgbouma.com/posts/2014/09/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/posts/2014/09/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://lgbouma.com/posts/2014/03/migrate-to-hugo-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/posts/2014/03/migrate-to-hugo-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>First post!</title>
-      <link>https://lgbouma.com/posts/2015/01/first-post/</link>
-      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/posts/2015/01/first-post/</guid>
-      <description>&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://lgbouma.com/posts/2014/04/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/posts/2014/04/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://lgbouma.com/posts/2014/04/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/posts/2014/04/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://lgbouma.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://lgbouma.com/bio/</link>
@@ -91,7 +35,7 @@ Over graduate school, he has enjoyed fruitful collaboration with the TESS scienc
       
       <guid>https://lgbouma.com/contact/</guid>
       <description>email: luke at astro dot caltech dot edu
-location: Cahill Center for Astronomy and Astrophysics, 2nd floor, room 231
+location: Cahill Center for Astronomy and Astrophysics, 2nd floor, room 220
 name pronunciation: my last name rhymes with &amp;ldquo;wow-phở&amp;rdquo;.
   </description>
     </item>
@@ -137,6 +81,16 @@ Rocks next to a water spout in Nevada.</description>
       <description>Young Stars and their Planets While thousands of exoplanets are known, most orbit field stars with poorly measured ages between 1 and 10 billion years. I have been using TESS, Gaia, and Kepler to find and characterize planets around stars in open clusters and moving groups younger than 1 billion years. Related articles include:
   A 38 Million Year Old Mini-Neptune in the Kepler Field. (Paper, Table 3).
   Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster NGC 2516.</description>
+    </item>
+    
+    <item>
+      <title>The Observatory That Wasn&#39;t</title>
+      <link>https://lgbouma.com/posts/1/01/the-observatory-that-wasnt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lgbouma.com/posts/1/01/the-observatory-that-wasnt/</guid>
+      <description>&amp;ldquo;Neither Suphis the monarch of Egypt, nor Rameses II, nor the builders of Nineveh, did greater work. Engineers from every nation on Earth have studied this wondrous electric road from Pasadena to the base of Mount Lowe and have pronounced it one of the chief monuments reared by human hands.&amp;rdquo; &amp;ndash; Edgar L. Larkin, 1901.
+In astronomical circles, the Mount Wilson Observatory commands a great deal of reverence. Historically, the observatory&amp;rsquo;s main claim to fame is the 100-inch Hooker telescope, which was the world&amp;rsquo;s largest telescope from 1917 to 1949.</description>
     </item>
     
   </channel>
