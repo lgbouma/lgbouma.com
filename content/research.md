@@ -62,7 +62,7 @@ surveys, particularly using the transit method. Related studies include:
 **Biases in Planet Occurrence Caused by Unresolved Binaries in Transit
 Surveys**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..244B/abstract)]   
-_with K. Masuda, J. Winn,_ in AJ (2018)
+_with K. Masuda and J. Winn,_ in AJ (2018)
 
 **Planet Detection Simulations for Several Possible TESS Extended Missions**
 [[White paper](https://ui.adsabs.harvard.edu/abs/2017arXiv170508891B/abstract),
