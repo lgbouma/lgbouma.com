@@ -1,4 +1,4 @@
-### Young Stars and their Planets
+# Young Stars and their Planets
 
 While thousands of exoplanets are known, most orbit field stars
 with poorly measured ages between 1 and 10 billion years.  I have been using
@@ -8,27 +8,32 @@ with poorly measured ages between 1 and 10 billion years.  I have been using
 characterize planets around stars in open clusters and moving groups younger
 than 1 billion years.  Related articles include:
 
-* A 38 Million Year Old Mini-Neptune in the Kepler Field.
-  ([Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211214776B/abstract),
-  [Table 3](https://www.dropbox.com/s/tnsa2klx1lhzsew/Bouma_2022_Table3_cdips_targets_v0.6.tar.gz?dl=0)).
+**A 38 Million Year Old Mini-Neptune in the Kepler Field**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211214776B/abstract),
+  [Table 3](https://www.dropbox.com/s/tnsa2klx1lhzsew/Bouma_2022_Table3_cdips_targets_v0.6.tar.gz?dl=0)]  
+_with J. Curtis, K. Masuda, L. Hillenbrand, and friends,_ in AJ (2022)
 
-* Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster
-  NGC 2516. ([Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract), [supplementary data](http://lgbouma.com/notes/)).
+**Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster NGC 2516**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract), [supplementary data](http://lgbouma.com/notes/)]  
+_with J. Curtis, J. Hartman, J. Winn, and G. Bakos,_ in AJ (2021)
 
-* Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
-  Planet in IC 2602. ([Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B/abstract)).
+**Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
+  Planet in IC 2602** [[Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B/abstract)]  
+_with J. Hartman, R. Brahm P. Evans, and friends,_ in AJ (2020)
 
-* PTFO 8-8695: Two Stars, Two Signals, No Planet.
-  ([Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)).
+**PTFO 8-8695: Two Stars, Two Signals, No Planet**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)]  
+_with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
 
-* Cluster Difference Imaging Photometric Survey. I. Light Curves of Stars in
-  Open Clusters from TESS Sectors 6 and 7.
-  ([Paper](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract),
+**Cluster Difference Imaging Photometric Survey. I. Light Curves of Stars in
+  Open Clusters from TESS Sectors 6 and 7**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract),
   [light curves](http://archive.stsci.edu/hlsp/cdips),
   [planet candidates](https://exofop.ipac.caltech.edu/tess/view_ctoi.php),
-  [supplementary documentation](http://lgbouma.com/notes/)).
+  [supplementary documentation](http://lgbouma.com/notes/)]   
+_with J. Hartman, W. Bhatti, J Winn, and G. Bakos,_ in ApJS (2019)
 
-### Long-term Fates of Hot Jupiters
+# Long-term Fates of Hot Jupiters
 
 Tides are expected to cause hot Jupiters to inspiral into their stars and be
 torn apart, but it is not clear how long this takes.  Beyond determining the
@@ -36,25 +41,30 @@ lifespan of hot Jupiters, the answer also has implications for whether the
 Earth will be consumed by the Sun in the distant future.  Related
 contributions:
 
-* WASP-4 is Accelerating Toward the Earth.
-  ([Paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..29B/abstract)).
+**WASP-4 is Accelerating Toward the Earth**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..29B/abstract)]   
+_with J. Winn, A. Howard, S. Howell and friends,_ in ApJL (2020)
 
-* WASP-4b Arrived Early for the TESS Mission.
-  ([Paper](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract)).
+**WASP-4b Arrived Early for the TESS Mission**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2019AJ....157..217B/abstract)]    
+_with J. Winn, C. Baxter, W. Bhatti, and friends,_ in AJ (2019)
 
-* Empirical Tidal Dissipation in Exoplanet Hosts From Tidal Spin-up.
-  ([Paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..165P/abstract), led
-  by Kaloyan Penev).
+**Empirical Tidal Dissipation in Exoplanet Hosts From Tidal Spin-up**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..165P/abstract)]  
+led by K. Penev, with J. Winn and J. Hartman, in AJ (2018)
 
  
-### Design and Analysis of Transit Surveys
+# Design and Analysis of Transit Surveys
 
 I'm broadly interested in the design, execution, and analysis of planet-hunting
 surveys, particularly using the transit method. Related studies include:
 
-* Biases in Planet Occurrence Caused by Unresolved Binaries in Transit Surveys.
-  ([Paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..244B/abstract)).
+**Biases in Planet Occurrence Caused by Unresolved Binaries in Transit
+Surveys**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..244B/abstract)]   
+_with K. Masuda, J. Winn,_ in AJ (2018)
 
-* Planet Detection Simulations for Several Possible TESS Extended Missions.
-  ([White paper](https://ui.adsabs.harvard.edu/abs/2017arXiv170508891B/abstract),
-  [data products](https://scholar.princeton.edu/jwinn/extended-mission-simulations)).
+**Planet Detection Simulations for Several Possible TESS Extended Missions**
+[[White paper](https://ui.adsabs.harvard.edu/abs/2017arXiv170508891B/abstract),
+  [data products](https://scholar.princeton.edu/jwinn/extended-mission-simulations)]    
+_with J. Winn, J. Kosiarek, and P. McCullough,_ arXiv:1705.08891.
