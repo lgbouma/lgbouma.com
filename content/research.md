@@ -19,7 +19,7 @@ _with J. Curtis, J. Hartman, J. Winn, and G. Bakos,_ in AJ (2021)
 
 **Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
   Planet in IC 2602** [[Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B/abstract)]  
-_with J. Hartman, R. Brahm P. Evans, and friends,_ in AJ (2020)
+_with J. Hartman, R. Brahm, P. Evans, and friends,_ in AJ (2020)
 
 **PTFO 8-8695: Two Stars, Two Signals, No Planet**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)]  
@@ -51,7 +51,7 @@ _with J. Winn, C. Baxter, W. Bhatti, and friends,_ in AJ (2019)
 
 **Empirical Tidal Dissipation in Exoplanet Hosts From Tidal Spin-up**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..165P/abstract)]  
-led by K. Penev, with J. Winn and J. Hartman, in AJ (2018)
+_led by K. Penev, with J. Winn and J. Hartman,_ in AJ (2018)
 
  
 # Design and Analysis of Transit Surveys
