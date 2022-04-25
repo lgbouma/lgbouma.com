@@ -44,4 +44,4 @@ Logistic map.  Date doesn't matter.
 
 For making it to the end, [some wisdom](http://lgbouma.com/txt/wisdom.txt).
 
-And finally, a brief story about the [Mount Lowe Observatory](/posts/1/01/the-observatory-that-wasnt/).
+[comment]: <> ( And finally, a brief story about the [Mount Lowe Observatory](/posts/1/01/the-observatory-that-wasnt/). )
