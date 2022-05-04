@@ -8,9 +8,12 @@ with poorly measured ages between 1 and 10 billion years.  I have been using
 characterize planets around stars in open clusters and moving groups younger
 than 1 billion years.  Related articles include:
 
-**A 38 Million Year Old Mini-Neptune in the Kepler Field**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211214776B/abstract),
-  [Table 3](https://www.dropbox.com/s/tnsa2klx1lhzsew/Bouma_2022_Table3_cdips_targets_v0.6.tar.gz?dl=0)]  
+**Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
+[[Pre-print](https://arxiv.org/abs/2205.01112)],  
+_with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AAS journals (submitted)
+
+**A 38 Million Year Old Neptune-Sized Planet in the Kepler Field**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211214776B/abstract)]  
 _with J. Curtis, K. Masuda, L. Hillenbrand, and friends,_ in AJ (2022)
 
 **Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster NGC 2516**
