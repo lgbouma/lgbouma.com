@@ -1,12 +1,14 @@
 # Young Stars and their Planets
 
-While thousands of exoplanets are known, most orbit field stars
-with poorly measured ages between 1 and 10 billion years.  I have been using
+While thousands of exoplanets are known, most orbit anonymous stars in the
+Milky Way with ages between 1 and 10 billion years.  I have been using
 [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite),
 [Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
-characterize planets around stars in open clusters and moving groups younger
-than 1 billion years.  Related articles include:
+characterize planets around stars in clusters younger than 1 billion years.
+The stellar ensembles that these planets reside within enable precise
+planetary age measurements, which can help us map out how planets evolve.
+Related articles include:
 
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
 [[Pre-print](https://arxiv.org/abs/2205.01112)],  
