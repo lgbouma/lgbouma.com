@@ -6,12 +6,12 @@ Milky Way with ages between 1 and 10 billion years.  I have been using
 [Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
 characterize planets around stars in clusters younger than 1 billion years.
-The stellar ensembles that these planets reside within enable precise
+The stellar ensembles that these planets reside in enable precise
 planetary age measurements, which can help us map out how planets evolve.
 Related articles include:
 
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
-[[Pre-print](https://arxiv.org/abs/2205.01112)],  
+[[Pre-print](https://ui.adsabs.harvard.edu/abs/2022arXiv220501112B/abstract)],  
 _with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AAS journals (submitted)
 
 **A 38 Million Year Old Neptune-Sized Planet in the Kepler Field**
