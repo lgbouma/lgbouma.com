@@ -12,7 +12,7 @@ Related articles include:
 
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
 [[Pre-print](https://ui.adsabs.harvard.edu/abs/2022arXiv220501112B/abstract)],  
-_with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AAS journals (submitted)
+_with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AJ (2022, accepted)
 
 **A 38 Million Year Old Neptune-Sized Planet in the Kepler Field**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211214776B/abstract)]  

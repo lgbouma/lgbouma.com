@@ -17,6 +17,7 @@ I am now a postdoctoral fellow at Caltech, and I reside in Pasadena, CA.
 Hobbies of choice include puppy parenting, rock climbing, and the search for
 the perfect espresso.
 
-![rockclimbing](/images/IMG_2347.jpg)
+![rockclimbing](/images/rock_cropped.png)
 
+[comment]: <> (![rockclimbing](/images/IMG_2347.jpg))
 [comment]: <> (![rockclimbing](/images/rock_cropped.png))
