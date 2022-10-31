@@ -42,6 +42,9 @@ Me, chatting about space at the Peyton Observatory.  January, 2019.
 ![cruise](/images/cruise.jpg)
 La Palma, from the Norweigan Epic. July, 2018.
 
+![rockclimbing](/images/rock_cropped.png)
+Top-roping what looks like 5.5 in La Palma.  Also July 2018.
+
 ![rocketglass](/images/rocketglass.jpg)
 Off Rt 66 in Southern California.  June, 2016.
 
