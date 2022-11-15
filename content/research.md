@@ -7,12 +7,12 @@ Milky Way with ages between 1 and 10 billion years.  I have been using
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
 characterize planets around stars in clusters younger than 1 billion years.
 The stellar ensembles that these planets reside in enable precise
-planetary age measurements, which can help us map out how planets evolve.
+age measurements, which can help us map out how planets evolve.
 Related articles include:
 
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
 [[Pre-print](https://ui.adsabs.harvard.edu/abs/2022arXiv220501112B/abstract)],  
-_with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AJ (2022, accepted)
+_with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AJ (2022)
 
 **A 38 Million Year Old Neptune-Sized Planet in the Kepler Field**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211214776B/abstract)]  

@@ -5,7 +5,7 @@ b](https://www.hsfoundation.org/fellow/luke-bouma-ph-d-candidate/) postdoctoral
 fellow at Caltech in the Division of Physics, Mathematics, and Astronomy. 
 
 Most of my research is in exoplanetary and stellar astrophysics.  I am
-especially interested in observing and understanding the births, lives, and
+especially interested in understanding the births, lives, and
 deaths of planetary systems.  I do this using telescopes in space and on the
 ground.
 
