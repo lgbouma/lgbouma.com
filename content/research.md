@@ -36,13 +36,13 @@ _with J. Hartman, W. Bhatti, J Winn, and G. Bakos,_ in ApJS (2019)
 
 # Dissolving Star Clusters
 
-Most stars form in clusters, when molecular clouds collapse ([see this
+Stars form in clusters when molecular clouds collapse ([see this
 video](https://youtu.be/3z9ZKAkbMhY?t=5)).
 After the gas from the birth cloud disperses, most of the stars 
-escape the cluster's gravitational pull, freeing them to gradually populate the
+escape the cluster's gravitational pull and gradually populate the
 galactic disk.
 Using many of the same tools that I use to study exoplanets, I
-also study the cluster dissolution process.  The goals are to reconstruct
+also study cluster dissolution.  The near-term goals are to reconstruct
 the initial cluster configurations, and to understand the processes
 that dictate the shapes, sizes, and orientations of dissolving star clusters.
 Related contributions include:
