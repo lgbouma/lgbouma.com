@@ -49,7 +49,7 @@ Related contributions include:
 
 **When Does Gyrochronology Start to Work?  Stellar Rotation and Structure of
 the α Persei Complex**
-[[Preprint](https://arxiv.org/abs/2211.09822)]
+[[Preprint](https://arxiv.org/abs/2211.09822)]  
 _led by A. Boyle_, AAS journals submitted (2022)
 
 **Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster NGC 2516**
