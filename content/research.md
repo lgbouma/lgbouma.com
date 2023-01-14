@@ -11,11 +11,11 @@ age measurements, which can help us map out how planets evolve.
 Related articles include:
 
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
-[[Pre-print](https://ui.adsabs.harvard.edu/abs/2022arXiv220501112B/abstract)],  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2022AJ....164..215B/abstract)],  
 _with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AJ (2022)
 
 **A 38 Million Year Old Neptune-Sized Planet in the Kepler Field**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211214776B/abstract)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2022AJ....163..121B/abstract)]  
 _with J. Curtis, K. Masuda, L. Hillenbrand, and friends,_ in AJ (2022)
 
 **Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated
