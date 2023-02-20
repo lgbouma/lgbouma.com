@@ -34,12 +34,14 @@ _with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
   [supplementary documentation](http://lgbouma.com/notes/)]   
 _with J. Hartman, W. Bhatti, J Winn, and G. Bakos,_ in ApJS (2019)
 
+# Ages of Field Stars
+
 While stars in clusters yield gold-standard ages for a select set of planets,
-age-dating frameworks applicable to field stars offer far broader
-applicability.  Of these frameworks, rotation-based age dating (gyrochronology)
-is likely the most promising for FGK stars on the main-sequence.  A recently
-submitted study that addresses some previous issues in the accuracy and
-precision of gyrochronology follows:
+age-dating methods applicable to field stars might let us study planet
+evolution in much larger samples.  Rotation-based age dating (gyrochronology)
+is one of the most promising methods to age-date FGK stars on the
+main-sequence.  A recently submitted study that addresses some previous issues
+in the accuracy and precision of gyrochronology follows:
 
 **The Empirical Limits of Gyrochronology**
 [[Preprint](/pdfs/BPH23_preprint.pdf)]  
