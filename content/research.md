@@ -34,6 +34,18 @@ _with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
   [supplementary documentation](http://lgbouma.com/notes/)]   
 _with J. Hartman, W. Bhatti, J Winn, and G. Bakos,_ in ApJS (2019)
 
+While stars in clusters yield gold-standard ages for a select set of planets,
+age-dating frameworks applicable to field stars offer far broader
+applicability.  Of these frameworks, rotation-based age dating (gyrochronology)
+is likely the most promising for FGK stars on the main-sequence.  A recently
+submitted study that addresses some previous issues in the accuracy and
+precision of gyrochronology follows:
+
+**The Empirical Limits of Gyrochronology**
+[[Preprint](/pdfs/BPH23_preprint.pdf)]  
+_with E. Palumbo and L. Hillenbrand,_ AAS journals submitted.
+
+
 # Dissolving Star Clusters
 
 Stars form in clusters when molecular clouds collapse ([see this
@@ -45,7 +57,7 @@ Using many of the same tools that I use to study exoplanets, I
 also study cluster dissolution.  The near-term goals are to reconstruct
 the initial cluster configurations, and to understand the processes
 that dictate the shapes, sizes, and orientations of dissolving star clusters.
-Related contributions include:
+See:
 
 **When Does Gyrochronology Start to Work?  Stellar Rotation and Structure of
 the α Persei Complex**
