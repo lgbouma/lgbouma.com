@@ -44,7 +44,7 @@ main-sequence.  A recently submitted study that addresses some previous issues
 in the accuracy and precision of gyrochronology follows:
 
 **The Empirical Limits of Gyrochronology**
-[[Preprint](/pdfs/BPH23_preprint.pdf)]  
+[[Preprint](/pdfs/BPH23_preprint.pdf), [`gyro-interp` software package](https://github.com/lgbouma/gyro-interp)]  
 _with E. Palumbo and L. Hillenbrand,_ AAS journals submitted.
 
 
