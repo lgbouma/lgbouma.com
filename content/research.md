@@ -44,8 +44,8 @@ main-sequence.  A recently submitted study that addresses some previous issues
 in the accuracy and precision of gyrochronology follows:
 
 **The Empirical Limits of Gyrochronology**
-[[Preprint](/pdfs/BPH23_preprint.pdf), [`gyro-interp` software package](https://github.com/lgbouma/gyro-interp)]  
-_with E. Palumbo and L. Hillenbrand,_ AAS journals submitted.
+[[Preprint](https://arxiv.org/abs/2303.08830), [`gyro-interp` software package](https://github.com/lgbouma/gyro-interp), [movie #1](/pdfs/prot_teff_model_data.gif), [movie #2](/pdfs/model_prot_vs_teff.mp4)]  
+_with E. Palumbo and L. Hillenbrand,_ ApJL in press.
 
 
 # Dissolving Star Clusters
