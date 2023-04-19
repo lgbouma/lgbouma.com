@@ -40,8 +40,8 @@ While stars in clusters yield gold-standard ages for a select set of planets,
 age-dating methods applicable to field stars might let us study planet
 evolution in much larger samples.  Rotation-based age dating (gyrochronology)
 is one of the most promising methods to age-date FGK stars on the
-main-sequence.  A recently submitted study that addresses some previous issues
-in the accuracy and precision of gyrochronology follows:
+main-sequence.  A recent study that addresses some previous issues in the
+accuracy and precision of gyrochronology follows:
 
 **The Empirical Limits of Gyrochronology**
 [[Preprint](https://arxiv.org/abs/2303.08830), [`gyro-interp` software package](https://github.com/lgbouma/gyro-interp), [movie #1](/movies/prot_teff_model_data.gif), [movie #2](/movies/model_prot_vs_teff.mp4)]  
