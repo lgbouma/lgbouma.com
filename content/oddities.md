@@ -45,6 +45,9 @@ La Palma, from the Norweigan Epic. July, 2018.
 ![rockclimbing](/images/rock_cropped.png)
 Top-roping what looks like 5.5 in La Palma.  Also July 2018.
 
+[comment]: <>  ![rockclimbing](/images/texascanyon.jpg)
+[comment]: <>  Leading Telephone Booth in Texas Canyon.  April, 2023.
+
 ![rocketglass](/images/rocketglass.jpg)
 Off Rt 66 in Southern California.  June, 2016.
 
