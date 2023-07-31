@@ -1,13 +1,13 @@
-# Young Stars and their Planets
+# Young Planets in Star Clusters
 
 While thousands of exoplanets are known, most orbit anonymous stars in the
 Milky Way with ages between 1 and 10 billion years.  I have been using
 [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite),
 [Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
-characterize planets around stars in clusters younger than 1 billion years.
+study planets around stars in clusters younger than 1 billion years.
 The stellar ensembles that these planets reside in enable precise
-age measurements, which can help us map out how planets evolve.
+age measurements, which helps us map out how planets evolve.
 Related articles include:
 
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
@@ -38,7 +38,7 @@ _with J. Hartman, W. Bhatti, J Winn, and G. Bakos,_ in ApJS (2019)
 
 While stars in clusters yield gold-standard ages for a select set of planets,
 age-dating methods applicable to field stars might let us study planet
-evolution in much larger samples.  Rotation-based age dating (gyrochronology)
+evolution across hundreds to even thousands of planets.  Rotation-based age dating (gyrochronology)
 is one of the most promising methods to age-date FGK stars on the
 main-sequence.  A recent study that addresses some previous issues in the
 accuracy and precision of gyrochronology follows:
@@ -61,10 +61,9 @@ the initial cluster configurations, and to understand the processes
 that dictate the shapes, sizes, and orientations of dissolving star clusters.
 See:
 
-**When Does Gyrochronology Start to Work?  Stellar Rotation and Structure of
-the α Persei Complex**
-[[Preprint](https://arxiv.org/abs/2211.09822)]  
-_led by A. Boyle_, AAS journals submitted (2022)
+**Stellar Rotation and Structure of the α Persei Complex: When Does Gyrochronology Start to Work?**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2023AJ....166...14B/abstract)]  
+_led by A. Boyle_, in AJ (2023)
 
 **Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster NGC 2516**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract), [supplementary data](http://lgbouma.com/notes/)]  

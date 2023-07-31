@@ -1,3 +1,17 @@
+#### CDIPS Light Curves
+
+_2022.05.04_.
+The CDIPS light curves for Sectors 14 to 26 of TESS are [available at
+MAST](https://archive.stsci.edu/hlsp/cdips).  A cumulative metadata file is
+also on the HLSP page.  Reductions for Cycle 3 are underway!
+
+
+_2020.08.25_.
+The CDIPS light curves for Sectors 1 to 13 of TESS are [available at
+MAST](https://archive.stsci.edu/hlsp/cdips).  Reductions for additional sectors
+are underway.
+
+
 #### CDIPS ExoFOP Documentation
 
 _2022.02.19_.
@@ -19,19 +33,6 @@ versions of their contents are in the links below.
 * [20200304: sectors 12, 13](/cdips_documentation/20200304_vetting_report_description_document.pdf)
 * [20191215: sectors 8 to 11](/cdips_documentation/20191215_vetting_report_description_document.pdf)
 * [20191127: sectors 6, 7](/cdips_documentation/20191127_vetting_report_description_document.pdf)
-
-#### CDIPS Light Curves
-
-_2022.05.04_.
-The CDIPS light curves for Sectors 14 to 26 of TESS are [available at
-MAST](https://archive.stsci.edu/hlsp/cdips).  A cumulative metadata file is
-also on the HLSP page.  Reductions for Cycle 3 are underway!
-
-
-_2020.08.25_.
-The CDIPS light curves for Sectors 1 to 13 of TESS are [available at
-MAST](https://archive.stsci.edu/hlsp/cdips).  Reductions for additional sectors
-are underway.
 
 
 #### NGC 2516 (CDIPS-III, Bouma+21) Supplementary Data

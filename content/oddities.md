@@ -43,10 +43,10 @@ Me, chatting about space at the Peyton Observatory.  January, 2019.
 La Palma, from the Norweigan Epic. July, 2018.
 
 ![rockclimbing](/images/rock_cropped.png)
-Top-roping what looks like 5.5 in La Palma.  Also July 2018.
+Top-roping 5.5 in La Palma.  Also July 2018.
 
-[comment]: <>  ![rockclimbing](/images/texascanyon.jpg)
-[comment]: <>  Leading Telephone Booth in Texas Canyon.  April, 2023.
+![rockclimbing](/images/texascanyon.jpg)
+Telephone Booth in the Angeles National Forest.  April, 2023.
 
 ![rocketglass](/images/rocketglass.jpg)
 Off Rt 66 in Southern California.  June, 2016.
