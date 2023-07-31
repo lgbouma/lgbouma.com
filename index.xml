@@ -36,7 +36,7 @@ Over graduate school, he has enjoyed fruitful collaboration with the TESS scienc
       <guid>https://lgbouma.com/contact/</guid>
       <description>email: luke at astro dot caltech dot edu
 location: Cahill Center for Astronomy and Astrophysics, 2nd floor, room 220
-name pronunciation: my last name rhymes with &amp;ldquo;wow, phở!&amp;rdquo;.
+name pronunciation: my last name sounds like &amp;ldquo;bow-muh&amp;rdquo;.
   </description>
     </item>
     
@@ -55,7 +55,9 @@ name pronunciation: my last name rhymes with &amp;ldquo;wow, phở!&amp;rdquo;.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lgbouma.com/notes/</guid>
-      <description>CDIPS ExoFOP Documentation 2022.02.19. I&amp;rsquo;ve posted new CDIPS planet candidates to ExoFOP-TESS, based on the second year of TESS images (Sectors 14 to 26). You can find them at the CTOI table. The light curves are staged (and in holding) at MAST. Relevant documentation is below. Since it can be somewhat difficult to pull everything off ExoFOP, this dropbox folder is an alternative way to download everything from one place.</description>
+      <description>CDIPS Light Curves 2022.05.04. The CDIPS light curves for Sectors 14 to 26 of TESS are available at MAST. A cumulative metadata file is also on the HLSP page. Reductions for Cycle 3 are underway!
+2020.08.25. The CDIPS light curves for Sectors 1 to 13 of TESS are available at MAST. Reductions for additional sectors are underway.
+CDIPS ExoFOP Documentation 2022.02.19. I&amp;rsquo;ve posted new CDIPS planet candidates to ExoFOP-TESS, based on the second year of TESS images (Sectors 14 to 26).</description>
     </item>
     
     <item>
@@ -78,7 +80,7 @@ Sienna, posing on remains of Mount Lowe Railway.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lgbouma.com/research/</guid>
-      <description>Young Stars and their Planets While thousands of exoplanets are known, most orbit anonymous stars in the Milky Way with ages between 1 and 10 billion years. I have been using TESS, Gaia, and Kepler to find and characterize planets around stars in clusters younger than 1 billion years. The stellar ensembles that these planets reside in enable precise age measurements, which can help us map out how planets evolve. Related articles include:</description>
+      <description>Young Planets in Star Clusters While thousands of exoplanets are known, most orbit anonymous stars in the Milky Way with ages between 1 and 10 billion years. I have been using TESS, Gaia, and Kepler to find and study planets around stars in clusters younger than 1 billion years. The stellar ensembles that these planets reside in enable precise age measurements, which helps us map out how planets evolve. Related articles include:</description>
     </item>
     
     <item>
