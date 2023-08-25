@@ -13,9 +13,10 @@ team](https://tess.mit.edu/team/the-tess-science-team/), as well as the
 architects and executors of the [HAT Exoplanet
 Surveys](https://hatsurveys.org/).  
 
-I am now a postdoctoral fellow at Caltech, and I reside in Pasadena, CA.
-Hobbies of choice include puppy parenting, rock climbing, and the search for
-the perfect espresso.
+I have been a 51 Pegasi b postdoctoral fellow at Caltech since 2021, and I
+reside in Pasadena, CA.  Outside of work, I enjoy spending time with family and
+friends, reading, and getting outside.
+
 
 ![rockclimbing](/images/lgb_0.jpg)
 
