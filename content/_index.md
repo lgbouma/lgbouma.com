@@ -12,8 +12,8 @@ I also spend much of my time programming, since the data that I analyze are
 often at the petabyte scale.
 
 The goals of my research are to understand how planets form and evolve,
-to determine how that evolution is influenced by the stellar and galactic contexts,
-and to eventually explore whether other planets exist that are capable of hosting life.
+to determine how that evolution is connected to the stellar and galactic environment,
+and to explore the properties of planets that may be capable of hosting life.
 
 Feel free to click around!
 
