@@ -1,15 +1,19 @@
-# Welcome!
+# Hi there!
 
-Hi there!
 My name is Luke Bouma, and you have found my research website.
 
 I am an astronomer and physicist, and I am currently a [51 Pegasi
 b](https://www.hsfoundation.org/fellow/luke-bouma-ph-d-candidate/) postdoctoral
 fellow at Caltech in the Division of Physics, Math, and Astronomy. 
 
-My areas of research include exoplanetary, stellar, and galactic astrophysics.
-I explore these topics using observations, computation, or theory,
-depending on the requirements of any given problem.
+I primarily work in exoplanetary and stellar astrophysics, and I use a mix of
+space- and ground-based observatories to conduct my research.
+I also spend much of my time programming, since the data that I analyze are
+often at the petabyte scale.
+
+The goals of my research are to understand how planets form and evolve,
+to determine how that evolution is influenced by the stellar and galactic contexts,
+and to eventually explore whether other planets exist that are capable of hosting life.
 
 Feel free to click around!
 
