@@ -48,6 +48,26 @@ accuracy and precision of gyrochronology follows:
 _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 
 
+# Complex Periodic Variables
+
+I have recently become interested in a class of young and low-mass star that
+shows highly structured and periodic optical light curves.  We believe that
+these objects are best explained by clumps of either gas or dust that are
+forced to corotate with the star for hundreds of stellar rotation cycles.  Up
+to half of M dwarfs could go through such an evolutionary phase.  The broader
+significance, and specifically the origin of the material, is not yet known.
+Most M dwarfs are known to host small and close-in planets, and those planets
+could be a possible source of dust.  Alternatively, the M dwarfs could have
+strong stellar winds, which might be a source of gas.  I've
+recently submitted a study that describes our current state of understanding:
+
+**Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
+of TESS**
+[[Preprint](https://ui.adsabs.harvard.edu/abs/2023arXiv230906471B/abstract)]  
+_with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ submitted to the AAS
+journals.
+
+
 # Dissolving Star Clusters
 
 Stars form in clusters when molecular clouds collapse ([see this
@@ -108,3 +128,5 @@ _with K. Masuda and J. Winn,_ in AJ (2018)
 [[White paper](https://ui.adsabs.harvard.edu/abs/2017arXiv170508891B/abstract),
   [data products](https://scholar.princeton.edu/jwinn/extended-mission-simulations)]    
 _with J. Winn, J. Kosiarek, and P. McCullough,_ arXiv:1705.08891.
+
+
