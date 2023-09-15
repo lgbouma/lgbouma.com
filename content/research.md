@@ -50,16 +50,15 @@ _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 
 # Complex Periodic Variables
 
-I have recently become interested in a class of young and low-mass star that
-shows highly structured and periodic optical light curves.  We believe that
-these objects are best explained by clumps of either gas or dust that are
-forced to corotate with the star for hundreds of stellar rotation cycles.  Up
-to half of M dwarfs could go through such an evolutionary phase.  The broader
-significance, and specifically the origin of the material, is not yet known.
-Most M dwarfs are known to host small and close-in planets, and those planets
-could be a possible source of dust.  Alternatively, the M dwarfs could have
-strong stellar winds, which might be a source of gas.  I've
-recently submitted a study that describes our current state of understanding:
+The "complex periodic variables" are young and low-mass stars that show highly
+structured and periodic optical light curves.  We believe that they are
+explained by clumps of either gas or dust that are forced to corotate with the
+star for hundreds of stellar rotation cycles.  Up to half of M dwarfs could go
+through such an evolutionary phase.  The origin of the material is not yet
+known.  Most M dwarfs are known to host small and close-in planets, and those
+planets could be a possible source of dust.  Alternatively, the M dwarfs could
+have strong stellar winds, which might be a source of gas.  I've recently
+submitted a study that describes our current state of understanding:
 
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
