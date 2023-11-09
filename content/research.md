@@ -63,8 +63,7 @@ submitted a study that describes our current state of understanding:
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
 [[Preprint](https://ui.adsabs.harvard.edu/abs/2023arXiv230906471B/abstract)]  
-_with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ submitted to the AAS
-journals.
+_with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ in AJ (2023).
 
 
 # Dissolving Star Clusters
