@@ -1,5 +1,10 @@
 #### CDIPS Light Curves
 
+_2023.11.12_.
+The CDIPS light curves for Sector 27 to 55 of TESS are [available at
+MAST](https://archive.stsci.edu/hlsp/cdips).  A cumulative metadata file is
+also available at the HLSP page. 
+
 _2022.05.04_.
 The CDIPS light curves for Sectors 14 to 26 of TESS are [available at
 MAST](https://archive.stsci.edu/hlsp/cdips).  A cumulative metadata file is

@@ -1,12 +1,12 @@
 # Young Planets in Star Clusters
 
 While thousands of exoplanets are known, most orbit anonymous stars in the
-Milky Way with ages between 1 and 10 billion years.  I have been using
+Milky Way that are between one and ten billion years old.  I have been using
 [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite),
 [Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
-study planets around stars in clusters younger than 1 billion years.
-The stellar ensembles that these planets reside in enable precise
+study planets around stars in clusters younger than one billion years.
+The stellar ensembles in which these planets reside enable precise
 age measurements, which helps us map out how planets evolve.
 Related articles include:
 
