@@ -53,32 +53,32 @@ _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 The "complex periodic variables" are young and low-mass stars that show highly
 structured and periodic optical light curves.  We believe that they are
 explained by clumps of either gas or dust that are forced to corotate with the
-star for hundreds of stellar rotation cycles.  Up to half of M dwarfs could go
-through such an evolutionary phase.  The origin of the material is not yet
-known.  Most M dwarfs are known to host small and close-in planets, and those
-planets could be a possible source of dust.  Alternatively, the M dwarfs could
-have strong stellar winds, which might be a source of gas.  I've recently
-submitted a study that describes our current state of understanding:
+star for hundreds of stellar rotation cycles.  While only a few percent of
+young low-mass stars show the phenomenon, after correcting for the viewing angle,
+up to a quarter of young M dwarfs might host this type of circumstellar gunk.
+The origin of the material is not known.  One possible source of dust could be
+collisions between small and close-in planets or planetesimals.  Alternatively,
+the stars themselves could have strong winds, which might be a source for gas.
+I've recently submitted a study that describes our current state of
+understanding:
 
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
 [[Preprint](https://ui.adsabs.harvard.edu/abs/2023arXiv230906471B/abstract)]  
-_with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ AJ in press (2023).
+_with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ AJ (2024).
 
 
 # Dissolving Star Clusters
 
 Stars form in clusters when molecular clouds collapse ([see this
-video](https://youtu.be/3z9ZKAkbMhY?t=5)).
-After the gas from the birth cloud disperses, most of the stars 
-escape the cluster's gravitational pull and gradually populate the
-galactic disk.
-Using many of the same tools that I use to study exoplanets, I
-also study cluster dissolution.  The near-term goals are to reconstruct
-the initial cluster configurations, and to understand the processes
-that dictate the shapes, sizes, and orientations of dissolving star clusters.
-The long-term goal is to understand whether we might be able to identify and
-study stars in the Sun's birth cluster.
+video](https://youtu.be/3z9ZKAkbMhY?t=5)).  After the gas from the birth cloud
+disperses, most of the stars escape the cluster's gravitational pull and
+gradually populate the galactic disk.  Using many of the same tools that I use
+to study exoplanets, I also study cluster dissolution.  The near-term goals are
+to reconstruct the initial cluster configurations, and to understand the
+processes that dictate the shapes, sizes, and orientations of dissolving star
+clusters.  The long-term goal is to understand whether we might be able to
+identify and study stars in the Sun's birth cluster.
 See:
 
 **Stellar Rotation and Structure of the α Persei Complex: When Does Gyrochronology Start to Work?**
