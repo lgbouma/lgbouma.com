@@ -7,7 +7,7 @@ b](https://www.hsfoundation.org/fellow/luke-bouma-ph-d-candidate/) postdoctoral
 fellow at Caltech in the Division of Physics, Math, and Astronomy. 
 
 Most of my work focuses on exoplanets and stars.  My current research
-aims to empirically advance our understanding of exoplanet evolution, and
+aims to advance our understanding of exoplanet evolution, and
 to contextualize that understanding against the backdrop of an evolving stellar
 and galactic environment.  The long-term goal is to explore the properties of
 planets that may be capable of hosting life.
