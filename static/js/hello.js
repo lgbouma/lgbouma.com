@@ -1,0 +1,1 @@
+../../themes/simple-hugo-theme/assets/js/hello.js

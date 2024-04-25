@@ -1,0 +1,9 @@
+<div class="expand">
+  <a class="expand-toggle" href="#">
+    <span class="expand-text">{{ .Get "text" }}</span>
+    <span class="expand-icon">&#x25B6;</span>
+  </a>
+  <div class="expand-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

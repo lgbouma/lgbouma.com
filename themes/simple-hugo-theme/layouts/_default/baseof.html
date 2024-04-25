@@ -3,11 +3,20 @@
 {{ partial "head.html" . }}
 
 <body>
+    <!-- Add header content here -->
     {{- partial "header.html" . -}}
+
+    <!-- Add main content here -->
     <div id="content">
         {{- block "main" . }}{{- end }}
     </div>
+
+    <!-- Add footer content here -->
     {{- partial "footer.html" . -}}
+
+		<!-- Include custom JavaScript files -->
+		{{ $script := resources.Get "js/hello.js" }}
+		<script src="{{ $script.Permalink }}"></script>
 </body>
 
 </html>

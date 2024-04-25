@@ -1,7 +1,7 @@
 /* Main body text */
 body {
     margin: 40px auto;
-    max-width: 650px;
+    max-width: 600px;
     line-height: 1.3;
     font-size: 16px;
     color: #000000;
@@ -67,4 +67,35 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* Expand */
+.expand {
+  margin-bottom: 0.5rem;
+}
+
+.expand-toggle {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #1f77b4;
+}
+
+.expand-icon {
+  margin-left: 0.5rem;
+  transition: transform 0.3s;
+}
+
+.expand-content {
+  display: none;
+  margin-top: 0.5rem;
+	color: inherit;
+}
+
+.expand.active .expand-icon {
+  transform: rotate(90deg);
+}
+
+.expand.active .expand-content {
+  display: block;
 }
