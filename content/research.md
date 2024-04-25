@@ -1,4 +1,4 @@
-# Young Planets in Star Clusters
+## Young Planets in Star Clusters
 
 While thousands of exoplanets are known, most orbit anonymous stars in the
 Milky Way that are between one and ten billion years old.  I have been using
@@ -7,7 +7,7 @@ Milky Way that are between one and ten billion years old.  I have been using
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
 study planets around stars in clusters younger than one billion years.
 The stellar ensembles in which these planets reside enable precise
-age measurements, which helps us map out how planets evolve.
+age measurements, which helps us put together a timeline for planet evolution.
 Related articles include:
 
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
@@ -34,7 +34,7 @@ _with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
   [supplementary documentation](http://lgbouma.com/notes/)]   
 _with J. Hartman, W. Bhatti, J Winn, and G. Bakos,_ in ApJS (2019)
 
-# Ages of Field Stars
+## Ages of Field Stars
 
 While stars in clusters yield gold-standard ages for a select set of planets,
 age-dating methods applicable to field stars might let us study planet
@@ -44,11 +44,11 @@ main-sequence.  A recent study that addresses some previous issues in the
 accuracy and precision of gyrochronology follows:
 
 **The Empirical Limits of Gyrochronology**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract), [`gyro-interp` software package](https://github.com/lgbouma/gyro-interp), [movie #1](/movies/prot_teff_model_data.gif), [movie #2](/movies/model_prot_vs_teff.mp4)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract), [software package](https://github.com/lgbouma/gyro-interp), [movie #1](/movies/prot_teff_model_data.gif), [movie #2](/movies/model_prot_vs_teff.mp4)]  
 _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 
 
-# Complex Periodic Variables
+## Complex Periodic Variables
 
 The "complex periodic variables" are young and low-mass stars that show highly
 structured and periodic optical light curves.  We believe that they are
@@ -64,11 +64,11 @@ understanding:
 
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
-[[Preprint](https://ui.adsabs.harvard.edu/abs/2023arXiv230906471B/abstract)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract)]  
 _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ AJ (2024).
 
 
-# Dissolving Star Clusters
+## Dissolving Star Clusters
 
 Stars form in clusters when molecular clouds collapse ([see this
 video](https://youtu.be/3z9ZKAkbMhY?t=5)).  After the gas from the birth cloud
@@ -91,7 +91,7 @@ _with J. Curtis, J. Hartman, J. Winn, and G. Bakos,_ in AJ (2021)
 
 
 
-# Long-term Fates of Hot Jupiters
+## Long-term Fates of Hot Jupiters
 
 Tides are expected to cause hot Jupiters to inspiral into their stars and be
 torn apart, but it is not clear how long this takes.  Beyond determining the
@@ -112,7 +112,7 @@ _with J. Winn, C. Baxter, W. Bhatti, and friends,_ in AJ (2019)
 _led by K. Penev, with J. Winn and J. Hartman,_ in AJ (2018)
 
  
-# Design and Analysis of Transit Surveys
+## Design and Analysis of Transit Surveys
 
 I'm broadly interested in the design, execution, and analysis of planet-hunting
 surveys, particularly using the transit method. Related studies include:
