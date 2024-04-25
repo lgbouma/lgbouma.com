@@ -9,7 +9,7 @@ study planets around stars in clusters younger than one billion years.
 The stellar ensembles in which these planets reside enable precise
 age measurements, which helps us put together a timeline for planet evolution.
 
-{{< expand text="Click here for the details." >}}
+{{< expand text="Click here for the details" >}}
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2022AJ....164..215B/abstract)],  
 _with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AJ (2022)
@@ -43,7 +43,7 @@ evolution for a much larger sample of planets.  Rotation-based age
 dating is one of the most promising methods to age-date FGK
 stars on the main-sequence.  
 
-{{< expand text="Click here for news on rotation-based ages." >}}
+{{< expand text="Click here for news on rotation-based ages" >}}
 **The Empirical Limits of Gyrochronology**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract), [software package](https://github.com/lgbouma/gyro-interp), [movie #1](/movies/prot_teff_model_data.gif), [movie #2](/movies/model_prot_vs_teff.mp4)]  
 _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
@@ -60,7 +60,7 @@ this circumstellar material is unknown.  Resolving the issue will likely deepen
 our understanding of stellar physics, and clarify the circumstellar
 environments to which close-in exoplanets are subject early in their lives.
 
-{{< expand text="Click here at your own risk." >}}
+{{< expand text="Pandora's click" >}}
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract)]  
@@ -80,7 +80,7 @@ processes that dictate the shapes, sizes, and orientations of these loosely
 aggregated groups of stars.  A long-term goal is to understand whether we
 might be able to identify and study stars in the Sun's birth cluster.
 
-{{< expand text="Click here for related studies." >}}
+{{< expand text="Click here for related studies" >}}
 **Stellar Rotation and Structure of the α Persei Complex: When Does Gyrochronology Start to Work?**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2023AJ....166...14B/abstract)]  
 _led by A. Boyle_, in AJ (2023)
@@ -98,7 +98,7 @@ torn apart, but it is not clear how long this takes.  Beyond determining the
 lifespan of hot Jupiters, the answer also has implications for whether the
 Earth will be consumed by the Sun in the distant future.
 
-{{< expand text="Related contributions:" >}}
+{{< expand text="Related contributions" >}}
 **WASP-4 is Accelerating Toward the Earth**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..29B/abstract)]   
 _with J. Winn, A. Howard, S. Howell and friends,_ in ApJL (2020)
@@ -118,7 +118,7 @@ _led by K. Penev, with J. Winn and J. Hartman,_ in AJ (2018)
 I'm broadly interested in the design, execution, and analysis of planet-hunting
 surveys, particularly using the transit method.
 
-{{< expand text="Related work:" >}}
+{{< expand text="Related work" >}}
 **Biases in Planet Occurrence Caused by Unresolved Binaries in Transit
 Surveys**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2018AJ....155..244B/abstract)]   
