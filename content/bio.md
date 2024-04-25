@@ -13,12 +13,13 @@ team](https://tess.mit.edu/team/the-tess-science-team/), as well as the
 architects and executors of the [HAT Exoplanet
 Surveys](https://hatsurveys.org/).  
 
-I have been a 51 Pegasi b postdoctoral fellow at Caltech since 2021, and I
-reside in Pasadena, CA.  Outside of work, I enjoy spending time with family and
-friends, reading, and getting outside.
+I have been at Caltech since 2021, and I reside in Pasadena, CA.  Outside of
+work, I enjoy spending time with family and friends, reading, and getting
+outside.
 
+![river](/images/riv.jpg)
 
-![rockclimbing](/images/lgb_0.jpg)
+[comment]: <> (![itme](/images/lgb_0.jpg))
 
 [comment]: <> (![rockclimbing](/images/IMG_2347.jpg))
 [comment]: <> (![rockclimbing](/images/rock_cropped.png))
