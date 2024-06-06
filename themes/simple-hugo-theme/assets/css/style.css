@@ -61,6 +61,22 @@ div.footer {
     text-align: right;
 }
 
+div.header .header-links a {
+    /* font-variant: small-caps; */
+    font-size: 16px;
+    font-variant: normal;
+}
+div.footer .footer-links a {
+    /* font-variant: small-caps; */
+    font-size: 16px;
+    font-variant: normal;
+}
+div.header h1 a {
+    /* font-variant: small-caps; */
+    font-size: 16px;
+    font-variant: normal;
+}
+
 img {
     max-width: 100%;
     max-height: 100%;

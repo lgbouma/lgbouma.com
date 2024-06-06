@@ -1,7 +1,7 @@
 ### Young Planets in Star Clusters
 
 While thousands of exoplanets are known, most orbit anonymous stars in the
-Milky Way that are between one and ten billion years old.  I have been using
+Galaxy that are between one and ten billion years old.  I have been using
 [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite),
 [Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
@@ -9,7 +9,7 @@ study planets around stars in clusters younger than one billion years.
 The stellar ensembles in which these planets reside enable precise
 age measurements, which helps us put together a timeline for planet evolution.
 
-{{< expand text="Click here for the details" >}}
+{{< expand text="Click here to learn more" >}}
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2022AJ....164..215B/abstract)],  
 _with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AJ (2022)
@@ -65,6 +65,10 @@ environments to which close-in exoplanets are subject early in their lives.
 of TESS**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract)]  
 _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ AJ (2024).
+
+**PTFO 8-8695: Two Stars, Two Signals, No Planet**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)]  
+_with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
 {{< /expand >}}
 
 
