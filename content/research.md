@@ -52,18 +52,18 @@ _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 
 ### Complex Periodic Variables
 
-The "complex periodic variables" are young and low-mass stars that show highly
-structured and periodic optical light curves.  We believe that they are
-explained by clumps of either gas or dust that are forced to corotate with the
+The "complex periodic variables" are young low-mass stars that show highly
+structured and periodic optical light curves.  They seem to be 
+explained by clumps of circumstellar material that corotate with the
 star for hundreds of stellar rotation cycles.   The origin and composition of
-this circumstellar material is unknown.  Resolving the issue will likely deepen
+this material is unknown.  Resolving the issue will likely deepen
 our understanding of stellar physics, and clarify the circumstellar
 environments to which close-in exoplanets are subject early in their lives.
 
 {{< expand text="Pandora's click" >}}
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [LP 12-502 movie](/movies/LP_12-502_20240724.mov)]  
 _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ AJ (2024).
 
 **PTFO 8-8695: Two Stars, Two Signals, No Planet**

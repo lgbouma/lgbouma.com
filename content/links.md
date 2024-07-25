@@ -1,10 +1,8 @@
-__Good websites__
+__Astronomy Tools__
 
 [TESS light curve inspector](https://fast-lightcurve-inspector.osc-fr1.scalingo.io/282254350) by Julien de Lambilly
 
 [Nearby clusters](http://mkounkel.com/mw3d/mw2d.html) and [HR diagram](http://mkounkel.com/mw3d/hr.html) by Marina Kounkel
-
-__Astronomy__
 
 [simbad](https://simbad.u-strasbg.fr/simbad/)
 
@@ -21,6 +19,8 @@ __Sound__
 [Omar and friends](https://www.youtube.com/watch?v=m6ZgytCOBw8)
 
 __Perspective__
+
+[Check your worldview](https://www.gapminder.org/tools)
 
 [The Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas)
 
