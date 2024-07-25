@@ -63,7 +63,7 @@ environments to which close-in exoplanets are subject early in their lives.
 {{< expand text="Pandora's click" >}}
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [LP 12-502 movie](/movies/LP_12-502_20240724.mov)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [LP 12-502 movie](/movies/LP_12-502_20240724.mp4)]  
 _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ AJ (2024).
 
 **PTFO 8-8695: Two Stars, Two Signals, No Planet**
