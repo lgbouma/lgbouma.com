@@ -1,6 +1,6 @@
 [comment]: <>  (# contact)
 
-__email:__ luke at astro dot caltech dot edu
+__email:__ mylastname dot myfirstname at gmail dot com
 
 __location:__ Cahill Center for Astronomy and Astrophysics, 2nd floor, room 220
 
