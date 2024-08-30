@@ -1,8 +1,8 @@
 [comment]: <>  (# contact)
 
-__email:__ mylastname dot myfirstname at gmail dot com
+__email:__ lbouma at carnegiescience dot edu
 
-__location:__ Cahill Center for Astronomy and Astrophysics, 2nd floor, room 220
+__location:__ Carnegie Observatories, office 227
 
 __name pronunciation:__ my last name sounds like "bao-muh".
 

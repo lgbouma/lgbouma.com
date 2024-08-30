@@ -8,8 +8,6 @@ __Astronomy Tools__
 
 [vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR)
 
-[claude](https://claude.ai/chat)
-
 __Sound__
 
 [MyNoise](https://mynoise.net/noiseMachines.php)
@@ -20,10 +18,12 @@ __Sound__
 
 __Perspective__
 
-[Check your worldview](https://www.gapminder.org/tools)
+[Gapminder](https://www.gapminder.org/tools)
 
 [The Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas)
 
 [Incarceration in the United States](https://en.wikipedia.org/wiki/Incarceration_in_the_United_States)
 
+[comment]: <>  (
 [The SOFAR channel](https://en.wikipedia.org/wiki/SOFAR_channel)
+)
