@@ -9,14 +9,11 @@ sensitive telescopes and ever-more clever data processing techniques.
 
 I am especially interested in exoplanet origins.  What processes
 produced the exoplanets that we see today?  In what stellar and galactic
-environments does exoplanet evolution unfold?  To tackle these questions, I use
+environments does exoplanet evolution unfold?  I tackle these questions using
 a mix of observational and theoretical tools, many of which are focused on baby
 planets hundreds of times younger than the Earth.
 
-If you're curious to learn more about me and my work, then click around.
-A full publication list is [available
-here](https://ui.adsabs.harvard.edu/public-libraries/uXPWdyI2RH2T-Sv0rcwUwA),
-and an academic CV is [available here](/pdfs/LukeBouma_CV_20240901.pdf).
+If you're curious to learn more about me and my work, then click around!
 
 ![face](/images/face.png) 
 

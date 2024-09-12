@@ -49,6 +49,10 @@ pygmentsStyle = "vs"
   #  url = "/oddities/"
   #  name = "oddities"
   #  weight = 3
+  [[menu.main]]
+    url = "/links/"
+    name = "links"
+    weight = 4
 
 
   # # Footer
@@ -61,20 +65,20 @@ pygmentsStyle = "vs"
     name = "publications"
     weight = 2
   [[menu.footer]]
+    url = "https://lgbouma.com/pdfs/LukeBouma_CV_20240901.pdf" 
+    name = "cv"
+    weight = 3 
+  [[menu.footer]]
     url = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7g3-jB3BwkL8d3mP_n5CJbMutUQQUzIe3I9EpGI3fXSURl3Vv1aBv53crsYXSUFuflj24kIXe02NTGjIkIHzNPrtz1NWQ4YlndGJbvhQUOfCjZ_po&user=RILfQ1EAAAAJ"
     name = "scholar"
-    weight = 3
+    weight = 4
   [[menu.footer]]
     url = "/notes/"
     name = "notes"
-    weight = 4
+    weight = 5
   [[menu.footer]]
     url = "/oddities/"
     name = "oddities"
-    weight = 5
-  [[menu.footer]]
-    url = "/links/"
-    name = "links"
     weight = 6
 
   # [[menu.footer]]
