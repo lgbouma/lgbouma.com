@@ -11,7 +11,7 @@ age measurements, which helps us put together a timeline for planet evolution.
 
 {{< expand text="Click here to learn more" >}}
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2022AJ....164..215B/abstract)],  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2022AJ....164..215B/abstract)]  
 _with R. Kerr, J. Curtis, H. Isaacson, and friends,_ in AJ (2022)
 
 **A 38 Million Year Old Neptune-Sized Planet in the Kepler Field**
@@ -41,9 +41,13 @@ While stars in clusters yield gold-standard ages for a select set of planets,
 age-dating methods applicable to field stars might let us study planet
 evolution for a much larger sample of planets.  Rotation-based age
 dating is one of the most promising methods to age-date FGK
-stars on the main-sequence.  
+stars on the main-sequence.
 
 {{< expand text="Click here for news on rotation-based ages" >}}
+**Ages of Stars and Planets in the Kepler Field Younger Than Four Billion Years**
+[[Preprint](https://arxiv.org/abs/2410.06246)]   
+_with L. Hillenbrand, A. Howard, Howard I., and friends,_ in press at AJ.
+
 **The Empirical Limits of Gyrochronology**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract), [software package](https://github.com/lgbouma/gyro-interp), [movie #1](/movies/prot_teff_model_data.gif), [movie #2](/movies/model_prot_vs_teff.mp4)]  
 _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).

@@ -10,9 +10,9 @@ Sciences in 2021, advised by [Josh
 Winn](https://scholar.princeton.edu/jwinn/home).
 I continued my research as a [51 Pegasi
 b](https://www.hsfoundation.org/fellow/luke-bouma-ph-d-candidate/) fellow at
-Caltech from 2021 to 2024, and I have recently begun a new position as a
-postdoctoral fellow at the Carnegie Observatories, also in Pasadena,
-California. 
+Caltech from 2021 to 2024, and I currently work as a
+Carnegie Fellow at the Observatories of the Carnegie Institution for Science,
+also in Pasadena, California. 
 
 [comment]: <>  (
 I graduated from the University of Southern California in 2015 with Bachelor's
