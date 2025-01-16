@@ -49,7 +49,7 @@ stars on the main-sequence.
 _with L. Hillenbrand, A. Howard, Howard I., and friends,_ in press at AJ.
 
 **The Empirical Limits of Gyrochronology**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract), [software package](https://github.com/lgbouma/gyro-interp), [movie #1](/movies/prot_teff_model_data.gif), [movie #2](/movies/model_prot_vs_teff.mp4)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract), [software package](https://github.com/lgbouma/gyro-interp), [talk](https://www.youtube.com/watch?v=WvRwwsRhOF4&list=PL7nnDaJImp28LhxIkCjQmUesklQ-PKdP5&index=2&t=37s) [movie #1](/movies/prot_teff_model_data.gif), [movie #2](/movies/model_prot_vs_teff.mp4)]  
 _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 {{< /expand >}}
 
@@ -67,7 +67,7 @@ environments to which close-in exoplanets are subject early in their lives.
 {{< expand text="Pandora's click" >}}
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [LP 12-502 movie](/movies/LP_12-502_20240724.mp4)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [Talk](https://www.youtube.com/watch?v=oz31kMuVd58), [LP 12-502 movie](/movies/LP_12-502_20240724.mp4)]  
 _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ AJ (2024).
 
 **PTFO 8-8695: Two Stars, Two Signals, No Planet**
