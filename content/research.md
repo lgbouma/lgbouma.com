@@ -60,7 +60,7 @@ The "complex periodic variables" are young low-mass stars that show highly
 structured and periodic optical light curves.  They seem to be 
 explained by clumps of circumstellar material that corotate with the
 star for hundreds of stellar rotation cycles.   The origin and composition of
-this material is unknown.  Resolving the issue will likely deepen
+this material is unknown.  Resolving the issue will deepen
 our understanding of stellar physics, and clarify the circumstellar
 environments to which close-in exoplanets are subject early in their lives.
 

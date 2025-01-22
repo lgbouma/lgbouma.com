@@ -2,11 +2,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{ partial "favicons.html" . }}
-    <title>
-        {{- block "title" . -}}
-        {{ .Title}}{{ if ne .Title .Site.Title }}{{ .Site.Title }}{{ end }}
-        {{- end -}}
-    </title>
+
+		<title>Luke Bouma | Carnegie Science</title>
 
     {{ $styles := resources.Get "css/style.css" | minify -}}
     <style>

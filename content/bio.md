@@ -11,8 +11,9 @@ Winn](https://scholar.princeton.edu/jwinn/home).
 I continued my research as a [51 Pegasi
 b](https://www.hsfoundation.org/fellow/luke-bouma-ph-d-candidate/) fellow at
 Caltech from 2021 to 2024, and I currently work as a
-Carnegie Fellow at the Observatories of the Carnegie Institution for Science,
-also in Pasadena, California. 
+[Carnegie Fellow](https://carnegiescience.edu/bio/dr-luke-bouma) at the
+Observatories of the Carnegie Institution for Science, also in Pasadena,
+California. 
 
 [comment]: <>  (
 I graduated from the University of Southern California in 2015 with Bachelor's
@@ -32,8 +33,8 @@ California.
 )
 
 
-Outside of work, I enjoy spending time with family and friends, reading, and
-getting outside.
+Outside of work, I enjoy spending time with family and friends, reading,
+climbing, and exploring the outdoors.
 
 ![river](/images/riv.jpg)
 
