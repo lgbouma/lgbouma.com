@@ -1,13 +1,14 @@
 ### Young Planets in Star Clusters
 
-While thousands of exoplanets are known, most orbit anonymous stars in the
-Galaxy that are between one and ten billion years old.  I have been using
+While thousands of exoplanets are known, most are billions of years old.  I
+have used
 [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite),
 [Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
-study planets around stars in clusters younger than one billion years.
-The stellar ensembles in which these planets reside enable precise
-age measurements, which helps us put together a timeline for planet evolution.
+study planets around stars in clusters younger than one billion years.  The
+properties of these young planets help clarify the processes that sculpted
+present-day distributions of exoplanet sizes, atmospheres, and orbital
+geometries.
 
 {{< expand text="Click here to learn more" >}}
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
@@ -56,7 +57,7 @@ _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 
 ### Complex Periodic Variables
 
-The "complex periodic variables" are young low-mass stars that show highly
+Complex periodic variables are young low-mass stars that show highly
 structured and periodic optical light curves.  They seem to be 
 explained by clumps of circumstellar material that corotate with the
 star for hundreds of stellar rotation cycles.   The origin and composition of
@@ -67,12 +68,15 @@ environments to which close-in exoplanets are subject early in their lives.
 {{< expand text="Pandora's click" >}}
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [Talk](https://www.youtube.com/watch?v=oz31kMuVd58), [LP 12-502 movie](/movies/LP_12-502_20240724.mp4)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [Talk](https://www.youtube.com/watch?v=oz31kMuVd58)]  
 _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ AJ (2024).
 
 **PTFO 8-8695: Two Stars, Two Signals, No Planet**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)]  
 _with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
+
+**Movies of a few favorites:**  
+[LP 12-502 (P=18 hr)](/movies/LP_12-502_20240724.mp4), [TIC 300651846 (P=8 hr)](/movies/TIC300651846_20250217.mp4), [TIC 141146667 (P=4 hr)](/movies/TIC141146667_20250116.mp4)
 {{< /expand >}}
 
 
@@ -80,8 +84,8 @@ _with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
 
 Stars form in clusters when molecular clouds
 [collapse](https://youtu.be/3z9ZKAkbMhY?t=5).  After the gas from the birth
-cloud disperses, most of the stars escape the cluster's gravitational pull and
-gradually populate the galactic disk.  Using many of the same tools that I use
+cloud disperses, these clusters dissolve and gradually populate the galactic
+disk.  Using many of the same tools that I use
 to study exoplanets, I also study cluster dissolution.  The near-term goals are
 to reconstruct the initial cluster configurations, and to understand the
 processes that dictate the shapes, sizes, and orientations of these loosely
