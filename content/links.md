@@ -1,4 +1,4 @@
-__Astronomy Tools__
+__Sight__
 
 [TESS light curve inspector](https://fast-lightcurve-inspector.osc-fr1.scalingo.io/282254350) by Julien de Lambilly
 

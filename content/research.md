@@ -47,7 +47,7 @@ stars on the main-sequence.
 {{< expand text="Click here for news on rotation-based ages" >}}
 **Ages of Stars and Planets in the Kepler Field Younger Than Four Billion Years**
 [[Preprint](https://arxiv.org/abs/2410.06246)]   
-_with L. Hillenbrand, A. Howard, Howard I., and friends,_ in press at AJ.
+_with L. Hillenbrand, A. Howard, Howard I., and friends,_ in AJ.
 
 **The Empirical Limits of Gyrochronology**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract), [software package](https://github.com/lgbouma/gyro-interp), [talk](https://www.youtube.com/watch?v=WvRwwsRhOF4&list=PL7nnDaJImp28LhxIkCjQmUesklQ-PKdP5&index=2&t=37s) [movie #1](/movies/prot_teff_model_data.gif), [movie #2](/movies/model_prot_vs_teff.mp4)]  
@@ -69,7 +69,7 @@ environments to which close-in exoplanets are subject early in their lives.
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [Talk](https://www.youtube.com/watch?v=oz31kMuVd58)]  
-_with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ AJ (2024).
+_with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ in AJ (2024).
 
 **PTFO 8-8695: Two Stars, Two Signals, No Planet**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)]  
