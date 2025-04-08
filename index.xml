@@ -8,6 +8,35 @@
     <language>en-us</language><atom:link href="https://lgbouma.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>https://lgbouma.com/additional_links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lgbouma.com/additional_links/</guid>
+      <description>Astronomy Content
+Awesome astro list
+&amp;hellip;this is a genre
+Exoplanet archive plots
+Richard Townsend&amp;rsquo;s RRM movies
+Astronomy Meetings
+CADC meeting list
+AAS upcoming events
+Astronomy Web Services
+SVO Filter Profile Service
+SVO Theoretical Isochrones
+Astronomy Careers
+AAS Employment Statistics
+On Communication
+Watered-down milk
+Vinh
+Software miscellania
+Regex tester
+On vim registers
+Rabbit holes
+The SOFAR channel</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://lgbouma.com/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -58,7 +87,9 @@ Omar and friends
 Perspective
 Gapminder
 The Younger Dryas
-Incarceration in the United States</description>
+Incarceration in the United States
+Even More Links
+click</description>
     </item>
     
     <item>
@@ -103,16 +134,6 @@ Sienna, posing on remains of Mount Lowe Railway.</description>
       <guid>https://lgbouma.com/research/</guid>
       <description>Young Planets in Star Clusters While thousands of exoplanets are known, most are billions of years old. I have used TESS, Gaia, and Kepler to find and study planets around stars in clusters younger than one billion years. The properties of these young planets help clarify the processes that sculpted present-day distributions of exoplanet sizes, atmospheres, and orbital geometries.
 Click here to learn more →  Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association [Paper]</description>
-    </item>
-    
-    <item>
-      <title>The Observatory That Wasn&#39;t</title>
-      <link>https://lgbouma.com/posts/1/01/the-observatory-that-wasnt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/posts/1/01/the-observatory-that-wasnt/</guid>
-      <description>&amp;ldquo;Neither Suphis the monarch of Egypt, nor Rameses II, nor the builders of Nineveh, did greater work. Engineers from every nation on Earth have studied this wondrous electric road from Pasadena to the base of Mount Lowe and have pronounced it one of the chief monuments reared by human hands.&amp;rdquo; &amp;ndash; Edgar L. Larkin, 1901.
-In astronomical circles, the Mount Wilson Observatory commands a great deal of reverence. Historically, the observatory&amp;rsquo;s main claim to fame is the 100-inch Hooker telescope, which was the world&amp;rsquo;s largest telescope from 1917 to 1949.</description>
     </item>
     
   </channel>
