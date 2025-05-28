@@ -46,7 +46,7 @@ stars on the main-sequence.
 
 {{< expand text="Click here for news on rotation-based ages" >}}
 **Ages of Stars and Planets in the Kepler Field Younger Than Four Billion Years**
-[[Preprint](https://arxiv.org/abs/2410.06246)]   
+[[Paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..234B/abstract), [talk](https://youtu.be/zcp2XkXUkXo?si=cCderVTNjkztx1_o)]   
 _with L. Hillenbrand, A. Howard, Howard I., and friends,_ in AJ.
 
 **The Empirical Limits of Gyrochronology**
@@ -75,7 +75,7 @@ _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ in AJ (2024).
 [[Paper](https://ui.adsabs.harvard.edu/abs/2020AJ....160...86B/abstract)]  
 _with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
 
-**Movies of a few favorites:**  
+**Movies of some favorites:**  
 [LP 12-502 (P=18 hr)](/movies/LP_12-502_20250218.mp4), [TIC 300651846 (P=8 hr)](/movies/TIC300651846_20250217.mp4), [TIC 141146667 (P=4 hr)](/movies/TIC141146667_20250116.mp4)
 {{< /expand >}}
 
