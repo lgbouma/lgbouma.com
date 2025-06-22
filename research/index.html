@@ -1,21 +1,39 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2">
 <link rel="manifest" href="/site.webmanifest?v=2">
 <link rel="shortcut icon" href="/favicon.ico?v=2">
 
 
-		<title>Luke Bouma | Carnegie Science</title>
+  
+  <script>
+    (function() {
+      try {
+        const key = 'theme';
+        const ls  = localStorage.getItem(key);
+        const useDark =
+          ls === 'dark' ||
+          (!ls && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        if (useDark) document.documentElement.classList.add('dark');
+      } catch (e) {
+         
+      }
+    })();
+  </script>
 
-    <style>body{margin:40px auto;max-width:600px;line-height:1.3;font-size:16px;color:#000;padding:0 10px;font-family:Helvetica,Times}a{color:#1f77b4}a:visited{color:#1f77b4}a:hover{color:#1f77b4;background-color:#dcecf7}a:active{color:#1f77b4}h1,h2,h3{line-height:1.2}div.header h1{padding-top:0;padding-bottom:8px;margin-bottom:24px;font-size:16px;font-weight:400;border-bottom:0 solid}.header-menu{float:right}ul.pagination{list-style-type:none;text-align:center;padding:0}ul.pagination>li{padding:0 8px;display:inline-block}div.footer{border-top:0 solid;font-size:16px;text-align:right}div.header .header-links a{font-size:16px;font-variant:normal}div.footer .footer-links a{font-size:16px;font-variant:normal}div.header h1 a{font-size:16px;font-variant:normal}img{max-width:100%;max-height:100%;display:block;margin-left:auto;margin-right:auto}.expand{margin-bottom:.5rem}.expand-toggle{display:flex;align-items:center;text-decoration:none;color:#1f77b4}.expand-icon{margin-left:.2rem;transition:transform .3s}.expand-content{display:none;margin-top:.5rem;color:inherit}.expand.active .expand-icon{transform:rotate(90deg)}.expand.active .expand-content{display:block}</style>
+  <title>Luke Bouma | Carnegie Science</title>
 
-    
+  <style>:root{--bg:255 255 255;--text:0 0 0;--link:#1f77b4;--link-hover:#dcecf7}html.dark{--bg:0 0 0;--text:255 255 255;--link:#5bc0de;--link-hover:rgba(91,192,222,0.2)}#theme-toggle{background:0 0;border:0 solid var(--link);padding:0;cursor:pointer}#theme-toggle:focus{outline:none}body{background-color:rgb(var(--bg));color:rgb(var(--text));margin:40px auto;max-width:600px;line-height:1.3;font-size:16px;padding:0 10px;font-family:Helvetica,Times;transition:background-color .3s,color .3s}a{color:var(--link)}a:visited{color:var(--link)}a:hover{color:var(--link);background:var(--link-hover)}a:active{color:var(--link)}h1,h2,h3{line-height:1.2}div.header h1{padding-top:0;padding-bottom:8px;margin-bottom:24px;font-size:16px;font-weight:400;border-bottom:0 solid}.header-menu{float:right}ul.pagination{list-style-type:none;text-align:center;padding:0}ul.pagination>li{padding:0 8px;display:inline-block}div.footer{border-top:0 solid;font-size:16px;text-align:right}div.header .header-links a{font-size:16px;font-variant:normal}div.footer .footer-links a{font-size:16px;font-variant:normal}div.header h1 a{font-size:16px;font-variant:normal}img{max-width:100%;max-height:100%;display:block;margin-left:auto;margin-right:auto}.expand{margin-bottom:.5rem}.expand-toggle{display:flex;align-items:center;text-decoration:none;color:var(--link)}.expand-icon{margin-left:.2rem;transition:transform .3s}.expand-content{display:none;margin-top:.5rem;color:inherit}.expand.active .expand-icon{transform:rotate(90deg)}.expand.active .expand-content{display:block}</style>
+
+  
+  
 </head>
+
 
 
 <body>
@@ -75,9 +93,9 @@ Planet in IC 2602</strong> [<a href="https://ui.adsabs.harvard.edu/abs/2020AJ...
 <p><strong>Cluster Difference Imaging Photometric Survey. I. Light Curves of Stars in
 Open Clusters from TESS Sectors 6 and 7</strong>
 [<a href="https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract">Paper</a>,
-<a href="http://archive.stsci.edu/hlsp/cdips">light curves</a>,
-<a href="https://exofop.ipac.caltech.edu/tess/view_ctoi.php">planet candidates</a>,
-<a href="http://lgbouma.com/notes/">supplementary documentation</a>]<br>
+<a href="http://archive.stsci.edu/hlsp/cdips">Light Curves</a>,
+<a href="https://exofop.ipac.caltech.edu/tess/view_ctoi.php">Planet Candidates</a>,
+<a href="http://lgbouma.com/notes/">Supplementary Documentation</a>]<br>
 <em>with J. Hartman, W. Bhatti, J Winn, and G. Bakos,</em> in ApJS (2019)</p>
 
   </div>
@@ -96,10 +114,10 @@ stars on the main-sequence.</p>
   </a>
   <div class="expand-content">
     <p><strong>Ages of Stars and Planets in the Kepler Field Younger Than Four Billion Years</strong>
-[<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976..234B/abstract">Paper</a>, <a href="https://youtu.be/zcp2XkXUkXo?si=cCderVTNjkztx1_o">talk</a>]<br>
-<em>with L. Hillenbrand, A. Howard, Howard I., and friends,</em> in AJ.</p>
+[<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976..234B/abstract">Paper</a>, <a href="https://youtu.be/zcp2XkXUkXo?si=cCderVTNjkztx1_o">Talk</a>]<br>
+<em>with L. Hillenbrand, A. Howard, Howard I., and friends,</em> in AJ (2024).</p>
 <p><strong>The Empirical Limits of Gyrochronology</strong>
-[<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract">Paper</a>, <a href="https://github.com/lgbouma/gyro-interp">software package</a>, <a href="https://www.youtube.com/watch?v=WvRwwsRhOF4&amp;list=PL7nnDaJImp28LhxIkCjQmUesklQ-PKdP5&amp;index=2&amp;t=37s">talk</a> <a href="/movies/prot_teff_model_data.gif">movie #1</a>, <a href="/movies/model_prot_vs_teff.mp4">movie #2</a>]<br>
+[<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract">Paper</a>, <a href="https://github.com/lgbouma/gyro-interp">Software</a>, <a href="https://www.youtube.com/watch?v=WvRwwsRhOF4&amp;list=PL7nnDaJImp28LhxIkCjQmUesklQ-PKdP5&amp;index=2&amp;t=37s">Talk</a>, <a href="/movies/prot_teff_model_data.gif">Movie #1</a>, <a href="/movies/model_prot_vs_teff.mp4">Movie #2</a>]<br>
 <em>with E. Palumbo and L. Hillenbrand,</em> in ApJL (2023).</p>
 
   </div>
@@ -109,9 +127,9 @@ stars on the main-sequence.</p>
 <p>Complex periodic variables are young low-mass stars that show highly
 structured and periodic optical light curves.  They seem to be
 explained by clumps of circumstellar material that corotate with the
-star for hundreds of stellar rotation cycles.   The origin and composition of
-this material is unknown.  Resolving the issue will deepen
-our understanding of stellar physics, and clarify the circumstellar
+star for hundreds of stellar rotation cycles.   The origin of
+this material is unknown.  These objects are deepening
+our understanding of stellar physics, and helping to clarify the
 environments to which close-in exoplanets are subject early in their lives.</p>
 <div class="expand">
   <a class="expand-toggle" href="#">
@@ -119,7 +137,10 @@ environments to which close-in exoplanets are subject early in their lives.</p>
     <span class="expand-icon">→</span>
   </a>
   <div class="expand-content">
-    <p><strong>Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
+    <p><strong>A Plasma Torus Around a Young Low-Mass Star</strong>
+[<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250609116B/abstract">Paper</a>]<br>
+<em>with M. Jardine,</em>, in ApJL (2025)</p>
+<p><strong>Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS</strong>
 [<a href="https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract">Paper</a>, <a href="https://www.youtube.com/watch?v=oz31kMuVd58">Talk</a>]<br>
 <em>with R. Jayaraman, S. Rappaport, L. Rebull, and friends,</em> in AJ (2024).</p>
@@ -152,7 +173,7 @@ might be able to identify and study stars in the Sun&rsquo;s birth cluster.</p>
 [<a href="https://ui.adsabs.harvard.edu/abs/2023AJ....166...14B/abstract">Paper</a>]<br>
 <em>led by A. Boyle</em>, in AJ (2023)</p>
 <p><strong>Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster NGC 2516</strong>
-[<a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract">Paper</a>, <a href="http://lgbouma.com/notes/">supplementary data</a>]<br>
+[<a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract">Paper</a>, <a href="http://lgbouma.com/notes/">Supplementary Data</a>]<br>
 <em>with J. Curtis, J. Hartman, J. Winn, and G. Bakos,</em> in AJ (2021)</p>
 
   </div>
@@ -210,22 +231,63 @@ Surveys</strong>
     </div>
 
     
-<div class="footer">
+  <div class="footer">
     
-    
-    <div class="footer-links">
-        <a href="https://github.com/lgbouma">github</a>
-        <a href="https://ui.adsabs.harvard.edu/public-libraries/uXPWdyI2RH2T-Sv0rcwUwA">publications</a>
-        <a href="/pdfs/LukeBouma_CV_Spring2025.pdf">cv</a>
-        <a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_works&amp;gmla=AJsN-F7g3-jB3BwkL8d3mP_n5CJbMutUQQUzIe3I9EpGI3fXSURl3Vv1aBv53crsYXSUFuflj24kIXe02NTGjIkIHzNPrtz1NWQ4YlndGJbvhQUOfCjZ_po&amp;user=RILfQ1EAAAAJ">scholar</a>
-        <a href="/notes/">notes</a>
-        <a href="/oddities/">oddities</a>
-    </div>
+      <div class="footer-links">
+            <a href="https://github.com/lgbouma">github</a>
+          
+        
+            <a href="https://ui.adsabs.harvard.edu/public-libraries/uXPWdyI2RH2T-Sv0rcwUwA">publications</a>
+          
+        
+            <a href="/pdfs/LukeBouma_CV_Spring2025.pdf">cv</a>
+          
+        
+            <a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_works&amp;gmla=AJsN-F7g3-jB3BwkL8d3mP_n5CJbMutUQQUzIe3I9EpGI3fXSURl3Vv1aBv53crsYXSUFuflj24kIXe02NTGjIkIHzNPrtz1NWQ4YlndGJbvhQUOfCjZ_po&amp;user=RILfQ1EAAAAJ">scholar</a>
+          
+        
+            <a href="/notes/">notes</a>
+          
+        
+            <a href="/oddities/">oddities</a>
+          
+        
+			
+			<button id="theme-toggle" aria-label="Toggle theme">🌓</button>
+      </div>
     
 
     
-    
-</div>
+  </div>
+  
+	<script>
+		document.addEventListener('DOMContentLoaded', () => {
+			const key  = 'theme';
+			const root = document.documentElement;
+			const btn  = document.getElementById('theme-toggle');
+			if (!btn) return;
+
+			
+			const saved   = localStorage.getItem(key);
+			const useDark =
+				saved === 'dark' ||
+				(!saved && window.matchMedia('(prefers-color-scheme: dark)').matches);
+
+			
+			if (useDark) root.classList.add('dark');
+
+			
+			btn.textContent = useDark ? '☀️' : '🌙';
+
+			
+			btn.addEventListener('click', () => {
+				const isDark = root.classList.toggle('dark');
+				localStorage.setItem(key, isDark ? 'dark' : 'light');
+				btn.textContent = isDark ? '☀️' : '🌙';
+			});
+		});
+	</script>
+
 
 		
 		<script src="https://lgbouma.com/js/hello.js"></script>
