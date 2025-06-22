@@ -1,20 +1,41 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {{ partial "favicons.html" . }}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ partial "favicons.html" . }}
 
-		<title>Luke Bouma | Carnegie Science</title>
+  <!-- flicker-free dark mode init -->
+  <script>
+    (function() {
+      try {
+        const key = 'theme';
+        const ls  = localStorage.getItem(key);
+        const useDark =
+          ls === 'dark' ||
+          (!ls && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        if (useDark) document.documentElement.classList.add('dark');
+      } catch (e) {
+        /* ignore */
+      }
+    })();
+  </script>
 
-    {{ $styles := resources.Get "css/style.css" | minify -}}
-    <style>
-        {{- $styles.Content | safeCSS -}}
-    </style>
+  <title>Luke Bouma | Carnegie Science</title>
 
-    {{- if .RSSLink }}
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    {{- end -}}
+  {{ $styles := resources.Get "css/style.css" | minify -}}
+  <style>
+    {{- $styles.Content | safeCSS -}}
+  </style>
 
-    {{ template "_internal/google_analytics_async.html" . }}
+  {{- if .RSSLink }}
+  <link
+    href="{{ .RSSLink }}"
+    rel="alternate"
+    type="application/rss+xml"
+    title="{{ .Site.Title }}"
+  />
+  {{- end }}
 
-    {{ partial "head_custom" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
+  {{ partial "head_custom" . }}
 </head>
+

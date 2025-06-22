@@ -1,23 +1,51 @@
 {{ block "footer" . }}
-<div class="footer">
-    {{/* Display links if available */}}
+  <div class="footer">
     {{ if .Site.Menus.footer }}
-    <div class="footer-links">
+      <div class="footer-links">
         {{- range .Site.Menus.footer -}}
-        {{ if eq (hasPrefix .URL "mailto:") true }}
-        <a href="{{ .URL }}">{{- .Name -}}</a>
-        {{ else }}
-        <a href="{{ .URL | relLangURL }}">{{- .Name -}}</a>
-        {{- end -}}
+          {{ if eq (hasPrefix .URL "mailto:") true }}
+            <a href="{{ .URL }}">{{- .Name -}}</a>
+          {{ else }}
+            <a href="{{ .URL | relLangURL }}">{{- .Name -}}</a>
+          {{ end }}
         {{ end }}
-    </div>
+			<!-- theme toggle button -->
+			<button id="theme-toggle" aria-label="Toggle theme">🌓</button>
+      </div>
     {{ end }}
 
-    {{/* Display copyright if available */}}
     {{ if .Site.Copyright }}
-    <div class="copyright">
+      <div class="copyright">
         {{- .Site.Copyright -}}
-    </div>
+      </div>
     {{ end }}
-</div>
+  </div>
+  <!-- theme toggle script -->
+	<script>
+		document.addEventListener('DOMContentLoaded', () => {
+			const key  = 'theme';
+			const root = document.documentElement;
+			const btn  = document.getElementById('theme-toggle');
+			if (!btn) return;
+
+			// 1. Figure out initial mode…
+			const saved   = localStorage.getItem(key);
+			const useDark =
+				saved === 'dark' ||
+				(!saved && window.matchMedia('(prefers-color-scheme: dark)').matches);
+
+			// 2. Apply it…
+			if (useDark) root.classList.add('dark');
+
+			// 3. Set the correct emoji: 🌙 means “switch to dark,” ☀️ means “switch to light”
+			btn.textContent = useDark ? '☀️' : '🌙';
+
+			// 4. On click, toggle class, persist, and swap emoji
+			btn.addEventListener('click', () => {
+				const isDark = root.classList.toggle('dark');
+				localStorage.setItem(key, isDark ? 'dark' : 'light');
+				btn.textContent = isDark ? '☀️' : '🌙';
+			});
+		});
+	</script>
 {{ end }}
