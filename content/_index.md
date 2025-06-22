@@ -4,8 +4,8 @@ I am an astronomer and physicist, and I am currently a Carnegie postdoctoral
 fellow at the Observatories in Pasadena.
 
 My main research topic is planets that orbit other stars — exoplanets.
-Exoplanet science is in a golden age of discovery, fueled by ever-more
-sensitive telescopes and ever-more clever data processing techniques.
+Exoplanet science is in a golden age of discovery, fueled by increasingly
+sensitive telescopes and cutting-edge data processing techniques.
 
 I am especially interested in exoplanet origins and the star-planet connection.
 What processes produced the exoplanets that we see today?  In what stellar and

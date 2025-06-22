@@ -30,9 +30,9 @@ _with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
 **Cluster Difference Imaging Photometric Survey. I. Light Curves of Stars in
   Open Clusters from TESS Sectors 6 and 7**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...13B/abstract),
-  [light curves](http://archive.stsci.edu/hlsp/cdips),
-  [planet candidates](https://exofop.ipac.caltech.edu/tess/view_ctoi.php),
-  [supplementary documentation](http://lgbouma.com/notes/)]   
+  [Light Curves](http://archive.stsci.edu/hlsp/cdips),
+  [Planet Candidates](https://exofop.ipac.caltech.edu/tess/view_ctoi.php),
+  [Supplementary Documentation](http://lgbouma.com/notes/)]   
 _with J. Hartman, W. Bhatti, J Winn, and G. Bakos,_ in ApJS (2019)
 {{< /expand >}}
 
@@ -46,11 +46,11 @@ stars on the main-sequence.
 
 {{< expand text="Click here for news on rotation-based ages" >}}
 **Ages of Stars and Planets in the Kepler Field Younger Than Four Billion Years**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..234B/abstract), [talk](https://youtu.be/zcp2XkXUkXo?si=cCderVTNjkztx1_o)]   
-_with L. Hillenbrand, A. Howard, Howard I., and friends,_ in AJ.
+[[Paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..234B/abstract), [Talk](https://youtu.be/zcp2XkXUkXo?si=cCderVTNjkztx1_o)]   
+_with L. Hillenbrand, A. Howard, Howard I., and friends,_ in AJ (2024).
 
 **The Empirical Limits of Gyrochronology**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract), [software package](https://github.com/lgbouma/gyro-interp), [talk](https://www.youtube.com/watch?v=WvRwwsRhOF4&list=PL7nnDaJImp28LhxIkCjQmUesklQ-PKdP5&index=2&t=37s) [movie #1](/movies/prot_teff_model_data.gif), [movie #2](/movies/model_prot_vs_teff.mp4)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract), [Software](https://github.com/lgbouma/gyro-interp), [Talk](https://www.youtube.com/watch?v=WvRwwsRhOF4&list=PL7nnDaJImp28LhxIkCjQmUesklQ-PKdP5&index=2&t=37s), [Movie #1](/movies/prot_teff_model_data.gif), [Movie #2](/movies/model_prot_vs_teff.mp4)]  
 _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 {{< /expand >}}
 
@@ -58,14 +58,18 @@ _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 ### Complex Periodic Variables
 
 Complex periodic variables are young low-mass stars that show highly
-structured and periodic optical light curves.  They seem to be 
+structured and periodic optical light curves.  They seem to be
 explained by clumps of circumstellar material that corotate with the
-star for hundreds of stellar rotation cycles.   The origin and composition of
-this material is unknown.  Resolving the issue will deepen
-our understanding of stellar physics, and clarify the circumstellar
+star for hundreds of stellar rotation cycles.   The origin of
+this material is unknown.  These objects are deepening
+our understanding of stellar physics, and helping to clarify the 
 environments to which close-in exoplanets are subject early in their lives.
 
 {{< expand text="Pandora's click" >}}
+**A Plasma Torus Around a Young Low-Mass Star**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250609116B/abstract)]  
+_with M. Jardine,_, in ApJL (2025)
+
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [Talk](https://www.youtube.com/watch?v=oz31kMuVd58)]  
@@ -98,7 +102,7 @@ might be able to identify and study stars in the Sun's birth cluster.
 _led by A. Boyle_, in AJ (2023)
 
 **Rotation and Lithium Confirmation of a 500 Parsec Halo for the Open Cluster NGC 2516**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract), [supplementary data](http://lgbouma.com/notes/)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210708050B/abstract), [Supplementary Data](http://lgbouma.com/notes/)]  
 _with J. Curtis, J. Hartman, J. Winn, and G. Bakos,_ in AJ (2021)
 {{< /expand >}}
 
