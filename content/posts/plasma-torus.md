@@ -77,9 +77,10 @@ blobs of plasma on opposite sides of the star that rotate with it.  This
 statement doesn't depend on models.
 
 The interpretation that these blobs are the densest parts of a warped plasma
-torus comes from models that predict what the spectroscopic and photometric
+torus comes from [models](https://ui.adsabs.harvard.edu/abs/2005MNRAS.357..251T/abstract) that [predict](https://ui.adsabs.harvard.edu/abs/2008MNRAS.389..559T/abstract) what the spectroscopic and photometric
 features of such structures would be.  A few such models are below - these
-movies were made by Richard Townsend and are shown here with permission.  
+movies were made by [Richard
+Townsend](http://user.astro.wisc.edu/~townsend/static.php?ref=rrm-movies#Download_Bundles) and are shown here with permission.  
 
 <video controls style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
   <source src="/movies/rrm-o50.mp4" type="video/mp4">
@@ -100,17 +101,17 @@ M-dwarfs, the stars most likely to harbour Earth-like planets, have such tori;
 would their presence extend or reduce the habitable zone?__
 
 The average M dwarf does indeed appear to host at least one rocky planet, near
-Earth in size.  This statement applies within orbital periods of 100 days.
+Earth in size.  This statement
+[applies](https://ui.adsabs.harvard.edu/abs/2015ApJ...807...45D/abstract) within orbital periods of 100 days.
 However most known M dwarf planets are far too hot to host oceans or
 atmospheres.  Even the ones that might be capable of having water on their
-surfaces (the "habitable zone" ones) may not be hospitable.  This is because
-the stars begin their lives very luminous, and decrease in luminosity over the
-first few hundred million years -- so the M dwarf planets could become
-desiccated.  Young M dwarfs also emit intense bursts of UV, x-rays, and
-energetic particles, which could erode the planetary atmospheres and sterilize
-the surfaces.
+surfaces may not be hospitable.  This is because the stars begin their lives
+very luminous, and decrease in luminosity over the first few hundred million
+years -- so the M dwarf planets could become desiccated.  Young M dwarfs also
+emit intense bursts of UV, x-rays, and energetic particles, which could erode
+the planetary atmospheres and sterilize the surfaces.
 
-What we've seen here suggests that one of these mystery variable stars, complex
+What we've seen suggests that one of these mystery variable stars, complex
 periodic variables, has a warped plasma torus.  Since it was the first one for
 which this kind of data have been acquired, this suggests (though it remains to
 be proven!) that similar structures may be present around all complex periodic
@@ -118,14 +119,14 @@ variables.
 
 Although we don't know what fraction of young red dwarfs have spectra like what
 we saw, we do know what fraction of young red dwarfs are complex periodic
-variables.  It's 3% at t=1 million years, and it decreases to 0.3% at t=100
+variables.  It's 3% at _t_=1 million years, and it decreases to 0.3% at _t_=100
 million years.  However to see the "complex" photometric features, we need to
 be viewing the stars edge-on, just like to see a transiting planet you need to
-see it edge-on.  If you account for this geometry, and if all complex periodic
-variables do indeed have plasma tori, then these observed fractions are
-compatible with at least 10% of M dwarfs hosting these types of warped plasma
-tori early in their lives.  A smaller total fraction of M dwarfs, perhaps a few
-percent, seem to sustain their tori for up to one hundred million years.
+see it edge-on.  If you account for this geometry, then these observed
+fractions are compatible with at least 10% of M dwarfs hosting these types of
+warped plasma tori early in their lives.  A smaller total fraction of M dwarfs,
+perhaps a few percent, seem to sustain their tori for up to one hundred million
+years.
 
 It is not clear whether these tori are connected to habitability.  While it's
 possible that a planet could exist near or even inside a torus (just like Io
@@ -133,7 +134,7 @@ exists within its torus!), there is currently no direct evidence for this
 scenario.  If such planets did exist, they would be much too close to the star
 to host water on their surfaces.
 
-The broader significance will ultimately depend on where the material in the
+The broader significance will depend on where the material in the
 torus comes from.  It could come from the star;  it could also come from
 external sources, like an undetected natal disk, or an undetected planet.
 Future work will have to figure that out.  For the time being, I'm just glad
