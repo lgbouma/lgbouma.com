@@ -67,7 +67,7 @@ environments to which close-in exoplanets are subject early in their lives.
 
 {{< expand text="Pandora's click" >}}
 **A Plasma Torus Around a Young Low-Mass Star**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250609116B/abstract)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250609116B/abstract), [Blog Post](/posts/2025/07/qa-a-plasma-torus-around-a-young-low-mass-star/)]  
 _with M. Jardine,_, in ApJL (2025)
 
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
