@@ -98,3 +98,9 @@ pygmentsStyle = "vs"
 [params]
   # Date format (default: Jan 2, 2006)
   # datefmt  = "Jan 2, 2006"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
