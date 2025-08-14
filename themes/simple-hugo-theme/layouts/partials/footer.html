@@ -30,12 +30,12 @@
 
 			// 1. Figure out initial mode…
 			const saved   = localStorage.getItem(key);
-			const useDark =
-				saved === 'dark' ||
-				(!saved && window.matchMedia('(prefers-color-scheme: dark)').matches);
+			// Default to dark if no saved preference; honor explicit 'light'
+			const useDark = saved !== 'light';
 
 			// 2. Apply it…
 			if (useDark) root.classList.add('dark');
+			else root.classList.remove('dark');
 
 			// 3. Set the correct emoji: 🌙 means “switch to dark,” ☀️ means “switch to light”
 			btn.textContent = useDark ? '☀️' : '🌙';
