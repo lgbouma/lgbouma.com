@@ -6,8 +6,6 @@ __Astronomy Content__
 
 [Exoplanet archive plots](https://exoplanetarchive.ipac.caltech.edu/exoplanetplots/)
 
-[Richard Townsend's RRM movies](http://user.astro.wisc.edu/~townsend/static.php?ref=rrm-movies#Download_Bundles)
-
 __Astronomy Meetings__
 
 [CADC meeting list](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/)

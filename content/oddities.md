@@ -1,8 +1,14 @@
+![rocks](/images/maroonbells.jpg)
+Me walking near Maroon Bells, CO.  August 2025.
+
 ![clouds](/images/clouds.jpg)
 Clouds in New Jersey, ca. 2019.
 
-![clouds](/images/turtles.jpg)
-Me by the turtle pond.  March, 2021.
+[comment]: <> (![clouds](/images/turtles.jpg))
+[comment]: <> (Me by the turtle pond.  March 2021.)
+
+![thimbleberry](/images/thimbleberry.jpg)
+Thimbleberry in Montana.  Easily confused for raspberry.  August, 2022.
 
 ![clouds](/images/saturn_ISO500_halfsec_0_heavy_wavelet_rings_5_crop.png)
 Saturn. The [Cassini
@@ -17,14 +23,11 @@ Canon EOS 60D.  August, 2017.
 [comment]: <> (![clouds](/images/river.jpg)
 Me next to river.  August, 2020.)
 
-![thimbleberry](/images/thimbleberry.jpg)
-Thimbleberry in Montana.  Easily confused for raspberry.  August, 2022.
+![sienna](/images/sienna.jpg)
+Sienna, posing on remains of Mount Lowe Railway.  April, 2022.
 
 ![fallcolors](/images/fallcolors.jpg)
 Good fall colors in Princeton, outside Peyton Hall.  September, 2017.
-
-![sienna](/images/sienna.jpg)
-Sienna, posing on remains of Mount Lowe Railway.  April, 2022.
 
 ![yellow](/images/yellow.jpg)
 Rocks next to a water spout in Nevada. Tal (blue hat); me (orange hat).  June, 2016.
