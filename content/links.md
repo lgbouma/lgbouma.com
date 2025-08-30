@@ -26,4 +26,4 @@ __Perspective__
 
 __Even More Links__
 
-[click](/additional_links/) 
+[Click](/additional_links/) 

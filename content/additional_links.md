@@ -34,6 +34,8 @@ __Software miscellania__
 
 [On vim registers](https://www.brianstorti.com/vim-registers/)
 
+[💾](/some_apps/)
+
 __Rabbit holes__
 
 [The SOFAR channel](https://en.wikipedia.org/wiki/SOFAR_channel)

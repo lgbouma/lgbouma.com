@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Milky Way Star Cluster Simulation — Bar + Clumpy Potential</title>
+  <style>
+    /*
+     * Core styles for the star cluster simulator.  We choose a dark theme
+     * throughout with light typography.  Controls are laid out in a panel
+     * anchored to the top–left corner, and the simulation itself occupies
+     * the remainder of the viewport.  Responsive sizing ensures that the
+     * canvas always fills the available space.
+     */
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    #controls {
+      position: absolute;
+      top: 1rem;
+      left: 1rem;
+      background: rgba(20, 20, 20, 0.8);
+      padding: 0.75rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+      z-index: 100;
+      font-size: 0.9rem;
+    }
+
+    #controls label {
+      display: block;
+      margin: 0.4rem 0 0.1rem 0;
+    }
+
+    #controls input[type=range] {
+      width: 200px;
+      margin-bottom: 0.4rem;
+    }
+
+    #controls button {
+      margin-right: 0.4rem;
+      padding: 0.3rem 0.7rem;
+      background-color: #444;
+      border: none;
+      border-radius: 0.3rem;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    #controls button:hover {
+      background-color: #666;
+    }
+
+    canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
+    /* Time counter and control buttons anchored at bottom‑right */
+    #timeContainer {
+      position: absolute;
+      bottom: 1rem;
+      right: 1rem;
+      background: rgba(20, 20, 20, 0.8);
+      padding: 0.5rem 0.75rem;
+      border-radius: 0.4rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.9rem;
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+      color: #fff;
+    }
+
+    #timeContainer button {
+      padding: 0.3rem 0.6rem;
+      background-color: #444;
+      border: none;
+      border-radius: 0.3rem;
+      color: #fff;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+
+    #timeContainer button:hover {
+      background-color: #666;
+    }
+
+    /* README button at top-right */
+    #readmeButton {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      z-index: 110;
+    }
+    #readmeButton button {
+      padding: 0.35rem 0.75rem;
+      background-color: #444;
+      border: none;
+      border-radius: 0.3rem;
+      color: #fff;
+      cursor: pointer;
+      font-size: 0.9rem;
+      box-shadow: 0 0 8px rgba(0,0,0,0.6);
+    }
+    #readmeButton button:hover { background-color: #666; }
+
+    /* README modal */
+    #readmeBackdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.55);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 200;
+    }
+    #readmeModal {
+      max-width: min(800px, 90vw);
+      max-height: min(80vh, 900px);
+      overflow: auto;
+      background: #111;
+      color: #eee;
+      border-radius: 0.6rem;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.7);
+      padding: 1rem 1.25rem;
+      line-height: 1.45;
+    }
+    #readmeModal h2 {
+      margin-top: 0;
+      font-size: 1.1rem;
+    }
+    #readmeModal p { margin: 0.5rem 0; }
+    #readmeClose {
+      float: right;
+      margin-left: 0.75rem;
+      padding: 0.25rem 0.6rem;
+      background: #444;
+      color: #fff;
+      border: none;
+      border-radius: 0.3rem;
+      cursor: pointer;
+    }
+    #readmeClose:hover { background: #666; }
+  </style>
+</head>
+<body>
+  <!-- Top-right README button -->
+  <div id="readmeButton">
+    <button id="openReadme" aria-haspopup="dialog" aria-controls="readmeBackdrop" title="Show README">
+      README
+    </button>
+  </div>
+  <!-- Control panel with sliders for adjusting simulation parameters -->
+  <div id="controls">
+    <label>Number of stars: <span id="numStarsVal"></span></label>
+    <input id="numStars" type="range" min="100" max="20000" step="100" value="1000">
+    
+    <label>Galactocentric radius (kpc): <span id="radiusVal"></span></label>
+    <!-- Restrict the radius slider to 5–10 kpc as per updated specification -->
+    <input id="radius" type="range" min="5" max="10" step="0.5" value="8">
+    
+    <label>Velocity dispersion (km&nbsp;s<sup>−1</sup>): <span id="dispersionVal"></span></label>
+    <input id="dispersion" type="range" min="0" max="10" step="0.5" value="1">
+    
+    <label>Time rate (Myr&nbsp;s<sup>−1</sup>): <span id="timeRateVal"></span></label>
+    <!-- Increase the maximum time rate to 100 to allow faster evolution -->
+    <input id="timeRate" type="range" min="0.1" max="500" step="0.1" value="1">
+
+    <!-- GMC clumpy potential controls -->
+    <label>
+      <input id="enableGMC" type="checkbox" checked>
+      Enable GMC clumps
+    </label>
+
+    <label>Number of GMCs: <span id="numGMCVal"></span></label>
+    <input id="numGMC" type="range" min="200" max="10000" step="100" value="3000">
+
+    <label>Median GMC lifetime (Myr): <span id="tauGMCVal"></span></label>
+    <input id="tauGMC" type="range" min="10" max="40" step="1" value="20">
+
+    <div style="margin-top:0.5rem;">
+      <button id="resetBtn">Reset</button>
+    </div>
+  </div>
+
+  <!-- Rendering surface for the star cluster simulation -->
+  <canvas id="canvas"></canvas>
+
+  <!-- Time counter and playback controls anchored at bottom‑right -->
+  <div id="timeContainer">
+    <button id="playBtn">Play</button>
+    <button id="pauseBtn">Pause</button>
+    <span id="timeDisplay">0.0&nbsp;Myr</span>
+  </div>
+
+  <!-- README modal (hidden by default) -->
+  <div id="readmeBackdrop" role="dialog" aria-modal="true" aria-labelledby="readmeTitle">
+    <div id="readmeModal">
+      <button id="readmeClose" aria-label="Close">Close</button>
+      <h2 id="readmeTitle">Simulation README — Core Assumptions</h2>
+      <p><strong>Scope:</strong> This is a lightweight, pedagogical N-body style visualization using test particles in the Galactic plane. It is not a full self-consistent dynamical model.</p>
+      <p><strong>Geometry:</strong> Motion is 2D in the disk midplane; vertical forces are neglected.</p>
+      <p><strong>Test particles:</strong> Stars do not interact with each other (no self-gravity, no collisional effects). Each particle samples the background potential.</p>
+      <p><strong>Units:</strong> Positions are in kpc and time in Myr. Velocities use a fixed conversion from km s⁻1 to kpc Myr⁻1.</p>
+      <p><strong>Axisymmetric background (Eilers et&nbsp;al. 2019):</strong> We follow the Milky Way rotation-curve constraints of Eilers et&nbsp;al. and adopt v<sub>c</sub>(R) that is linear between 5–25&nbsp;kpc with slope −1.7&nbsp;km&nbsp;s⁻1&nbsp;kpc⁻1 and v<sub>c</sub>(8&nbsp;kpc)=229&nbsp;km&nbsp;s⁻1. The radial acceleration is a<sub>R</sub>=−v<sub>c</sub>(R)<sup>2</sup>/R.</p>
+      <p><strong>Rotating bar (Bovy 2019; cf. Monari et&nbsp;al. 2019):</strong> We include a simple rotating quadrupole to mimic the Galactic bar with pattern speed ≈39&nbsp;km&nbsp;s⁻1&nbsp;kpc⁻1, present-day angle ≈25°, moderate strength (ε≈0.025), softening ≈0.5&nbsp;kpc, and an outer taper beyond ≈5&nbsp;kpc.</p>
+      <p><strong>Clumpy GMC field (Heyer &amp; Dame 2015; Miville‑Deschênes et&nbsp;al. 2017; Chevance et&nbsp;al. 2020):</strong> Giant molecular clouds are represented as softened point masses with a power‑law mass spectrum (β≈1.8), surface‑density–based sizes, random lifetimes with a median 10–40&nbsp;Myr (varying with radius), and modest velocity dispersion. Clouds appear/disappear to maintain a target count.</p>
+      <p><strong>Cluster initialization:</strong> Stars start within a ~50 pc radius sphere at chosen R, with bulk circular motion plus an isotropic Gaussian velocity dispersion set by the slider.</p>
+      <p><strong>Integrator:</strong> A simple explicit update (Euler/leapfrog-like) advances positions with small time steps tied to the animation frame rate; accuracy favors qualitative behavior over precision.</p>
+      <p><strong>Boundaries & realism:</strong> No live halo, spiral arms, or gas hydrodynamics. Outer radii are limited for stability/visual clarity.</p>
+      <p><strong>Goal:</strong> Provide intuition for how a bar and a clumpy interstellar medium can heat, shear, and dissolve stellar groups over tens to hundreds of Myr.</p>
+      <p style="opacity:0.9; margin-top:0.8rem;"><strong>References (examples):</strong> Eilers et&nbsp;al. 2019 (MW rotation curve); Bovy 2019 (bar overview); Monari et&nbsp;al. 2019 (bar pattern speed); Heyer &amp; Dame 2015 (MW GMC review); Miville‑Deschênes et&nbsp;al. 2017 (MW GMC catalog); Chevance et&nbsp;al. 2020 (cloud lifecycle).</p>
+    </div>
+  </div>
+
+  <!-- Simulation logic is encapsulated in an external script for clarity -->
+  <script src="script.js"></script>
+</body>
+</html>
