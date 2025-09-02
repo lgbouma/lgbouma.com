@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SPHEREx vs WISE: Warm Dust Sensitivity</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* Minimal fallback if styles.css fails to load */
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SPHEREx vs WISE: Warm Dust Sensitivity</h1>
+    <p>
+      Two-blackbody SED simulator (star + dust) with mock Gaia, 2MASS, WISE (W1,W2), and SPHEREx bandpasses.
+      Toggle SPHEREx to compare detection significance for IR excess.
+    </p>
+    <button id="readmeBtn" class="readme-btn" aria-haspopup="dialog" aria-controls="readmeModal">README</button>
+  </header>
+
+  <section class="controls">
+    <div class="control">
+      <label for="teff">Stellar Teff (K): <span id="teffVal">5800</span></label>
+      <input id="teff" type="range" min="2500" max="8000" step="10" value="5800" />
+    </div>
+    <div class="control">
+      <label for="distance">Distance (pc): <span id="distanceVal">10</span></label>
+      <input id="distance" type="range" min="5" max="500" step="1" value="10" />
+    </div>
+    <div class="control">
+      <label for="tdust">Dust T (K): <span id="tdustVal">300</span></label>
+      <input id="tdust" type="range" min="100" max="1000" step="1" value="300" />
+    </div>
+    <div class="control">
+      <label for="fdust">f_dust/f_star (bolometric): <span id="fdustVal">1e-3</span></label>
+      <input id="fdust" type="range" min="-7" max="-1" step="0.1" value="-3" />
+    </div>
+    <div class="control toggles">
+      <button id="toggleSpherex" class="active">SPHEREx: ON</button>
+      <button id="resetBtn">Reset Defaults</button>
+    </div>
+  </section>
+
+  <section class="status">
+    <div id="detection" class="detect">—</div>
+    <div id="fitSummary" class="fit">—</div>
+  </section>
+
+  <section class="plot">
+    <canvas id="sedPlot" width="960" height="420" aria-label="SED plot"></canvas>
+    <div id="tooltip" class="tooltip" role="tooltip" aria-hidden="true"></div>
+  </section>
+
+  <section class="tables">
+    <h2>Mock Photometry</h2>
+    <div class="tables-grid">
+      <div>
+        <h3>Gaia + 2MASS + WISE</h3>
+        <table id="photTable">
+          <thead>
+            <tr><th>Band</th><th>λ range (µm)</th><th>Fν (mJy)</th><th>σ (mJy)</th><th>Model Fν (mJy)</th><th>Δ/σ</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div>
+        <h3>SPHEREx (0.75–5.01 µm)</h3>
+        <table id="spherexTable">
+          <thead>
+            <tr><th>λ min–max (µm)</th><th>Fν (mJy)</th><th>σ (mJy)</th><th>Model Fν (mJy)</th><th>Δ/σ</th></tr>
+          </thead>
+          <tbody></tbody>
+          <tfoot>
+            <tr><td><b>Eff. 2.40–5.01</b></td><td id="sphEffF">—</td><td id="sphEffE">—</td><td id="sphEffM">—</td><td id="sphEffS">—</td></tr>
+          </tfoot>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <small>
+      Assumptions: star radius = R☉, f_dust/f_star is bolometric flux ratio.
+      Bandpasses are simple top-hats (mock). Uncertainties combine a fractional term, an absolute floor, and a photon-noise term for SPHEREx bins.
+    </small>
+  </footer>
+
+  <!-- README modal -->
+  <div id="readmeOverlay" class="readme-overlay" aria-hidden="true"></div>
+  <div id="readmeModal" class="readme-modal" role="dialog" aria-modal="true" aria-labelledby="readmeTitle" aria-describedby="readmeBody" aria-hidden="true">
+    <div class="readme-header">
+      <h2 id="readmeTitle">Assumptions</h2>
+      <button id="readmeClose" class="readme-close" aria-label="Close">✕</button>
+    </div>
+    <div id="readmeBody" class="readme-content">
+      <ul>
+        <li><b>SED model:</b> star and dust are blackbodies; star radius = R☉; dust scaling set by bolometric ratio f_dust/f_star.</li>
+        <li><b>Bandpasses:</b> simple top-hats. Gaia/2MASS/WISE broad bands; SPHEREx uses 64 uniform bins from 0.75–5.01 µm.</li>
+        <li><b>Fluxes:</b> Fν computed by averaging across each band/bin.</li>
+        <li><b>Uncertainties (Gaia/2MASS/WISE):</b> sqrt((F×frac)² + floor²) with per-band frac and floor.</li>
+        <li><b>Uncertainties (SPHEREx):</b> combines 3% fractional term, 0.3 mJy floor, and photon-noise from A_eff, throughput, and t/bin.</li>
+        <li><b>Independence:</b> bins assumed uncorrelated; no background, confusion, or calibration covariance.</li>
+        <li><b>Fitting:</b> single- and two-blackbody fits with analytic scalings; detection via ΔBIC ≥ 10.</li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

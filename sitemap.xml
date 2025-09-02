@@ -39,6 +39,9 @@
     <loc>https://lgbouma.com/research/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://lgbouma.com/some_apps/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://lgbouma.com/categories/</loc>
   </url><url>
     <loc>https://lgbouma.com/tags/</loc>

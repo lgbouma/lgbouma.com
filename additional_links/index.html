@@ -16,10 +16,11 @@
       try {
         const key = 'theme';
         const ls  = localStorage.getItem(key);
-        const useDark =
-          ls === 'dark' ||
-          (!ls && window.matchMedia('(prefers-color-scheme: dark)').matches);
-        if (useDark) document.documentElement.classList.add('dark');
+        
+        const useDark = ls !== 'light';
+        const root = document.documentElement;
+        if (useDark) root.classList.add('dark');
+        else root.classList.remove('dark');
       } catch (e) {
          
       }
@@ -33,7 +34,6 @@
   
   
 </head>
-
 
 
 <body>
@@ -66,7 +66,6 @@
 <p><a href="https://github.com/jonathansick/awesome-astronomy?tab=readme-ov-file">Awesome astro list</a></p>
 <p><a href="https://github.com/sindresorhus/awesome">&hellip;this is a genre</a></p>
 <p><a href="https://exoplanetarchive.ipac.caltech.edu/exoplanetplots/">Exoplanet archive plots</a></p>
-<p><a href="http://user.astro.wisc.edu/~townsend/static.php?ref=rrm-movies#Download_Bundles">Richard Townsend&rsquo;s RRM movies</a></p>
 <p><strong>Astronomy Meetings</strong></p>
 <p><a href="https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/">CADC meeting list</a></p>
 <p><a href="https://aas.org/calendar/upcoming-events?page=0">AAS upcoming events</a></p>
@@ -81,6 +80,7 @@
 <p><strong>Software miscellania</strong></p>
 <p><a href="https://regex101.com/">Regex tester</a></p>
 <p><a href="https://www.brianstorti.com/vim-registers/">On vim registers</a></p>
+<p><a href="/some_apps/">💾</a></p>
 <p><strong>Rabbit holes</strong></p>
 <p><a href="https://en.wikipedia.org/wiki/SOFAR_channel">The SOFAR channel</a></p>
 
@@ -128,12 +128,12 @@
 
 			
 			const saved   = localStorage.getItem(key);
-			const useDark =
-				saved === 'dark' ||
-				(!saved && window.matchMedia('(prefers-color-scheme: dark)').matches);
+			
+			const useDark = saved !== 'light';
 
 			
 			if (useDark) root.classList.add('dark');
+			else root.classList.remove('dark');
 
 			
 			btn.textContent = useDark ? '☀️' : '🌙';

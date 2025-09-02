@@ -16,10 +16,11 @@
       try {
         const key = 'theme';
         const ls  = localStorage.getItem(key);
-        const useDark =
-          ls === 'dark' ||
-          (!ls && window.matchMedia('(prefers-color-scheme: dark)').matches);
-        if (useDark) document.documentElement.classList.add('dark');
+        
+        const useDark = ls !== 'light';
+        const root = document.documentElement;
+        if (useDark) root.classList.add('dark');
+        else root.classList.remove('dark');
       } catch (e) {
          
       }
@@ -33,7 +34,6 @@
   
   
 </head>
-
 
 
 <body>
@@ -76,7 +76,7 @@
 <p><a href="https://en.wikipedia.org/wiki/Younger_Dryas">The Younger Dryas</a></p>
 <p><a href="https://en.wikipedia.org/wiki/Incarceration_in_the_United_States">Incarceration in the United States</a></p>
 <p><strong>Even More Links</strong></p>
-<p><a href="/additional_links/">click</a></p>
+<p><a href="/additional_links/">Click</a></p>
 
 </article>
 
@@ -122,12 +122,12 @@
 
 			
 			const saved   = localStorage.getItem(key);
-			const useDark =
-				saved === 'dark' ||
-				(!saved && window.matchMedia('(prefers-color-scheme: dark)').matches);
+			
+			const useDark = saved !== 'light';
 
 			
 			if (useDark) root.classList.add('dark');
+			else root.classList.remove('dark');
 
 			
 			btn.textContent = useDark ? '☀️' : '🌙';

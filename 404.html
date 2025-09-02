@@ -16,10 +16,11 @@
       try {
         const key = 'theme';
         const ls  = localStorage.getItem(key);
-        const useDark =
-          ls === 'dark' ||
-          (!ls && window.matchMedia('(prefers-color-scheme: dark)').matches);
-        if (useDark) document.documentElement.classList.add('dark');
+        
+        const useDark = ls !== 'light';
+        const root = document.documentElement;
+        if (useDark) root.classList.add('dark');
+        else root.classList.remove('dark');
       } catch (e) {
          
       }
@@ -33,7 +34,6 @@
   
   
 </head>
-
 
 
 <body>
@@ -97,12 +97,12 @@
 
 			
 			const saved   = localStorage.getItem(key);
-			const useDark =
-				saved === 'dark' ||
-				(!saved && window.matchMedia('(prefers-color-scheme: dark)').matches);
+			
+			const useDark = saved !== 'light';
 
 			
 			if (useDark) root.classList.add('dark');
+			else root.classList.remove('dark');
 
 			
 			btn.textContent = useDark ? '☀️' : '🌙';
