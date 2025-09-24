@@ -65,7 +65,7 @@ pygmentsStyle = "vs"
     name = "publications"
     weight = 2
   [[menu.footer]]
-    url = "https://lgbouma.com/pdfs/LukeBouma_CV_Spring2025.pdf" 
+    url = "https://lgbouma.com/pdfs/LukeBouma_CV_Fall2025.pdf" 
     name = "cv"
     weight = 3 
   [[menu.footer]]
