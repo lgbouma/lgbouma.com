@@ -4,8 +4,8 @@ While thousands of exoplanets are known, most are billions of years old.  I
 have used
 [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite),
 [Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
-[Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to find and
-study planets around stars in clusters younger than one billion years.  The
+[Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to discover
+planets around stars in clusters younger than one billion years.  The
 properties of these young planets help clarify the processes that sculpted
 present-day distributions of exoplanet sizes, atmospheres, and orbital
 geometries.
@@ -97,6 +97,10 @@ aggregated groups of stars.  A long-term goal is to understand whether we
 might be able to identify and study stars in the Sun's birth cluster.
 
 {{< expand text="Click here for related studies" >}}
+**Lost Sisters Found: TESS and Gaia Reveal a Dissolving Pleiades Complex**
+[[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv251107533B/abstract), [NYT](https://www.nytimes.com/2025/11/12/science/astronomy-stars-pleiades.html?unlocked_article_code=1.0k8.E6v4.58F-81GbReYi&smid=url-share), [NASA](https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/), [Carnegie](https://carnegiescience.edu/pleiades-part-enormous-stellar-complex-birthed-same-star-forming-event), [UNC](https://uncnews.unc.edu/2025/11/12/the-seven-sisters-just-found-thousands-of-long-lost-siblings), [ABC](https://www.abc.net.au/news/science/2025-11-12/pleiades-seven-sisters-star-cluster-telescopes-astronomy/105993350), [Phys.org](https://phys.org/news/2025-11-pleiades-star-cluster-revealed-vast.html)]  
+_led by A. Boyle_, in ApJ (2025)
+
 **Stellar Rotation and Structure of the α Persei Complex: When Does Gyrochronology Start to Work?**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2023AJ....166...14B/abstract)]  
 _led by A. Boyle_, in AJ (2023)
