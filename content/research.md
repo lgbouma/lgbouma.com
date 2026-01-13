@@ -58,21 +58,21 @@ _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 ### Complex Periodic Variables
 
 Complex periodic variables are young low-mass stars that show highly
-structured and periodic optical light curves.  They seem to be
-explained by clumps of circumstellar material that corotate with the
-star for hundreds of stellar rotation cycles.   The origin of
-this material is unknown.  These objects are deepening
-our understanding of stellar physics, and helping to clarify the 
-environments to which close-in exoplanets are subject early in their lives.
+structured and periodic optical light curves.  They seem to be explained
+by clumps of circumstellar material that corotate with the star for
+hundreds of stellar rotation cycles.   The origin of this material is
+unknown.  These objects are deepening our understanding of stellar
+physics, and helping to clarify the environments to which close-in
+exoplanets are subject early in their lives.
 
 {{< expand text="Pandora's click" >}}
 **A Plasma Torus Around a Young Low-Mass Star**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250609116B/abstract), [Blog Post](/posts/2025/07/qa-a-plasma-torus-around-a-young-low-mass-star/)]  
-_with M. Jardine,_, in ApJL (2025)
+[[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250609116B/abstract), [Blog](/posts/2025/07/qa-a-plasma-torus-around-a-young-low-mass-star/), [Carnegie](https://carnegiescience.edu/naturally-occurring-space-weather-station-elucidates-new-way-study-habitability-planets-orbiting-m)]  
+_with M. Jardine,_ in ApJL (2025)
 
 **Transient Corotating Clumps Around Adolescent Low-Mass Stars From Four Years
 of TESS**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [Talk](https://www.youtube.com/watch?v=oz31kMuVd58)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2024AJ....167...38B/abstract), [Talk](https://www.youtube.com/watch?v=oz31kMuVd58), [Astrobite](https://astrobites.org/2023/11/02/ripples-in-time-the-transient-nature-of-mysterious-m-stars/)]  
 _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ in AJ (2024).
 
 **PTFO 8-8695: Two Stars, Two Signals, No Planet**
@@ -80,7 +80,7 @@ _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ in AJ (2024).
 _with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
 
 **Movies of some favorites:**  
-[LP 12-502 (P=18 hr)](/movies/LP_12-502_20250218.mp4), [TIC 300651846 (P=8 hr)](/movies/TIC300651846_20250217.mp4), [TIC 141146667 (P=4 hr)](/movies/TIC141146667_20250116.mp4)
+[LP 12-502 (P=18 hr)](/movies/LP_12-502_20250218.mp4), [TIC 300651846 (P=8 hr)](/movies/TIC300651846_Jan2026.mp4), [TIC 141146667 (P=4 hr)](/movies/TIC141146667_20250116.mp4), [TIC 268971806 (P=32 hr)](/movies/TIC_268971806_Jan2026.mp4)
 {{< /expand >}}
 
 
@@ -98,7 +98,7 @@ might be able to identify and study stars in the Sun's birth cluster.
 
 {{< expand text="Click here for related studies" >}}
 **Lost Sisters Found: TESS and Gaia Reveal a Dissolving Pleiades Complex**
-[[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv251107533B/abstract), [NYT](https://www.nytimes.com/2025/11/12/science/astronomy-stars-pleiades.html?unlocked_article_code=1.0k8.E6v4.58F-81GbReYi&smid=url-share), [NASA](https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/), [Carnegie](https://carnegiescience.edu/pleiades-part-enormous-stellar-complex-birthed-same-star-forming-event), [UNC](https://uncnews.unc.edu/2025/11/12/the-seven-sisters-just-found-thousands-of-long-lost-siblings), [ABC](https://www.abc.net.au/news/science/2025-11-12/pleiades-seven-sisters-star-cluster-telescopes-astronomy/105993350), [Phys.org](https://phys.org/news/2025-11-pleiades-star-cluster-revealed-vast.html)]  
+[[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv251107533B/abstract), [NYT](https://www.nytimes.com/2025/11/12/science/astronomy-stars-pleiades.html?unlocked_article_code=1.0k8.E6v4.58F-81GbReYi&smid=url-share), [NASA](https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/), [Carnegie](https://carnegiescience.edu/pleiades-part-enormous-stellar-complex-birthed-same-star-forming-event), [UNC](https://uncnews.unc.edu/2025/11/12/the-seven-sisters-just-found-thousands-of-long-lost-siblings), [ABC](https://www.abc.net.au/news/science/2025-11-12/pleiades-seven-sisters-star-cluster-telescopes-astronomy/105993350), [Phys.org](https://phys.org/news/2025-11-pleiades-star-cluster-revealed-vast.html), [SciAm](https://www.scientificamerican.com/article/the-pleiades-star-cluster-has-a-secret-stellar-family/), [S&T](https://skyandtelescope.org/astronomy-news/meet-the-seven-sisters-3000-lost-siblings/)]  
 _led by A. Boyle_, in ApJ (2025)
 
 **Stellar Rotation and Structure of the α Persei Complex: When Does Gyrochronology Start to Work?**
