@@ -80,7 +80,7 @@ _with R. Jayaraman, S. Rappaport, L. Rebull, and friends,_ in AJ (2024).
 _with J. Winn, G. Ricker, R. Vanderspek and friends,_, in AJ (2020)
 
 **Movies of some favorites:**  
-[LP 12-502 (P=18 hr)](/movies/LP_12-502_20250218.mp4), [TIC 300651846 (P=8 hr)](/movies/TIC300651846_Jan2026.mp4), [TIC 141146667 (P=4 hr)](/movies/TIC141146667_20250116.mp4), [TIC 268971806 (P=32 hr)](/movies/TIC_268971806_Jan2026.mp4)
+[LP 12-502 (P=18 hr)](/movies/LP_12-502_20250218.mp4), [TIC 300651846 (P=8 hr)](/movies/TIC_300651846_Jan2026.mp4), [TIC 141146667 (P=4 hr)](/movies/TIC141146667_20250116.mp4), [TIC 268971806 (P=32 hr)](/movies/TIC_268971806_Jan2026.mp4)
 {{< /expand >}}
 
 
