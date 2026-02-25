@@ -1,7 +1,8 @@
 Welcome! My name is **Luke Bouma**, and you have found my research website.
 
 I am an astronomer and physicist, and I am currently a Carnegie postdoctoral
-fellow at the Observatories in Pasadena.
+fellow at the Observatories in Pasadena.  In late March, I'll be joining
+Caltech/IPAC as a staff scientist.
 
 My main research topic is planets that orbit other stars — exoplanets.
 Exoplanet science is in a golden age of discovery, fueled by increasingly

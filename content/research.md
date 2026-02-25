@@ -6,9 +6,8 @@ have used
 [Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to discover
 planets around stars in clusters younger than one billion years.  The
-properties of these young planets help clarify the processes that sculpted
-present-day distributions of exoplanet sizes, atmospheres, and orbital
-geometries.
+properties of these young planets help clarify the processes that sculpt
+present-day exoplanet sizes, atmospheres, and orbital geometries.
 
 {{< expand text="Click here to learn more" >}}
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
@@ -57,13 +56,12 @@ _with E. Palumbo and L. Hillenbrand,_ in ApJL (2023).
 
 ### Complex Periodic Variables
 
-Complex periodic variables are young low-mass stars that show highly
-structured and periodic optical light curves.  They seem to be explained
-by clumps of circumstellar material that corotate with the star for
-hundreds of stellar rotation cycles.   The origin of this material is
-unknown.  These objects are deepening our understanding of stellar
-physics, and helping to clarify the environments to which close-in
-exoplanets are subject early in their lives.
+Complex periodic variables are young low-mass stars that show highly structured
+and periodic optical light curves.  They seem to be explained by clumps of
+circumstellar material that corotate with the star for weeks to years.   The
+origin of this material is unknown.  These objects deepen our understanding of
+stellar physics, and are helping to clarify the environments around young,
+close-in exoplanets.
 
 {{< expand text="Pandora's click" >}}
 **A Plasma Torus Around a Young Low-Mass Star**
@@ -136,7 +134,7 @@ _led by K. Penev, with J. Winn and J. Hartman,_ in AJ (2018)
 ### Design and Analysis of Transit Surveys
 
 I'm broadly interested in the design, execution, and analysis of planet-hunting
-surveys, particularly using the transit method.
+surveys, especially using the transit method.
 
 {{< expand text="Related work" >}}
 **Biases in Planet Occurrence Caused by Unresolved Binaries in Transit
