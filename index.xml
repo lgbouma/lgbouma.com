@@ -163,5 +163,15 @@ SPHEREx IR excess simulator
 last updated 2025/09/29</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://lgbouma.com/tars_viz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lgbouma.com/tars_viz/</guid>
+      <description>TESS All-Sky Rotation Survey Interactive Visuals In Boyle, Bouma &amp;amp; Mann (2026) we used TESS images from 2018-2025 to search for photometric rotation periods of stars within 500 pc.
+This work yielded catalogs of 944,056 stars with detected periods, as well as light curves for 7,481,412 stars in the parent sample (d&amp;lt;500pc, T&amp;lt;16). Each star was observed by TESS for a median of four sectors, and so the latter dataset includes 39,061,674 sector-level light curves.</description>
+    </item>
+    
   </channel>
 </rss>

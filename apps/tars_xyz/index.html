@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>XYZ Point Cloud</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app" data-theme="dark">
+      <canvas id="gl"></canvas>
+      <div id="hud">
+        <div class="title">TARS XYZ</div>
+        <div class="row howto-row">
+          <label>Tips</label>
+          <button id="howtoBtn" class="ghost">Show tips</button>
+          <span class="value"></span>
+        </div>
+        <div id="howtoText" class="howto-text" hidden>
+          This plot shows galactic positions of stars with rotation periods from the TESS
+          All-Sky Rotation Survey (Boyle, Bouma &amp; Mann 2026). The Sun is at the center. In
+          the default (top-down) camera view, the galactic center is 8 kpc to the right, and
+          the direction of galactic rotation is up.
+          <br />
+          <br />
+          The survey looked at stars with d &lt; 500 pc brighter than T &lt; 16 over most of
+          the sky, except for a small region east of the galactic center. For this plot, we
+          omitted stars with |z|&gt;250 pc.
+          <br />
+          <br />
+          v_amp is the amplitude of the distance-corrected proper motion vector in units of
+          km/s.
+          <br />
+          <br />
+          - Left drag: rotate camera.
+          <br />
+          - Right drag or two-finger drag: pan.
+          <br />
+          - Scroll/pinch: zoom.
+          <br />
+          - Clicking "Start velocity step" advances through stars with a tangential velocity
+          range noted in the lower
+          right.
+        </div>
+        <div class="panel">
+          <div class="row">
+            <label for="colorMode">Color</label>
+            <select id="colorMode">
+              <option value="uniform">Uniform</option>
+              <option value="vamp">v_amp (tab20c)</option>
+            </select>
+          </div>
+          <div class="row">
+            <label>Theme</label>
+            <button id="toggleTheme" class="ghost">White on black</button>
+            <span class="value"></span>
+          </div>
+          <div class="row">
+            <label for="vampWidth">v_amp width</label>
+            <input id="vampWidth" type="range" min="1" max="100" step="1" value="5" />
+            <span id="vampWidthVal" class="value">5</span>
+          </div>
+          <div class="row">
+            <label for="vampStart">v_amp start</label>
+            <input id="vampStart" type="range" min="0" max="50" step="1" value="0" />
+            <span id="vampStartVal" class="value">0</span>
+          </div>
+          <div class="row">
+            <label>Velocity</label>
+            <button id="toggleVampStep" class="ghost">Start velocity step</button>
+            <span class="value"></span>
+          </div>
+          <div class="row">
+            <label for="vampStepRate">Step rate</label>
+            <input id="vampStepRate" type="range" min="0" max="5" step="0.1" value="5" />
+            <span id="vampStepRateVal" class="value">5.0</span>
+          </div>
+          <div class="row">
+            <label for="pointSize">Point size</label>
+            <input id="pointSize" type="range" min="0.5" max="10" step="0.5" value="2" />
+            <span id="pointSizeVal" class="value">2.0</span>
+          </div>
+          <div class="row">
+            <label>Axes</label>
+            <button id="toggleAxes" class="ghost">Turn off axes</button>
+            <span class="value"></span>
+          </div>
+          <div class="row">
+            <label>Rotate Z</label>
+            <button id="toggleRotate" class="ghost">Start rotation</button>
+            <span class="value"></span>
+          </div>
+          <div class="row">
+            <label for="rotateSpeed">Rotate speed</label>
+            <input id="rotateSpeed" type="range" min="0" max="1" step="0.05" value="0.4" />
+            <span id="rotateSpeedVal" class="value">0.40</span>
+          </div>
+        </div>
+      </div>
+      <div id="status">Loading data…</div>
+    </div>
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
