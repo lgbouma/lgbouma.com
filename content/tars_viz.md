@@ -12,7 +12,7 @@ light curve with a vetting plot to enable manual inspection.
 The light curves and vetting plots are a [HLSP at
 MAST](https://archive.stsci.edu/hlsp/tars).
 The rotation period catalogs and associated code are on
-[Zenodo](FIXME).
+[Zenodo](https://zenodo.org/records/18342591).
 This page links to two visualizations that help explore the data.
 
 ---
