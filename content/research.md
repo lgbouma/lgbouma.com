@@ -44,6 +44,9 @@ dating is one of the most promising methods to age-date FGK
 stars on the main-sequence.
 
 {{< expand text="Click here for news on rotation-based ages" >}}
+**The TESS All-Sky Rotation Survey: Periods for 944,056 Stars Within 500 pc** [[Paper](https://arxiv.org/abs/2603.05586), [Viz](https://lgbouma.com/tars_viz/), [Data](https://doi.org/10.5281/zenodo.18342590)]   
+_led by A. Boyle_, preprint submitted to AAS journals (2026)
+
 **Ages of Stars and Planets in the Kepler Field Younger Than Four Billion Years**
 [[Paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..234B/abstract), [Talk](https://youtu.be/zcp2XkXUkXo?si=cCderVTNjkztx1_o)]   
 _with L. Hillenbrand, A. Howard, Howard I., and friends,_ in AJ (2024).

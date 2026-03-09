@@ -1,7 +1,8 @@
 ### TESS All-Sky Rotation Survey Interactive Visuals
 
-In [Boyle, Bouma & Mann (2026)](FIXME) we used TESS images from 2018-2025 to
-search for photometric rotation periods of stars within 500 pc.
+In [Boyle, Bouma & Mann (2026)](http://arxiv.org/abs/2603.05586) we used TESS
+images from 2018-2025 to search for photometric rotation periods of stars
+within 500 pc.
 
 This work yielded catalogs of 944,056 stars with detected periods, as well as
 light curves for 7,481,412 stars in the parent sample (_d_<500pc, _T_<16).
@@ -10,7 +11,8 @@ latter dataset includes 39,061,674 sector-level light curves.  We packaged each
 light curve with a vetting plot to enable manual inspection.
 
 The light curves and vetting plots are a [HLSP at
-MAST](https://archive.stsci.edu/hlsp/tars).
+MAST](https://archive.stsci.edu/hlsp/tars) that will become active following
+peer review.
 The rotation period catalogs and associated code are on
 [Zenodo](https://zenodo.org/records/18342591).
 This page links to two visualizations that help explore the data.
