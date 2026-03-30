@@ -1,3 +1,6 @@
+I work at the intersection of stellar astrophysics and exoplanet science, using
+time-domain surveys to understand how exoplanets form and evolve.
+
 ### Young Planets in Star Clusters
 
 While thousands of exoplanets are known, most are billions of years old.  I
@@ -5,9 +8,9 @@ have used
 [TESS](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite),
 [Gaia](https://en.wikipedia.org/wiki/Gaia_(spacecraft)), and
 [Kepler](https://en.wikipedia.org/wiki/Kepler_space_telescope) to discover
-planets around stars in clusters younger than one billion years.  The
-properties of these young planets help clarify the processes that sculpt
-present-day exoplanet sizes, atmospheres, and orbital geometries.
+planets around stars in clusters younger than one billion years.  These young
+planets help clarify the processes that sculpt present-day exoplanet sizes,
+atmospheres, and orbital geometries.
 
 {{< expand text="Click here to learn more" >}}
 **Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association**
@@ -63,8 +66,8 @@ Complex periodic variables are young low-mass stars that show highly structured
 and periodic optical light curves.  They seem to be explained by clumps of
 circumstellar material that corotate with the star for weeks to years.   The
 origin of this material is unknown.  These objects deepen our understanding of
-stellar physics, and are helping to clarify the environments around young,
-close-in exoplanets.
+stellar physics, and help clarify the environments around young, close-in
+exoplanets.
 
 {{< expand text="Pandora's click" >}}
 **A Plasma Torus Around a Young Low-Mass Star**

@@ -1,3 +1,14 @@
+#### Breaking News
+
+_2026.03.05_.
+The TESS All Sky Rotation Survey (TARS), led by [Andy
+Boyle](https://awboyle.com), is out!  This work leverages TESS images from
+2018-2025 to search for photometric rotation periods of stars within 500 pc.
+Check out [the paper](http://arxiv.org/abs/2603.05586) and the [data
+viz](https://lgbouma.com/tars_viz/) webpage!
+
+---
+
 #### CDIPS Light Curves
 
 _2023.11.12_.
@@ -39,6 +50,7 @@ versions of their contents are in the links below.
 * [20191215: sectors 8 to 11](/cdips_documentation/20191215_vetting_report_description_document.pdf)
 * [20191127: sectors 6, 7](/cdips_documentation/20191127_vetting_report_description_document.pdf)
 
+---
 
 #### NGC 2516 (CDIPS-III, Bouma+21) Supplementary Data
 

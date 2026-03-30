@@ -5,15 +5,14 @@ collider in Switzerland, in a valley between the Jura and the Alps.
 
 I graduated from the University of Southern California in 2015 with Bachelor's
 degrees in physics and math. 
-I completed my doctoral studies at Princeton's Department of Astrophysical
-Sciences in 2021, advised by [Josh
+I completed my PhD at Princeton in 2021, advised by [Josh
 Winn](https://scholar.princeton.edu/jwinn/home).
-I continued my research as a [51 Pegasi
+I did postdoctoral work as a [51 Pegasi
 b](https://www.hsfoundation.org/fellow/luke-bouma-ph-d-candidate/) fellow at
-Caltech from 2021 to 2024, and I currently work as a
-[Carnegie Fellow](https://carnegiescience.edu/bio/dr-luke-bouma) at the
-Observatories of the Carnegie Institution for Science, also in Pasadena,
-California. 
+Caltech from 2021 to 2024, and as a [Carnegie
+Fellow](https://carnegiescience.edu/bio/dr-luke-bouma) at Carnegie
+Observatories from 2024 to 2026.
+I have recently returned to Caltech, as a staff scientist within IPAC.
 
 [comment]: <>  (
 I graduated from the University of Southern California in 2015 with Bachelor's

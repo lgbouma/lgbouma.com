@@ -3,7 +3,7 @@ __A few vibe-coded web apps__
 ⚠️  ⚠️  ⚠️  ⚠️  ⚠️  ⚠️   
 These are (self-)educational tools, not science-ready software.
 
-[Cluster dissolution simulator](/apps/clusterdissolution_MilkyWayBarClumpyPotential/)
+[Cluster dissolution simulator](/apps/dissolution/)
 
 [SPHEREx IR excess simulator](/apps/spherex_irx/)
 
