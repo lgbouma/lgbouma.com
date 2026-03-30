@@ -54,7 +54,7 @@ The SOFAR channel</description>
       
       <guid>https://lgbouma.com/bio/</guid>
       <description>I was born in Bethesda, MD, and grew up in the circumference of a hadron collider in Switzerland, in a valley between the Jura and the Alps.
-I graduated from the University of Southern California in 2015 with Bachelor&amp;rsquo;s degrees in physics and math. I completed my doctoral studies at Princeton&amp;rsquo;s Department of Astrophysical Sciences in 2021, advised by Josh Winn. I continued my research as a 51 Pegasi b fellow at Caltech from 2021 to 2024, and I currently work as a Carnegie Fellow at the Observatories of the Carnegie Institution for Science, also in Pasadena, California.</description>
+I graduated from the University of Southern California in 2015 with Bachelor&amp;rsquo;s degrees in physics and math. I completed my PhD at Princeton in 2021, advised by Josh Winn. I did postdoctoral work as a 51 Pegasi b fellow at Caltech from 2021 to 2024, and as a Carnegie Fellow at Carnegie Observatories from 2024 to 2026.</description>
     </item>
     
     <item>
@@ -119,9 +119,8 @@ Click</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lgbouma.com/notes/</guid>
-      <description>CDIPS Light Curves 2023.11.12. The CDIPS light curves for Sector 27 to 55 of TESS are available at MAST. A cumulative metadata file is also available at the HLSP page.
-2022.05.04. The CDIPS light curves for Sectors 14 to 26 of TESS are available at MAST. A cumulative metadata file is also on the HLSP page. Reductions for Cycle 3 are underway!
-2020.08.25. The CDIPS light curves for Sectors 1 to 13 of TESS are available at MAST.</description>
+      <description>Breaking News 2026.03.05. The TESS All Sky Rotation Survey (TARS), led by Andy Boyle, is out! This work leverages TESS images from 2018-2025 to search for photometric rotation periods of stars within 500 pc. Check out the paper and the data viz webpage!
+ CDIPS Light Curves 2023.11.12. The CDIPS light curves for Sector 27 to 55 of TESS are available at MAST. A cumulative metadata file is also available at the HLSP page.</description>
     </item>
     
     <item>
@@ -144,8 +143,8 @@ Good fall colors in Princeton, outside Peyton Hall.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lgbouma.com/research/</guid>
-      <description>Young Planets in Star Clusters While thousands of exoplanets are known, most are billions of years old. I have used TESS, Gaia, and Kepler to discover planets around stars in clusters younger than one billion years. The properties of these young planets help clarify the processes that sculpt present-day exoplanet sizes, atmospheres, and orbital geometries.
-Click here to learn more →  Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association [Paper]</description>
+      <description>I work at the intersection of stellar astrophysics and exoplanet science, using time-domain surveys to understand how exoplanets form and evolve.
+Young Planets in Star Clusters While thousands of exoplanets are known, most are billions of years old. I have used TESS, Gaia, and Kepler to discover planets around stars in clusters younger than one billion years. These young planets help clarify the processes that sculpt present-day exoplanet sizes, atmospheres, and orbital geometries.</description>
     </item>
     
     <item>
