@@ -1,8 +1,8 @@
 [comment]: <>  (# contact)
 
-__email:__ lbouma at carnegiescience dot edu
+__email:__ lbouma at caltech dot edu
 
-__location:__ Carnegie Observatories, office 227
+__location:__ Morrisroe 117 (770 S Wilson Ave)
 
 __name pronunciation:__ my last name sounds like "bao-muh".
 
