@@ -2,7 +2,7 @@
 
 __email:__ lbouma at caltech dot edu
 
-__location:__ Morrisroe 117 (770 S Wilson Ave)
+__location:__ Keith Spalding 323 (1200 E California Blvd, Pasadena CA)
 
 __name pronunciation:__ my last name sounds like "bao-muh".
 

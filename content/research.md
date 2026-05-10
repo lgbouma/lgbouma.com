@@ -1,4 +1,4 @@
-I work at the intersection of stellar astrophysics and exoplanet science, using
+I work at the intersection of exoplanet science and stellar astrophysics, using
 time-domain surveys to understand how exoplanets form and evolve.
 
 ### Young Planets in Star Clusters
