@@ -1,166 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>home</title>
-    <link>https://lgbouma.com/</link>
-    <description>Recent content on home</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lgbouma.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Q&amp;A: A Plasma Torus Around a Young Low-Mass Star</title>
-      <link>https://lgbouma.com/posts/2025/07/qa-a-plasma-torus-around-a-young-low-mass-star/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/posts/2025/07/qa-a-plasma-torus-around-a-young-low-mass-star/</guid>
-      <description>In recent correspondence with a science writer, I was asked a few questions about my work with Moira Jardine, A Plasma Torus Around a Young Low-Mass Star (link). I spent some time crafting my response and I thought it&amp;rsquo;d be worth sharing.
-1) What is a plasma torus? I understand it is a doughnut-shaped structure of plasma, but I&amp;rsquo;d like to be able to cite you.
-A plasma torus is a ring of ionized gas held in place around a planet or star by its magnetic field.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/additional_links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/additional_links/</guid>
-      <description>Astronomy Content
-Awesome astro list
-&amp;hellip;this is a genre
-Exoplanet archive plots
-Astronomy Meetings
-CADC meeting list
-AAS upcoming events
-Astronomy Web Services
-SVO Filter Profile Service
-SVO Theoretical Isochrones
-Astronomy Careers
-AAS Employment Statistics
-On Communication
-Watered-down milk
-Vinh
-Software miscellania
-Regex tester
-On vim registers
-💾
-Rabbit holes
-The SOFAR channel</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/bio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/bio/</guid>
-      <description>I was born in Bethesda, MD, and grew up in the circumference of a hadron collider in Switzerland, in a valley between the Jura and the Alps.
-I graduated from the University of Southern California in 2015 with Bachelor&amp;rsquo;s degrees in physics and math. I completed my PhD at Princeton in 2021, advised by Josh Winn. I did postdoctoral work as a 51 Pegasi b fellow at Caltech from 2021 to 2024, and as a Carnegie Fellow at Carnegie Observatories from 2024 to 2026.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/cgcd_2026/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/cgcd_2026/</guid>
-      <description>Conspicuous Gas, Cryptic Dust The movies below show TESS light curves for the complex periodic variables in Bouma et al. (2026), Conspicuous Gas, Cryptic Dust: Spectroscopy and Chromaticities of Complex Periodic Variables.
-The movies span 2018-2025 (sectors 1 through 96); their coverage is dictated by the TESS scanning law. The light curves are folded to the periods and reference times noted in each movie&amp;rsquo;s title. The TESS full-frame image cadence improved over the mission, which is why the sampling for TIC 300651846 and TIC 262400835 improves in 2020 and 2022.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/contact/</guid>
-      <description>email: lbouma at caltech dot edu
-location: Keith Spalding 323 (1200 E California Blvd, Pasadena CA)
-name pronunciation: my last name sounds like &amp;ldquo;bao-muh&amp;rdquo;.
-  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/links/</guid>
-      <description>Sight
-TESS light curve inspector by Julien de Lambilly
-Nearby clusters and HR diagram by Marina Kounkel
-simbad
-vizier
-Sound
-MyNoise
-Futurescapes
-Omar and friends
-Perspective
-Gapminder
-The Younger Dryas
-Incarceration in the United States
-Even More Links
-Click</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/notes/</guid>
-      <description>Latest 2026.08.30. The Roman Space Telescope has launched!
- Rotation Periods Across The Sky! 2026.03.05. The TESS All Sky Rotation Survey (TARS), led by Andy Boyle, is out! This work leverages TESS images from 2018-2025 to search for photometric rotation periods of stars within 500 pc. Check out the paper and the data viz webpage.
- CDIPS Light Curves 2023.11.12. The CDIPS light curves for Sector 27 to 55 of TESS are available at MAST.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/oddities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/oddities/</guid>
-      <description>Me walking near Maroon Bells, CO. August 2025.
-Clouds in New Jersey, ca. 2019.
-Thimbleberry in Montana. Easily confused for raspberry. August, 2022.
-Saturn. The Cassini Division is visible, and is caused by a 2:1 resonance with Mimas. The image is from the 12&amp;quot; Meade LX200 in Peyton&amp;rsquo;s Observatory, acquired using a Canon EOS 60D. August, 2017.
-Sienna, posing on remains of Mount Lowe Railway. April, 2022.
-Good fall colors in Princeton, outside Peyton Hall.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/research/</guid>
-      <description>I work at the intersection of exoplanet science and stellar astrophysics, using time-domain surveys to understand how exoplanets form and evolve.
-Young Planets in Star Clusters While thousands of exoplanets are known, most are billions of years old. I have used TESS, Gaia, and Kepler to discover planets around stars in clusters younger than one billion years. These young planets help clarify the processes that sculpt present-day exoplanet sizes, atmospheres, and orbital geometries.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/some_apps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/some_apps/</guid>
-      <description>A few vibe-coded web apps
-⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
-These are (self-)educational tools, not science-ready software.
-Cluster dissolution simulator
-SPHEREx IR excess simulator
-⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
-last updated 2025/09/29</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lgbouma.com/tars_viz/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lgbouma.com/tars_viz/</guid>
-      <description>TESS All-Sky Rotation Survey Interactive Visuals In Boyle, Bouma &amp;amp; Mann (2026) we used TESS images from 2018-2025 to search for photometric rotation periods of stars within 500 pc.
-This work yielded catalogs of 944,056 stars with detected periods, as well as light curves for 7,481,412 stars in the parent sample (d&amp;lt;500pc, T&amp;lt;16). Each star was observed by TESS for a median of four sectors, and so the latter dataset includes 39,061,674 sector-level light curves.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>home</title>
+		<link>https://lgbouma.com/</link>
+		<description>Recent content on home</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://lgbouma.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Q&amp;A: A Plasma Torus Around a Young Low-Mass Star</title>
+				<link>https://lgbouma.com/posts/2025/07/qa-a-plasma-torus-around-a-young-low-mass-star/</link>
+				<pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/posts/2025/07/qa-a-plasma-torus-around-a-young-low-mass-star/</guid>
+				<description>&lt;p&gt;In recent correspondence with a science writer, I was asked&#xA;a few questions about my work with Moira Jardine,&#xA;&lt;em&gt;A Plasma Torus Around a Young Low-Mass Star&lt;/em&gt;&#xA;(&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2025arXiv250609116B/abstract&#34;&gt;link&lt;/a&gt;).&#xA;I spent some time crafting my response and I thought it&amp;rsquo;d be worth sharing.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1) What is a plasma torus? I understand it is a doughnut-shaped structure of&#xA;plasma, but I&amp;rsquo;d like to be able to cite you.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A plasma torus is a ring of ionized gas held in place around a planet or star&#xA;by its magnetic field.  These &amp;ldquo;rings&amp;rdquo; can be shaped like doughnuts; they can&#xA;also be warped, twisted, and pinched.  The difference from other types of&#xA;plasma condensations (such as Solar prominences) is that plasma tori are&#xA;long-lived and distributed in longitude.  One example is the ring of plasma&#xA;that exists &lt;a href=&#34;https://en.wikipedia.org/wiki/Magnetosphere_of_Jupiter&#34;&gt;around&#xA;Jupiter&lt;/a&gt;, which is fed&#xA;by Io.  Another example exists around the star σ Orionis E, a bright blue star&#xA;just next to Orion&amp;rsquo;s belt, which is fed by the star&amp;rsquo;s wind and &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2005MNRAS.357..251T/abstract&#34;&gt;supported&#xA;by&lt;/a&gt; its&#xA;rotation and magnetic field.  Our&#xA;article is about a red dwarf star that shows new evidence for a similar&#xA;structure.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/additional_links/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/additional_links/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Astronomy Content&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/jonathansick/awesome-astronomy?tab=readme-ov-file&#34;&gt;Awesome astro list&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/sindresorhus/awesome&#34;&gt;&amp;hellip;this is a genre&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://exoplanetarchive.ipac.caltech.edu/exoplanetplots/&#34;&gt;Exoplanet archive plots&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Astronomy Meetings&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/&#34;&gt;CADC meeting list&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://aas.org/calendar/upcoming-events?page=0&#34;&gt;AAS upcoming events&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Astronomy Web Services&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://svo2.cab.inta-csic.es/theory/fps/&#34;&gt;SVO Filter Profile Service&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://svo2.cab.inta-csic.es/theory/iso3/&#34;&gt;SVO Theoretical Isochrones&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Astronomy Careers&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://aas.org/careers/employment-statistics&#34;&gt;AAS Employment Statistics&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;On Communication&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://strategiccommunication.wisc.edu/inclusive-communications-guide/#in-practice&#34;&gt;Watered-down milk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@askvinh/videos&#34;&gt;Vinh&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Software miscellania&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://regex101.com/&#34;&gt;Regex tester&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.brianstorti.com/vim-registers/&#34;&gt;On vim registers&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lgbouma.com/some_apps/&#34;&gt;💾&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Rabbit holes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SOFAR_channel&#34;&gt;The SOFAR channel&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/bio/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/bio/</guid>
+				<description>&lt;p&gt;I was born in Bethesda, MD, and grew up in the circumference of a hadron&#xA;collider in Switzerland, in a valley between the Jura and the Alps.&lt;/p&gt;&#xA;&lt;p&gt;I graduated from the University of Southern California in 2015 with Bachelor&amp;rsquo;s&#xA;degrees in physics and math.&#xA;I completed my PhD at Princeton in 2021, advised by &lt;a href=&#34;https://scholar.princeton.edu/jwinn/home&#34;&gt;Josh&#xA;Winn&lt;/a&gt;.&#xA;I did postdoctoral work as a &lt;a href=&#34;https://www.hsfoundation.org/fellow/luke-bouma-ph-d-candidate/&#34;&gt;51 Pegasi&#xA;b&lt;/a&gt; fellow at&#xA;Caltech from 2021 to 2024, and as a &lt;a href=&#34;https://carnegiescience.edu/bio/dr-luke-bouma&#34;&gt;Carnegie&#xA;Fellow&lt;/a&gt; at Carnegie&#xA;Observatories from 2024 to 2026.&#xA;I have recently returned to Caltech, as a research scientist within IPAC.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/cgcd_2026/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/cgcd_2026/</guid>
+				<description>&lt;h1 id=&#34;conspicuous-gas-cryptic-dust&#34;&gt;Conspicuous Gas, Cryptic Dust&lt;/h1&gt;&#xA;&lt;p&gt;The movies below show TESS light curves for the complex periodic&#xA;variables in Bouma et al. (2026), &lt;em&gt;Conspicuous Gas, Cryptic Dust:&#xA;Spectroscopy and Chromaticities of Complex Periodic Variables&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The movies span 2018-2025 (sectors 1 through 96); their coverage is&#xA;dictated by the TESS scanning law.  The light curves are folded to the&#xA;periods and reference times noted in each movie&amp;rsquo;s title.  The TESS&#xA;full-frame image cadence improved over the mission, which is why the&#xA;sampling for TIC 300651846 and TIC 262400835 improves in 2020 and 2022.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/contact/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;email:&lt;/strong&gt; lbouma at caltech dot edu&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;location:&lt;/strong&gt; Keith Spalding 323 (1200 E California Blvd, Pasadena CA)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;name pronunciation:&lt;/strong&gt; my last name sounds like &amp;ldquo;bao-muh&amp;rdquo;.&lt;/p&gt;&#xA;&lt;figure class=&#34;something&#34;&gt;&#xA;&lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;&lt;source src=&#34;https://lgbouma.com/audio/luke_bouma.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;&#xA;&lt;/audio&gt;&#xA;&lt;/figure&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/links/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/links/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Sight&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://fast-lightcurve-inspector.osc-fr1.scalingo.io/282254350&#34;&gt;TESS light curve inspector&lt;/a&gt; by Julien de Lambilly&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://mkounkel.com/mw3d/mw2d.html&#34;&gt;Nearby clusters&lt;/a&gt; and &lt;a href=&#34;http://mkounkel.com/mw3d/hr.html&#34;&gt;HR diagram&lt;/a&gt; by Marina Kounkel&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://simbad.u-strasbg.fr/simbad/&#34;&gt;simbad&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vizier.cds.unistra.fr/viz-bin/VizieR&#34;&gt;vizier&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sound&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mynoise.net/noiseMachines.php&#34;&gt;MyNoise&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@Futurescapes-SciFiAmbience&#34;&gt;Futurescapes&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=m6ZgytCOBw8&#34;&gt;Omar and friends&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Perspective&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.gapminder.org/tools&#34;&gt;Gapminder&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Younger_Dryas&#34;&gt;The Younger Dryas&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Incarceration_in_the_United_States&#34;&gt;Incarceration in the United States&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Even More Links&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lgbouma.com/additional_links/&#34;&gt;Click&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/notes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/notes/</guid>
+				<description>&lt;h3 id=&#34;latest&#34;&gt;Latest&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2026.08.30&lt;/em&gt;.  The Roman Space Telescope has launched!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;rotation-periods-across-the-sky&#34;&gt;Rotation Periods Across The Sky!&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;2026.03.05&lt;/em&gt;.&#xA;The TESS All Sky Rotation Survey (TARS), led by &lt;a href=&#34;https://awboyle.com&#34;&gt;Andy&#xA;Boyle&lt;/a&gt;, is out!  This work leverages TESS images from&#xA;2018-2025 to search for photometric rotation periods of stars within 500 pc.&#xA;Check out &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2026ApJS..284...75B/abstract&#34;&gt;the&#xA;paper&lt;/a&gt; and the&#xA;&lt;a href=&#34;https://lgbouma.com/tars_viz/&#34;&gt;data viz&lt;/a&gt; webpage.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;cdips-light-curves&#34;&gt;CDIPS Light Curves&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;2023.11.12&lt;/em&gt;.&#xA;The CDIPS light curves for Sector 27 to 55 of TESS are &lt;a href=&#34;https://archive.stsci.edu/hlsp/cdips&#34;&gt;available at&#xA;MAST&lt;/a&gt;.  A cumulative metadata file is&#xA;also available at the HLSP page.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/oddities/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/oddities/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;https://lgbouma.com/images/maroonbells.jpg&#34; alt=&#34;rocks&#34;&gt;&#xA;Me walking near Maroon Bells, CO.  August 2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lgbouma.com/images/clouds.jpg&#34; alt=&#34;clouds&#34;&gt;&#xA;Clouds in New Jersey, ca. 2019.&lt;/p&gt;&#xA;&lt;!-- ![clouds](/images/turtles.jpg) --&gt;&#xA;&lt;!-- Me by the turtle pond.  March 2021. --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lgbouma.com/images/thimbleberry.jpg&#34; alt=&#34;thimbleberry&#34;&gt;&#xA;Thimbleberry in Montana.  Easily confused for raspberry.  August, 2022.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lgbouma.com/images/saturn_ISO500_halfsec_0_heavy_wavelet_rings_5_crop.png&#34; alt=&#34;clouds&#34;&gt;&#xA;Saturn. The &lt;a href=&#34;https://en.wikipedia.org/wiki/Rings_of_Saturn#Cassini_Division&#34;&gt;Cassini&#xA;Division&lt;/a&gt; is&#xA;visible, and is caused by a 2:1 resonance with Mimas.  The image is from&#xA;the 12&amp;quot; Meade LX200 in &lt;a href=&#34;http://www.astro.princeton.edu/observatory/index.php&#34;&gt;Peyton&amp;rsquo;s&#xA;Observatory&lt;/a&gt;, acquired using a&#xA;Canon EOS 60D.  August, 2017.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/research/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/research/</guid>
+				<description>&lt;p&gt;I work at the intersection of exoplanet science and stellar astrophysics, using&#xA;time-domain surveys to understand how exoplanets form and evolve.&lt;/p&gt;&#xA;&lt;h3 id=&#34;young-planets-in-star-clusters&#34;&gt;Young Planets in Star Clusters&lt;/h3&gt;&#xA;&lt;p&gt;While thousands of exoplanets are known, most are billions of years old.  I&#xA;have used&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite&#34;&gt;TESS&lt;/a&gt;,&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gaia_(spacecraft)&#34;&gt;Gaia&lt;/a&gt;, and&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kepler_space_telescope&#34;&gt;Kepler&lt;/a&gt; to discover&#xA;planets around stars in clusters younger than one billion years.  These young&#xA;planets help clarify the processes that sculpt present-day exoplanet sizes,&#xA;atmospheres, and orbital geometries.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/some_apps/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/some_apps/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;A few vibe-coded web apps&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;⚠️  ⚠️  ⚠️  ⚠️  ⚠️  ⚠️&lt;br&gt;&#xA;These are (self-)educational tools, not science-ready software.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lgbouma.com/apps/dissolution/&#34;&gt;Cluster dissolution simulator&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lgbouma.com/apps/spherex_irx/&#34;&gt;SPHEREx IR excess simulator&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;⚠️  ⚠️  ⚠️  ⚠️  ⚠️  ⚠️&lt;/p&gt;&#xA;&lt;p&gt;last updated 2025/09/29&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://lgbouma.com/tars_viz/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://lgbouma.com/tars_viz/</guid>
+				<description>&lt;h3 id=&#34;tess-all-sky-rotation-survey-interactive-visuals&#34;&gt;TESS All-Sky Rotation Survey Interactive Visuals&lt;/h3&gt;&#xA;&lt;p&gt;In &lt;a href=&#34;http://arxiv.org/abs/2603.05586&#34;&gt;Boyle, Bouma &amp;amp; Mann (2026)&lt;/a&gt; we used TESS&#xA;images from 2018-2025 to search for photometric rotation periods of stars&#xA;within 500 pc.&lt;/p&gt;&#xA;&lt;p&gt;This work yielded catalogs of 944,056 stars with detected periods, as well as&#xA;light curves for 7,481,412 stars in the parent sample (&lt;em&gt;d&lt;/em&gt;&amp;lt;500pc, &lt;em&gt;T&lt;/em&gt;&amp;lt;16).&#xA;Each star was observed by TESS for a median of four sectors, and so the&#xA;latter dataset includes 39,061,674 sector-level light curves.  We packaged each&#xA;light curve with a vetting plot to enable manual inspection.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
