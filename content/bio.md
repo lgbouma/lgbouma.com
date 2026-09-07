@@ -19,7 +19,7 @@ climbing, and exploring the outdoors.
 
 ![river](/images/riv.jpg)
 
-[comment]: <> (![itme](/images/lgb_0.jpg))
+<!-- ![itme](/images/lgb_0.jpg) -->
 
-[comment]: <> (![rockclimbing](/images/IMG_2347.jpg))
-[comment]: <> (![rockclimbing](/images/rock_cropped.png))
+<!-- ![rockclimbing](/images/IMG_2347.jpg) -->
+<!-- ![rockclimbing](/images/rock_cropped.png) -->

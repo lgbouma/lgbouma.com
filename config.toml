@@ -99,6 +99,10 @@ pygmentsStyle = "vs"
   # Date format (default: Jan 2, 2006)
   # datefmt  = "Jan 2, 2006"
 
+  # Browser tab / search-result titles, used by layouts/partials/head.html
+  authorName  = "Luke Bouma"
+  affiliation = "Caltech/IPAC"
+
 
 [markup]
   [markup.goldmark]

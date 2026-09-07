@@ -20,22 +20,47 @@
     })();
   </script>
 
-  <title>Luke Bouma | Carnegie Science</title>
+  {{/* Page title: "<name> | <affiliation>" on the home page, "<page> | <name>"
+       elsewhere.  Most content files have no front matter, so fall back to the
+       filename when .Title is empty.  Strings live in config.toml [params]. */}}
+  {{- $name := default "Luke Bouma" .Site.Params.authorName -}}
+  {{- $affiliation := default "Caltech/IPAC" .Site.Params.affiliation -}}
+  {{- $pageTitle := "" -}}
+  {{- if or (eq .Kind "404") (eq .RelPermalink "/404.html") -}}
+    {{- $pageTitle = "Page not found" -}}
+  {{- else if .Title -}}
+    {{- $pageTitle = .Title -}}
+  {{- else -}}
+    {{- with .File -}}
+      {{- $pageTitle = replaceRE "[-_]+" " " .BaseFileName -}}
+    {{- end -}}
+  {{- end -}}
+  <title>
+    {{- if or .IsHome (not $pageTitle) -}}
+      {{ $name }} | {{ $affiliation }}
+    {{- else -}}
+      {{ $pageTitle }} | {{ $name }}
+    {{- end -}}
+  </title>
 
   {{ $styles := resources.Get "css/style.css" | minify -}}
   <style>
     {{- $styles.Content | safeCSS -}}
   </style>
 
-  {{- if .RSSLink }}
+  {{/* .RSSLink was removed from Hugo; .OutputFormats is the current idiom. */}}
+  {{- with .OutputFormats.Get "rss" }}
   <link
-    href="{{ .RSSLink }}"
+    href="{{ .RelPermalink }}"
     rel="alternate"
     type="application/rss+xml"
-    title="{{ .Site.Title }}"
+    title="{{ $.Site.Title }}"
   />
   {{- end }}
 
-  {{ template "_internal/google_analytics_async.html" . }}
+  {{/* Hugo removed the _internal/google_analytics_async.html template.  The
+       googleAnalytics key is commented out in config.toml, so this emitted
+       nothing; to re-enable, set that key and use the current internal
+       template: {{ template "_internal/google_analytics.html" . }} */}}
   {{ partial "head_custom" . }}
 </head>

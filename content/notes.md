@@ -1,11 +1,17 @@
-#### Breaking News
+### Latest
+
+_2026.08.30_.  The Roman Space Telescope has launched!
+
+---
+#### Rotation Periods Across The Sky!
 
 _2026.03.05_.
 The TESS All Sky Rotation Survey (TARS), led by [Andy
 Boyle](https://awboyle.com), is out!  This work leverages TESS images from
 2018-2025 to search for photometric rotation periods of stars within 500 pc.
-Check out [the paper](http://arxiv.org/abs/2603.05586) and the [data
-viz](https://lgbouma.com/tars_viz/) webpage!
+Check out [the
+paper](https://ui.adsabs.harvard.edu/abs/2026ApJS..284...75B/abstract) and the
+[data viz](https://lgbouma.com/tars_viz/) webpage.
 
 ---
 
@@ -34,11 +40,8 @@ _2022.02.19_.
 I've posted new CDIPS planet candidates to
 [ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/), based on the second year
 of TESS images (Sectors 14 to 26).  You can find them at the CTOI table.  The
-light curves are staged (and in holding) at MAST.  Relevant documentation is
-below.  Since it can be somewhat difficult to pull everything off ExoFOP, [this
-dropbox
-folder](https://www.dropbox.com/sh/iwb2t60khp32d8b/AAAFIdQyKyAnJoJAtTeI5tk4a?dl=0)
-is an alternative way to download everything from one place.
+light curves are available at MAST.  Relevant documentation
+below.
 
 _2020.03.04_.
 The CDIPS planet-finding vetting reports based on the first year of TESS images

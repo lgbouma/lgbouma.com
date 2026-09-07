@@ -17,5 +17,9 @@ and push changes using the `autodeploy.sh` script.
 
 Some custom html shortcodes include embedding audio and expanding text tabs.
 
-The only slightly manual html edit at moment is the tab text title block
-at /layouts/partials/head.html.
+Tab text / search-result titles are built in
+/themes/simple-hugo-theme/layouts/partials/head.html from the `authorName` and
+`affiliation` params in config.toml.  The home page reads
+"<authorName> | <affiliation>"; other pages read "<page> | <authorName>", where
+`<page>` comes from the front-matter title, or from the filename when a content
+file has no front matter.
