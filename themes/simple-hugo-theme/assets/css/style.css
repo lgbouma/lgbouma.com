@@ -1,17 +1,60 @@
 /* Main body text */
 :root {
-  /* light mode: white background, black text */
-  --bg:   255 255 255;
-  --text: 0 0 0;
-  --link:       #1f77b4;
-  --link-hover: #dcecf7;
+  /* light mode: warm paper, warm ink */
+  --bg:   250 244 234;
+  --text: 40 33 25;
+  --link:       #a25a22;
+  --link-hover: rgba(162,90,34,0.13);
 }
 html.dark {
-  /* dark mode: black background, white text */
-  --bg:   0 0 0;
-  --text: 255 255 255;
-  --link:       #5bc0de;                    /* lighter cyan-blue */
-  --link-hover: rgba(91,192,222,0.2);       /* subtle hover in dark */
+  /* dark mode: warm near-black, warm off-white */
+  --bg:   16 15 18;
+  --text: 233 226 216;
+  --link:       #dfa270;
+  --link-hover: rgba(223,162,112,0.16);
+}
+
+/* Nebula Field background.
+
+   Two viewport-fixed layers sit behind everything: ::before carries four
+   very faint colour clouds, ::after a film grain.  They are fixed rather
+   than absolute so they cover the whole window -- body is only 600px wide.
+   z-index -1 puts them above the propagated body background and below the
+   text.  Within each gradient the first listed layer paints on top.
+
+   The clouds are deliberately weak (alpha 0.06-0.11).  If you want more or
+   less of them, scale every alpha by the same factor rather than adjusting
+   them individually -- they are balanced against each other. */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+
+body::before {
+  background-image:
+    radial-gradient(46.0% 36.8% at 78% 88%,  rgba(232,186,116,0.070), rgba(232,186,116,0) 68%),
+    radial-gradient(75.9% 48.3% at 46% 104%, rgba(96,164,170,0.070),  rgba(96,164,170,0)  70%),
+    radial-gradient(62.1% 55.2% at 94% 38%,  rgba(212,116,124,0.075), rgba(212,116,124,0) 66%),
+    radial-gradient(69.0% 52.9% at 8% 16%,   rgba(224,146,74,0.100),  rgba(224,146,74,0)  66%);
+}
+
+html.dark body::before {
+  background-image:
+    radial-gradient(46.0% 36.8% at 78% 88%,  rgba(226,168,92,0.060), rgba(226,168,92,0) 68%),
+    radial-gradient(75.9% 48.3% at 46% 104%, rgba(58,138,146,0.090), rgba(58,138,146,0) 70%),
+    radial-gradient(62.1% 55.2% at 94% 38%,  rgba(190,80,92,0.090),  rgba(190,80,92,0)  66%),
+    radial-gradient(69.0% 52.9% at 8% 16%,   rgba(214,126,58,0.110), rgba(214,126,58,0)  66%);
+}
+
+/* Film grain: a tiled fractal-noise tile, held at 4% so it reads as texture
+   rather than as dirt.  Raise the opacity, not the tile's baseFrequency. */
+body::after {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  opacity: 0.04;
 }
 
 #theme-toggle {
